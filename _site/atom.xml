@@ -4,7 +4,7 @@
  <title>Unchart</title>
  <link href="http://unchart.com/atom.xml" rel="self"/>
  <link href="http://unchart.com/"/>
- <updated>2014-06-24T23:10:11-07:00</updated>
+ <updated>2014-06-24T23:15:23-07:00</updated>
  <id>http://unchart.com</id>
  <author>
    <name>Jonathan Ploudre</name>
@@ -3598,8 +3598,7 @@ The &lt;strong&gt;‘I’m Done’ button&lt;/strong&gt; (Win-Spacebar) quickly 
   &lt;li&gt;Why change isn’t a technical problem (really a sociopolitical process)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;[]()
-&lt;a href=&quot;/files/2011/01/Data-Driven-Practice-NEUC.pdf&quot; title=&quot;Data Driven Practice&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Data Driven Practice (article)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/01/Data-Driven-Practice-NEUC.pdf&quot; title=&quot;Data Driven Practice&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Data Driven Practice (article)&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Here’s a 2 minute video that shows how to do a custom report from scratch. (If you have trouble opening the video, consider getting &lt;a href=&quot;http://www.videolan.org/&quot;&gt;VLC&lt;/a&gt; to play it.) This report shows how to find all the patients in the practice on 80mg of Simvastatin (Zocor) so you could respond to an FDA announcement.&lt;/p&gt;
 
