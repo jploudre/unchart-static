@@ -35,7 +35,6 @@ Direct ROI
 
 (**ROI 1.5 years**. More or less depending on how much time it actually saves. I think 30 seconds is low)
 
-
 Indirect ROI
 ------------
 

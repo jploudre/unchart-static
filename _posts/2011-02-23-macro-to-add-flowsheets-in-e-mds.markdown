@@ -66,4 +66,3 @@ Here's the source code, and you'd need a file with account numbers (that'd be a 
     sleep, 1000
     }
 
-

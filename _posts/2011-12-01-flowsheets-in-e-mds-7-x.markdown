@@ -14,8 +14,6 @@ tags:
 
 A quick presentation to show how flowsheets work for my partners.
 
-
-
 **[Flowsheets in e-MDs](http://www.slideshare.net/jploudre/flowsheets-in-emds)**
 
 View more [presentations](http://www.slideshare.net/) from [Jonathan Ploudre](http://www.slideshare.net/jploudre).

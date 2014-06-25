@@ -15,8 +15,6 @@ tags:
 
 There are too many forms in life that seem to be written by lawyers.  Here's Alan Siegel's 5 minute video on simplifying jargon.
 
-
-
 ------------
  
 

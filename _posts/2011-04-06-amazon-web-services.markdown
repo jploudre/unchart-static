@@ -27,4 +27,3 @@ Surprisingly, this inexpensive virtual server outperforms e-MD's official server
 
 [Full Server Testing Details (4.5.2011)](/files/2011/04/server-testing-4.5.2011.txt)
 
-

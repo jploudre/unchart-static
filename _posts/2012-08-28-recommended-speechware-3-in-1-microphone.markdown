@@ -37,5 +37,4 @@ Now Dragon 12  is out with better accuracy. I'm using some of my Meaningful Use 
 
 I'd recommend the Speechware TableMike for Docs using Dragon daily. 
 
-
  

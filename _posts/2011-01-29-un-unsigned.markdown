@@ -22,8 +22,6 @@ Much e-MDs is focused on visits to the doctor. (Chart, Bill, Schedule). But it a
 
 In the standard e-MDs report, there are many documents that may never need to be signed off (administrative forms, etc.) And it's a serious drain on your energy to open up each person's  account so you can find the document to sign off. On my **Un-Unsigned**, there's a custom crystal report (which may need to be customized for your practice). In our practice, the report eliminates many faxes and financial forms, for example.
 
-
-
 #### Installing Un-Unsigned
 
 There are multi-step instructions included in the zip. Directions assume familiarity with e-MDs and some of the technical bits. 

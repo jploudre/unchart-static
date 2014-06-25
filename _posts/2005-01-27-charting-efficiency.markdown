@@ -28,7 +28,6 @@ Every physician does this to some extent. But there's a tradeoff. Quicker charti
 
 ###Electronic Medical Chart Efficiency
 
-
 Electronic Medical Charts can be much quicker looking up material. When you can resort labs to find a TSH from 2 years ago that can be quicker than flipping through all the old labs of a paper chart. On the other hand, electronic charts can take a lot more time on the front end. Typing a blood pressure into the blood pressure field takes longer than scrawling it onto a sticky note. What if you have to log in to record that blood pressure. There goes more time.
 
 Let's run the numbers:

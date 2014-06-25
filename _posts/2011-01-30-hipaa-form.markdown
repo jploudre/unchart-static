@@ -19,6 +19,3 @@ Here's our HIPPA form.  Re-worked for readability and simplicity.
 
 [![](/files/2011/01/57-download.png) HIPPA Form.doc](/files/2011/01/hippa-form-2.0.doc)
 
-
-
-

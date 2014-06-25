@@ -36,4 +36,3 @@ I love reports that are 'implemented'. Download if you might actually have your 
 
 [![](/files/2011/01/57-download.png) Insurance Invoice Status Report](/files/2011/08/Insurance-Invoice-Status-Report.zip)
 
-

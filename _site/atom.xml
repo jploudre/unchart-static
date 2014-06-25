@@ -4,7 +4,7 @@
  <title>Unchart</title>
  <link href="http://unchart.com/atom.xml" rel="self"/>
  <link href="http://unchart.com/"/>
- <updated>2014-06-24T23:06:32-07:00</updated>
+ <updated>2014-06-24T23:10:11-07:00</updated>
  <id>http://unchart.com</id>
  <author>
    <name>Jonathan Ploudre</name>
@@ -21,7 +21,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/files/2013/01/Screen-Shot-2013-01-29-at-6.36.59-PM-300x69.png&quot; alt=&quot;&quot; /&gt; &lt;/p&gt;
 
-&lt;p&gt;The top 4 browsers were IE, Chrome, Firefox and Safari. In that order. I find that interesting because for several years I have complained to e-MDs that Portal doesn’t layout appropriately in Modern Browsers. Less than half of my visitors use Internet Explorer. &lt;a href=&quot;http://unchart.com/2012/encourage-e-mds-to-fix-portal-usability/&quot;&gt;That campaign to convince e-MDs to fix portal usability&lt;/a&gt; was probably the first time SupportCenter had been used systematically to raise awareness with e-MDs. Interesting coincidence, a couple weeks later, the exact fix that I had recommended went out to Portal.&lt;/p&gt;
+&lt;p&gt;The top 4 browsers were IE, Chrome, Firefox and Safari. In that order. I find that interesting because for several years I have complained to e-MDs that Portal doesn’t layout appropriately in Modern Browsers. Less than half of my visitors use Internet Explorer. &lt;a href=&quot;/2012/encourage-e-mds-to-fix-portal-usability/&quot;&gt;That campaign to convince e-MDs to fix portal usability&lt;/a&gt; was probably the first time SupportCenter had been used systematically to raise awareness with e-MDs. Interesting coincidence, a couple weeks later, the exact fix that I had recommended went out to Portal.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/files/2013/01/Screen-Shot-2013-01-29-at-6.41.45-PM.png&quot;&gt;&lt;img src=&quot;/files/2013/01/Screen-Shot-2013-01-29-at-6.41.45-PM-300x245.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;/p&gt;
 
@@ -34,10 +34,10 @@
 &lt;p&gt;My top posts: &lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://unchart.com/unchart-visit-summary/&quot;&gt;Unchart Visit Summary&lt;/a&gt;. (Which now has about 3500 uses/week!) &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://unchart.com/2012/stage-2-proposed-guidelines/&quot;&gt;Stage 2 Proposed Guidelines&lt;/a&gt; (the spike of traffic, handout was downloaded ~800 times) &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://unchart.com/2011/e-mds-macros/&quot;&gt;e-MDs Macros&lt;/a&gt; (My tool for making daily work faster) &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://unchart.com/2011/where-to-start-with-macros-and-e-mds/&quot;&gt;Where to Start with macros and e-MDs&lt;/a&gt;. &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/unchart-visit-summary/&quot;&gt;Unchart Visit Summary&lt;/a&gt;. (Which now has about 3500 uses/week!) &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2012/stage-2-proposed-guidelines/&quot;&gt;Stage 2 Proposed Guidelines&lt;/a&gt; (the spike of traffic, handout was downloaded ~800 times) &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2011/e-mds-macros/&quot;&gt;e-MDs Macros&lt;/a&gt; (My tool for making daily work faster) &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2011/where-to-start-with-macros-and-e-mds/&quot;&gt;Where to Start with macros and e-MDs&lt;/a&gt;. &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;I spent some time optimizing the site. I like speed. A typical page loads in 2.5 seconds. Hopefully that makes browsing more enjoyable for people. 95% of visit are straight browsing (not using search.)&lt;/p&gt;
@@ -261,7 +261,7 @@
    <link href="http://unchart.com//2012/fitting-the-welchallyn-spot-vitals-into-e-mds/"/>
    <updated>2012-09-07T10:14:38-07:00</updated>
    <id>http://unchart.com/2012/fitting-the-welchallyn-spot-vitals-into-e-mds</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/08/450x0-E1-2-150x150.jpg&quot; alt=&quot;&quot; /&gt; After I attested for 2011 Meaningful Use, my group decided to have the doc decide on some of the ‘re-investments’ in our practice. The second thing I got was the WelchAllyn SpotVitals Lxi. (Bigger monitors for reception was first.) I had been interested in this for at least a couple years. A while back, I posted a &lt;a href=&quot;http://unchart.com/2012/welchallyn-spotvitals-lxi/&quot;&gt;video on using the SpotVitals&lt;/a&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/08/450x0-E1-2-150x150.jpg&quot; alt=&quot;&quot; /&gt; After I attested for 2011 Meaningful Use, my group decided to have the doc decide on some of the ‘re-investments’ in our practice. The second thing I got was the WelchAllyn SpotVitals Lxi. (Bigger monitors for reception was first.) I had been interested in this for at least a couple years. A while back, I posted a &lt;a href=&quot;/2012/welchallyn-spotvitals-lxi/&quot;&gt;video on using the SpotVitals&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Automated vitals addresses a few different issues for my practice:&lt;/p&gt;
 
@@ -276,7 +276,7 @@
 
 &lt;p&gt;So, sweet, right?&lt;/p&gt;
 
-&lt;p&gt;Unfortunately, reality hasn’t quite worked that way. The SpotVitals is expensive so you don’t just order one per nurse. We got our first one (without O2 Sat) for about $1700. It’s an extra $1300 to add O2 Sat. WelchAllyn’s milking this, if you ask me. The price is off by an order of magnitude. This is the &lt;a href=&quot;http://unchart.com/2011/ambulatory-blood-pressure-monitor-wheres-innovation/&quot;&gt;same problem with Welch-Allyn’s Ambulatory Blood Pressure Monitor.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Unfortunately, reality hasn’t quite worked that way. The SpotVitals is expensive so you don’t just order one per nurse. We got our first one (without O2 Sat) for about $1700. It’s an extra $1300 to add O2 Sat. WelchAllyn’s milking this, if you ask me. The price is off by an order of magnitude. This is the &lt;a href=&quot;/2011/ambulatory-blood-pressure-monitor-wheres-innovation/&quot;&gt;same problem with Welch-Allyn’s Ambulatory Blood Pressure Monitor.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;e-MDs has an interface – that’s why we bought this specific mdoel. &lt;em&gt;It’s supported.&lt;/em&gt; But it’s not really. The interface is a hack outside of e-MDs.It adds enough friction to eliminate the usefulness. The process is: Open Interface, Find Pt, Get Vitals, Close Interface, Open e-MDs, Find Pt, Drop in vitals. If the interface was within e-MDs you could cut the number of steps in half. And although documentation says the interface also works with compatible scales, it’s been broken for a few years according several users. (Thanks Keith for saving me money on a wasted scale!)&lt;/p&gt;
 
@@ -287,7 +287,7 @@
 
 &lt;p&gt;Since the interface doesn’t work for efficient workflow, I’m building a new ‘pseudo-interface’. This will pop up from within a patient’s chart in e-MDs. I’m working with my staff to figure out the best place to put this. I’m trying a couple different things to make this work. First, much larger font-size so they can see typos better. The left side of this maps to where the vitals are on the machine. (Faster for staff, less cognitive-load so less error prone.) Tabbing through fields works in the order that they work (Again, faster). The results will be put into e-MDs where there’s full details – for example, which arm for the blood pressure. So we simplify input for reliability. &lt;/p&gt;
 
-&lt;p&gt;If you’d like to help test this,  &lt;a href=&quot;http://unchart.com/about/&quot;&gt;you can drop me an e-mail&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you’d like to help test this,  &lt;a href=&quot;/about/&quot;&gt;you can drop me an e-mail&lt;/a&gt;.&lt;/p&gt;
 
 </content>
  </entry>
@@ -392,7 +392,7 @@
 
 &lt;p&gt;So I’m looking for things that make our care cheaper or better (or both) and are not foolish. &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;First Plan:&lt;/strong&gt; &lt;a href=&quot;http://unchart.com/2012/welchallyn-spotvitals-lxi/&quot;&gt;WelchAllyn Spot Vitals LXi&lt;/a&gt; helps making rooming faster (that’s cheaper via less time) and has the potential to reduce variability of readings (that’s better) and our clinic has about 4000 visits a month (so it’ll be really used. Practical!) There have been some questions about reliability of readings at Mid-State Health but I’ve got to try one.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;First Plan:&lt;/strong&gt; &lt;a href=&quot;/2012/welchallyn-spotvitals-lxi/&quot;&gt;WelchAllyn Spot Vitals LXi&lt;/a&gt; helps making rooming faster (that’s cheaper via less time) and has the potential to reduce variability of readings (that’s better) and our clinic has about 4000 visits a month (so it’ll be really used. Practical!) There have been some questions about reliability of readings at Mid-State Health but I’ve got to try one.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Second Plan:&lt;/strong&gt; Bigger Monitors for our Receptionists (&lt;a href=&quot;http://accessories.us.dell.com/sna/productdetail.aspx?c=us&amp;l;=en&amp;s;=bsd&amp;cs;=04&amp;sku;=320-2943&amp;amp;~ck=baynoteSearch&amp;baynote;_bnrank=3&amp;baynote;_irrank=0&quot;&gt;23 inch Dell Monitors for $180&lt;/a&gt;). By seeing more allows receptionists to work slightly faster. (Cheaper Checkins). Screens are more energy
 efficience (cheaper). Larger screen will allow showing multiple schedules. More monitor space will be nice for morale, too. Not Foolish: These will be used continuously.&lt;/p&gt;
@@ -435,9 +435,9 @@ efficience (cheaper). Larger screen will allow showing multiple schedules. More 
 
 &lt;p&gt;&lt;img src=&quot;/files/2012/05/311131.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Bill creates awesome flat file reports. This is just begging for some simple list work in  Excel (See my &lt;a href=&quot;http://unchart.com/2011/data-driven-practice/&quot;&gt;Data-Driven Practice&lt;/a&gt; page). &lt;/p&gt;
+&lt;p&gt;Bill creates awesome flat file reports. This is just begging for some simple list work in  Excel (See my &lt;a href=&quot;/2011/data-driven-practice/&quot;&gt;Data-Driven Practice&lt;/a&gt; page). &lt;/p&gt;
 
-&lt;p&gt;In my practice we didn’t fully realize how expiration dates worked. We used 1 year later – now patients portal is expiring. We need to change the date to a later one. I think we’re going to use a macro to loop through and update expiration dates. It’ll be the &lt;a href=&quot;http://unchart.com/2011/macro-to-add-flowsheets-in-e-mds/&quot;&gt;same technique I used to add preventive flowsheet&lt;/a&gt; by looping through a list of accounts.&lt;/p&gt;
+&lt;p&gt;In my practice we didn’t fully realize how expiration dates worked. We used 1 year later – now patients portal is expiring. We need to change the date to a later one. I think we’re going to use a macro to loop through and update expiration dates. It’ll be the &lt;a href=&quot;/2011/macro-to-add-flowsheets-in-e-mds/&quot;&gt;same technique I used to add preventive flowsheet&lt;/a&gt; by looping through a list of accounts.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/files/2012/05/Portal-Patients-with-email-and-expiration.rpt_.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Portal Patients (with email and expiration dates)&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -485,11 +485,11 @@ efficience (cheaper). Larger screen will allow showing multiple schedules. More 
 
 &lt;p&gt;The original visit summary disengages a patient in her care. It sets up barriers like 3/4 of a page of junk before the actual content begins.&lt;/p&gt;
 
-&lt;p&gt;So that night as a proof of concept, I &lt;a href=&quot;http://unchart.com/2011/visit-summary-cleanup-1-0/&quot;&gt;cleaned up the Visit Summary&lt;/a&gt;. I started using this for my own personal summaries by redirecting e-MDs stylesheet to my own. &lt;/p&gt;
+&lt;p&gt;So that night as a proof of concept, I &lt;a href=&quot;/2011/visit-summary-cleanup-1-0/&quot;&gt;cleaned up the Visit Summary&lt;/a&gt;. I started using this for my own personal summaries by redirecting e-MDs stylesheet to my own. &lt;/p&gt;
 
-&lt;p&gt;If I wanted to share this with other people, I had to set up a webserver. So a month later I set up my &lt;a href=&quot;http://unchart.com/unchart-visit-summary/&quot;&gt;Unchart Visit Summary&lt;/a&gt;. Initially I required payments to get the installation instructions. Mostly because I didn’t want to start doing a bunch of tech support. Much to my surprise, some people actually paid me. After a few months, I had gotten enough help to pay my server costs that I made donation optional.&lt;/p&gt;
+&lt;p&gt;If I wanted to share this with other people, I had to set up a webserver. So a month later I set up my &lt;a href=&quot;/unchart-visit-summary/&quot;&gt;Unchart Visit Summary&lt;/a&gt;. Initially I required payments to get the installation instructions. Mostly because I didn’t want to start doing a bunch of tech support. Much to my surprise, some people actually paid me. After a few months, I had gotten enough help to pay my server costs that I made donation optional.&lt;/p&gt;
 
-&lt;p&gt;After one of my brief downtimes, I also set up directions for &lt;a href=&quot;http://unchart.com/2011/visit-summary-self-hosting/&quot;&gt;self-hosting the summary&lt;/a&gt; for people who didn’t want to rely on a server they didn’t control. Over the last year I got 99% uptime. Which is kinda lousy but I learned a lot. I’ve now got a 15 step server upgrade process. And I’ve accumulated several testing procedures to limit errors. I think I may get 99.95% this year.&lt;/p&gt;
+&lt;p&gt;After one of my brief downtimes, I also set up directions for &lt;a href=&quot;/2011/visit-summary-self-hosting/&quot;&gt;self-hosting the summary&lt;/a&gt; for people who didn’t want to rely on a server they didn’t control. Over the last year I got 99% uptime. Which is kinda lousy but I learned a lot. I’ve now got a 15 step server upgrade process. And I’ve accumulated several testing procedures to limit errors. I think I may get 99.95% this year.&lt;/p&gt;
 
 &lt;p&gt;So now that I’ve finished my adjustments for 7.2.1 (and e-MDs has made a redesign of their initial summary), where are we at?&lt;/p&gt;
 
@@ -529,7 +529,7 @@ efficience (cheaper). Larger screen will allow showing multiple schedules. More 
    <link href="http://unchart.com//2012/using-e-mail-to-increase-panel-size/"/>
    <updated>2012-04-16T22:43:21-07:00</updated>
    <id>http://unchart.com/2012/using-e-mail-to-increase-panel-size</id>
-   <content type="html">&lt;p&gt;After doing some practice innovations (&lt;a href=&quot;http://unchart.com/2012/group-visit-invitation/&quot;&gt;group visits are restarting&lt;/a&gt;, I’m &lt;a href=&quot;http://unchart.com/?s=abpm&quot;&gt;undiagnosing patients from hypertension treatment with my ABPM&lt;/a&gt;) I may have some availability in my practice without affecting my &lt;a href=&quot;http://unchart.com/2011/continuity-report/&quot;&gt;continuity&lt;/a&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;After doing some practice innovations (&lt;a href=&quot;/2012/group-visit-invitation/&quot;&gt;group visits are restarting&lt;/a&gt;, I’m &lt;a href=&quot;/?s=abpm&quot;&gt;undiagnosing patients from hypertension treatment with my ABPM&lt;/a&gt;) I may have some availability in my practice without affecting my &lt;a href=&quot;/2011/continuity-report/&quot;&gt;continuity&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;That means I can potentially increase my panel size a bit and still provide similar care.&lt;/p&gt;
 
@@ -575,7 +575,7 @@ efficience (cheaper). Larger screen will allow showing multiple schedules. More 
 
 &lt;h2 id=&quot;my-campaign-design&quot;&gt;My Campaign Design&lt;/h2&gt;
 
-&lt;p&gt;I wanted this email to be personal (vs. corporate) so I included a picture of me with one of my daughters. I aimed the ‘voice’ as being from me, not my clinic. I also wrote the text for simplicity (&lt;a href=&quot;http://unchart.com/?s=readability&quot;&gt;low reading level is a theme on unchart&lt;/a&gt;….)  It looks partly like this:&lt;/p&gt;
+&lt;p&gt;I wanted this email to be personal (vs. corporate) so I included a picture of me with one of my daughters. I aimed the ‘voice’ as being from me, not my clinic. I also wrote the text for simplicity (&lt;a href=&quot;/?s=readability&quot;&gt;low reading level is a theme on unchart&lt;/a&gt;….)  It looks partly like this:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/files/2012/04/Screen-Shot-2012-04-16-at-10.27.46-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -640,7 +640,7 @@ that….)&lt;/p&gt;
    <id>http://unchart.com/2012/practice-improvement-3-2012-podcast</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2012/03/practice-improvement-podcast.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Thanks to everyone who participated. I &lt;a href=&quot;http://unchart.com/2012/lessons-from-hosting-my-first-webex/&quot;&gt;learned a lot&lt;/a&gt; about hosting a webex. The more I edited myself out of the podcast, the bettter it gets.&lt;/p&gt;
+&lt;p&gt;Thanks to everyone who participated. I &lt;a href=&quot;/2012/lessons-from-hosting-my-first-webex/&quot;&gt;learned a lot&lt;/a&gt; about hosting a webex. The more I edited myself out of the podcast, the bettter it gets.&lt;/p&gt;
 
 &lt;p&gt;Load in iTunes:&lt;/p&gt;
 
@@ -746,7 +746,7 @@ DM Group Visit Invite&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please, Medicare, stop the madness!&lt;/p&gt;
 
-&lt;p&gt;Sara Evans rightly recognized this as a reporting problem. My clinic did not. So near the end of the year, we had to post orange signs to remind all the docs at our clinic to remember to do the extra click on Medicare patients if we did an electronic prescription. This &lt;a href=&quot;http://unchart.com/2011/deskilling/&quot;&gt;deskills&lt;/a&gt; us and distracts us from doctoring. In our case where we can prove we e-prescribe, there’s literally no benefit to offset deskilling.&lt;/p&gt;
+&lt;p&gt;Sara Evans rightly recognized this as a reporting problem. My clinic did not. So near the end of the year, we had to post orange signs to remind all the docs at our clinic to remember to do the extra click on Medicare patients if we did an electronic prescription. This &lt;a href=&quot;/2011/deskilling/&quot;&gt;deskills&lt;/a&gt; us and distracts us from doctoring. In our case where we can prove we e-prescribe, there’s literally no benefit to offset deskilling.&lt;/p&gt;
 
 &lt;p&gt;Sara’s report allows the code to be added by the biller when posting to medicare. Fewer people doing the code makes it less error prone than what my clinic did last year. I took her report (a more complete listing of all prescriptions, method of sending, etc) and simplified it. I think my changes work (it results the same as when I hard-coded our doctors into Sara’s report.) &lt;strong&gt;But you need to validate that this report is accurate for your practice.&lt;/strong&gt; &lt;/p&gt;
 
@@ -776,7 +776,7 @@ DM Group Visit Invite&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;It generates a nice flat file list of appointments that you can select by date. Includes check in time, date, check out time, and optionally who did the check in. &lt;/p&gt;
 
-&lt;p&gt;I love ‘flat file’ reports like this – it allows you to do your own analysis in an easier tool like Excel (See my &lt;a href=&quot;http://unchart.com/2011/data-driven-practice/&quot;&gt;Data-Driven Practice&lt;/a&gt; page) With just a few extra columns and a pivot table, I could answer questions like: Are Monday Appointments longer? Do my receptionists share check-in equally?&lt;/p&gt;
+&lt;p&gt;I love ‘flat file’ reports like this – it allows you to do your own analysis in an easier tool like Excel (See my &lt;a href=&quot;/2011/data-driven-practice/&quot;&gt;Data-Driven Practice&lt;/a&gt; page) With just a few extra columns and a pivot table, I could answer questions like: Are Monday Appointments longer? Do my receptionists share check-in equally?&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/files/2012/03/Checked-in-by-Date-Range.zip&quot;&gt;&lt;img src=&quot;/files/2012/03/Screen-Shot-2012-03-10-at-9.09.53-AM.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 &lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Checked in by Date Range&lt;/a&gt;&lt;/p&gt;
@@ -1195,7 +1195,7 @@ Coumadin Packet&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Portal has a usability bug that affects a lot of patients (anyone using Google Chrome, Safari, iPhone, iPad, Android Phones, RIM Phones, Kindle Fires, etc.) &lt;/p&gt;
 
-&lt;p&gt;Read about the &lt;a href=&quot;http://unchart.com/2012/portal-layout-bug/&quot;&gt;Portal Usability Bug&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Read about the &lt;a href=&quot;/2012/portal-layout-bug/&quot;&gt;Portal Usability Bug&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Here’s how to spread the word.&lt;/p&gt;
 
@@ -1277,7 +1277,7 @@ reorganize the css&lt;/a&gt; rather than just hack the number like I mention abo
 
 &lt;p&gt;Without doing a complete portal design, a web developer could fix all the Portal Layout Bugs in a couple hours. I’d fix it myself, but I don’t have access to the templates for portal. And I’m sure e-MDs isn’t going to ask me. :-)&lt;/p&gt;
 
-&lt;p&gt;(Keep Reading: &lt;a href=&quot;http://unchart.com/2012/encourage-e-mds-to-fix-portal-usability/&quot;&gt;Let’s Encourage e-MDs to Fix Usability for Patients on Portal&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;(Keep Reading: &lt;a href=&quot;/2012/encourage-e-mds-to-fix-portal-usability/&quot;&gt;Let’s Encourage e-MDs to Fix Usability for Patients on Portal&lt;/a&gt;)&lt;/p&gt;
 </content>
  </entry>
  
@@ -1286,7 +1286,7 @@ reorganize the css&lt;/a&gt; rather than just hack the number like I mention abo
    <link href="http://unchart.com//2012/e-mds-portal-auto-messages/"/>
    <updated>2012-01-07T22:10:45-08:00</updated>
    <id>http://unchart.com/2012/e-mds-portal-auto-messages</id>
-   <content type="html">&lt;p&gt;One of the setup tasks for portal is to create some standard messages – disclaimers, warnings, and the like.  I had forgotten that it  was one of the things I ‘ran through my readability program’ I’ve been re-writing clinic paperwork for a while. My all time fav: &lt;a href=&quot;http://unchart.com/2011/hipaa-form/&quot;&gt;the HIPAA form&lt;/a&gt; – unrecognizable compared to the previous version. I also have a &lt;a href=&quot;http://unchart.com/2011/patient-portal-form/&quot;&gt;Patient Portal Signup Form&lt;/a&gt;. Until a couple months ago my office manager thought that I had an app that did simplification. Nope, I just edit/re-edit/reword until it’s shorter, simpler and clearer.&lt;/p&gt;
+   <content type="html">&lt;p&gt;One of the setup tasks for portal is to create some standard messages – disclaimers, warnings, and the like.  I had forgotten that it  was one of the things I ‘ran through my readability program’ I’ve been re-writing clinic paperwork for a while. My all time fav: &lt;a href=&quot;/2011/hipaa-form/&quot;&gt;the HIPAA form&lt;/a&gt; – unrecognizable compared to the previous version. I also have a &lt;a href=&quot;/2011/patient-portal-form/&quot;&gt;Patient Portal Signup Form&lt;/a&gt;. Until a couple months ago my office manager thought that I had an app that did simplification. Nope, I just edit/re-edit/reword until it’s shorter, simpler and clearer.&lt;/p&gt;
 
 &lt;p&gt;Here’s what we came up for portal auto-messages:&lt;/p&gt;
 
@@ -1494,7 +1494,7 @@ reorganize the css&lt;/a&gt; rather than just hack the number like I mention abo
    <link href="http://unchart.com//2011/where-to-start-with-macros-and-e-mds/"/>
    <updated>2011-10-18T21:40:47-07:00</updated>
    <id>http://unchart.com/2011/where-to-start-with-macros-and-e-mds</id>
-   <content type="html">&lt;p&gt;Ah, too many clicks. Macros are one of my loves the last few years. Reduce a single thought into a single physical action. It’s not that I can’t click 5 times to do one thing. &lt;em&gt;Actually, I’m pretty good at clicking&lt;/em&gt;. As I’ve mentioned in my &lt;a href=&quot;http://unchart.com/2011/deskilling/&quot;&gt;article about becoming my patient’s data entry technician&lt;/a&gt;, I’ve got limited attention bandwidth. Clicking requires too much focus. I practice EHR all the time; I should be able to play it like a piano. I need a single thought to be a single frictionless action.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Ah, too many clicks. Macros are one of my loves the last few years. Reduce a single thought into a single physical action. It’s not that I can’t click 5 times to do one thing. &lt;em&gt;Actually, I’m pretty good at clicking&lt;/em&gt;. As I’ve mentioned in my &lt;a href=&quot;/2011/deskilling/&quot;&gt;article about becoming my patient’s data entry technician&lt;/a&gt;, I’ve got limited attention bandwidth. Clicking requires too much focus. I practice EHR all the time; I should be able to play it like a piano. I need a single thought to be a single frictionless action.&lt;/p&gt;
 
 &lt;h2 id=&quot;macros-lubricate-your-life-as-a-doctor&quot;&gt;Macros lubricate your life as a doctor&lt;/h2&gt;
 
@@ -1502,9 +1502,9 @@ reorganize the css&lt;/a&gt; rather than just hack the number like I mention abo
 
 &lt;p&gt;When I’ve talked to docs about this, they tend to &lt;strong&gt;aim way to high&lt;/strong&gt;. They start thinking about clinical scenarios that are brain intensive. I think that’s the wrong place to start. Start with the mundane stuff.  Don’t start programming Autohotkey! I know I’ve mentioned it a bazillion times, but it’s not the place to start. Especially if you’re still learning your workflows. It’s a waste of time to automate workflows you are going to discard. Don’t automate a clinical task you do once a week. Get boring things like opening attachments (which I do dozens of times daily.)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;First:&lt;/strong&gt; Download &lt;a href=&quot;http://unchart.com/2011/e-mds-macros/&quot;&gt;my macros&lt;/a&gt; first.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;First:&lt;/strong&gt; Download &lt;a href=&quot;/2011/e-mds-macros/&quot;&gt;my macros&lt;/a&gt; first.&lt;/p&gt;
 
-&lt;p&gt;These turn common/boring actions in taskman, order tracking, etc into keystrokes you can do without looking at the screen. I think you’ll have ROI of 1-2 weeks for your time. Not to mention this fixes about 5000 typos you might make. &lt;a href=&quot;http://unchart.com/2011/e-mds-macros/&quot;&gt;My e-MDs macros&lt;/a&gt; definitely lubricate your life.&lt;/p&gt;
+&lt;p&gt;These turn common/boring actions in taskman, order tracking, etc into keystrokes you can do without looking at the screen. I think you’ll have ROI of 1-2 weeks for your time. Not to mention this fixes about 5000 typos you might make. &lt;a href=&quot;/2011/e-mds-macros/&quot;&gt;My e-MDs macros&lt;/a&gt; definitely lubricate your life.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Second:&lt;/strong&gt; If you are going to learn autohothey, at the beginning learn just one thing: hotstrings.&lt;/p&gt;
 
@@ -1540,13 +1540,13 @@ reorganize the css&lt;/a&gt; rather than just hack the number like I mention abo
 &lt;ul&gt;
   &lt;li&gt;In 2008 only 1/5 ambulatory practices have an EMR and 1/25 have a ‘full’ EMR.&lt;/li&gt;
   &lt;li&gt;With Meaningful Use, there’s an set of actions that show you’re using a full EMR to an extent.&lt;/li&gt;
-  &lt;li&gt;This can be seen as an opportunity for innovation (my take) but it’s also a set of restrictions. It could worsen care, too. (Consider: &lt;a href=&quot;http://unchart.com/2011/deskilling/&quot;&gt;Deskilling&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;This can be seen as an opportunity for innovation (my take) but it’s also a set of restrictions. It could worsen care, too. (Consider: &lt;a href=&quot;/2011/deskilling/&quot;&gt;Deskilling&lt;/a&gt;)&lt;/li&gt;
   &lt;li&gt;Having shared benchmarks makes it much easier for clinics to innovate. Once you know how you will be measured, it’s simpler to figure out what changes you might want to do.&lt;/li&gt;
   &lt;li&gt;Pitfall: This isn’t at all about tech. It’s not about the Gigahertz or Hardware. It’s about how &lt;strong&gt;people do clicking&lt;/strong&gt;. It’s sociopolitical and process even though all the attention is focused on Health IT.&lt;/li&gt;
   &lt;li&gt;Pitfall: Even the most independent/caring/intelligent/hardworking doctor can be inefficient. To efficiently achieve meaningful use you need a team. Reception, Nursing, Physicians, Admin all play a role. Don’t be a lone cowboy.&lt;/li&gt;
   &lt;li&gt;Pitfall: If you don’t carve out some breathing room away from the demands of business and patient care, you’ll struggle with doing this well.&lt;/li&gt;
   &lt;li&gt;Tool: Boyd’s Law. Speed of iteration beats quality of iteration. So instead of making some big/great/complicated change once a month, make 4 smaller/simpler changes. Focus on how quickly you can try things, get feedback, fix what doesn’t work.&lt;/li&gt;
-  &lt;li&gt;Tool: &lt;a href=&quot;http://unchart.com/2011/pdsa-and-meaningful-use/&quot;&gt;Plan-Do-Study-Act Process&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;Tool: &lt;a href=&quot;/2011/pdsa-and-meaningful-use/&quot;&gt;Plan-Do-Study-Act Process&lt;/a&gt; &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;So in a tweet, I’d say: &lt;/p&gt;
@@ -1701,7 +1701,7 @@ and we need to replace it (we charge for that).
 
 &lt;hr /&gt;
 
-&lt;p&gt;This is my rework of my current treatment agreement. This would work with the new Washington State Pain Mangement Law (See my &lt;a href=&quot;http://unchart.com/opioid/&quot;&gt;Oploid Page &lt;/a&gt;for related bits). &lt;/p&gt;
+&lt;p&gt;This is my rework of my current treatment agreement. This would work with the new Washington State Pain Mangement Law (See my &lt;a href=&quot;/opioid/&quot;&gt;Oploid Page &lt;/a&gt;for related bits). &lt;/p&gt;
 
 &lt;p&gt;Stats on this treatment agreement are pretty good: Takes &lt;strong&gt;1 and 1/4 minutes to read&lt;/strong&gt;. &lt;em&gt;8th grade reading level.&lt;/em&gt; &lt;/p&gt;
 
@@ -1721,7 +1721,7 @@ and we need to replace it (we charge for that).
 
 &lt;p&gt;As I make edits, every few minutes, I’ll reprocess it through the readability tool. I’m tracking to see if I can decrease word count, syllables/word, sentence length and the various readability scores. With a normal legalish clinic document, the first few minutes give the biggest improvements. Deleting sentences or paragraphs can really improve the readability. I’ll probably end up going through the document 3 or 4 times completely. Around then, I’m usually getting pretty much the same results with any tweaks and there don’t seem to be obvious improvements. So a one page form might take 30 - 45 minutes to simplify. &lt;/p&gt;
 
-&lt;p&gt;When I did this on &lt;a href=&quot;http://unchart.com/2011/hipaa-form/&quot;&gt;our HIPAA form&lt;/a&gt; it was transformative. This was a form that every patient was going to have to fill out. Our old form confused patients and several patients a day would still have the form coming back to the exam room because they hadn’t figured it out. Overnight the reworked for eliminated a lot of patient questions and saved everybody time on a necessary but boring task.&lt;/p&gt;
+&lt;p&gt;When I did this on &lt;a href=&quot;/2011/hipaa-form/&quot;&gt;our HIPAA form&lt;/a&gt; it was transformative. This was a form that every patient was going to have to fill out. Our old form confused patients and several patients a day would still have the form coming back to the exam room because they hadn’t figured it out. Overnight the reworked for eliminated a lot of patient questions and saved everybody time on a necessary but boring task.&lt;/p&gt;
 
 </content>
  </entry>
@@ -1839,7 +1839,7 @@ pachunter@hotmail.com.&lt;/p&gt;
 
 &lt;p&gt;In e-MDs, the automation for filling out a template is the preclick. Call me a luddite but that level of ‘macro’ doesn’t work for plans. If you preclick a whole plan you risk integrity – documenting something you didn’t do. And there’s enough variablity of the same few things that you can’t really macro the group. Am I going to have a preclick  for ‘Call 1 week, OTC Meds, No Labs’ another for ‘Call 1 week, OTC Meds, CBC’ another for ‘Call 1 week, OTC Meds, Rx Med, No Labs’ and so on?&lt;/p&gt;
 
-&lt;p&gt;The plan is &lt;a href=&quot;http://unchart.com/2011/snappy-charting/&quot;&gt;structured data&lt;/a&gt; and ought to be done with a template instead of narrative text. Even though I might dictate the plan faster, it’s right to use the template. Using the template, for example, could let me set up a system to have my nurse check back on a patient who is trying a prescription.  We may not exploit the precision of structured plan data now but I still think templates are the right way to go.&lt;/p&gt;
+&lt;p&gt;The plan is &lt;a href=&quot;/2011/snappy-charting/&quot;&gt;structured data&lt;/a&gt; and ought to be done with a template instead of narrative text. Even though I might dictate the plan faster, it’s right to use the template. Using the template, for example, could let me set up a system to have my nurse check back on a patient who is trying a prescription.  We may not exploit the precision of structured plan data now but I still think templates are the right way to go.&lt;/p&gt;
 
 &lt;p&gt;What I need, is a way to get the plan together without needing to focus attention and click. Reminds me of a wonderful usability technique: &lt;a href=&quot;http://blog.bumblebeelabs.com/the-5-guerrilla-user-test/&quot;&gt;The $5 Guerrilla User Test&lt;/a&gt;. Basically, the premise is that usability for distracted users can be mimicked by testing on people buzzed on alcohol. The reality of clinic is that the busyness is distracting. It’s not like I have free/unhurried time to document the plan. I’ve got a patient waiting for the visit summary, another waiting for me to start the visit, I’m personally waiting for the summary to come out of the printer and my nurse is waiting to see if she can snatch an answer to something she’s working on.&lt;/p&gt;
 
@@ -1877,7 +1877,7 @@ pachunter@hotmail.com.&lt;/p&gt;
    <id>http://unchart.com/2011/visit-summary-self-hosting</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; &lt;em&gt;This is a post from 8/2011 – this article won’t stay up to date. If you are going to self-host, you need to pull original files off the server.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;When I first got e-MDs 7.0, one of the first things I did was look at the Visit Summary. As I went to lunch a few minutes later, I brainstormed how I could bypass the formatting and create my own theme. I originally imagined putting up this set of downloadable files. Unfortunately, my plan for formatting requires a web server. And my regular server (for unchart.com) wasn’t going to work. So I figured out how to host on &lt;a href=&quot;http://unchart.com/2011/amazon-web-services/&quot;&gt;Amazon’s Web Services&lt;/a&gt;. I’ve been pretty pleased with the performance. &lt;/p&gt;
+&lt;p&gt;When I first got e-MDs 7.0, one of the first things I did was look at the Visit Summary. As I went to lunch a few minutes later, I brainstormed how I could bypass the formatting and create my own theme. I originally imagined putting up this set of downloadable files. Unfortunately, my plan for formatting requires a web server. And my regular server (for unchart.com) wasn’t going to work. So I figured out how to host on &lt;a href=&quot;/2011/amazon-web-services/&quot;&gt;Amazon’s Web Services&lt;/a&gt;. I’ve been pretty pleased with the performance. &lt;/p&gt;
 
 &lt;p&gt;Here are my raw files. You can host it yourself if you think you’ll have better uptime than I do. Hopefully e-MDs will make this superfluous but we’ll have to see what they do in  7.3.&lt;/p&gt;
 
@@ -2152,7 +2152,7 @@ Chat Kidkul made this report&lt;/p&gt;
 
 &lt;p&gt;The iPhone has long been known to have some pretty sweet hardware including it’s microphone. Grumo Media (maker of awesome demo videos for startups) has an article about &lt;a href=&quot;http://http://grumomedia.com/how-to-record-great-voiceover-audio-with-an-iphone/&quot;&gt;how to use your iPhone to do great voiceovers&lt;/a&gt;. It’s already in my pocket, couldn’t I just use this to dictate?&lt;/p&gt;
 
-&lt;p&gt;Dragon Remote Microphone does that. This requires 11.5 (for use with e-MDs that could be Professional which I use. Or Premium ought to work fine, too. &lt;a href=&quot;http://unchart.com/2011/using-dragon-with-e-mds/&quot;&gt;No need to wait/spend for Medical. &lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Dragon Remote Microphone does that. This requires 11.5 (for use with e-MDs that could be Professional which I use. Or Premium ought to work fine, too. &lt;a href=&quot;/2011/using-dragon-with-e-mds/&quot;&gt;No need to wait/spend for Medical. &lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;So now my workflow is this: &lt;/p&gt;
 
@@ -2186,7 +2186,7 @@ Chat Kidkul made this report&lt;/p&gt;
    <link href="http://unchart.com//2011/print-to-file-to-work-around-inability-to-export/"/>
    <updated>2011-07-01T07:59:24-07:00</updated>
    <id>http://unchart.com/2011/print-to-file-to-work-around-inability-to-export</id>
-   <content type="html">&lt;p&gt;I’m a lover of ‘postprocessing’ in excel. If I can just get the data, I can do my own analysis, thank you. (Again, I’m going to plug my ‘&lt;a href=&quot;http://unchart.com/2011/data-driven-practice/&quot;&gt;Data Driven Practice&lt;/a&gt;.’ Amazing what you can do with pivot tables and autofilter!) Sometimes e-MDs is set up to let you download/export data. Any crystal report, for instance, can be saved as a file to process in Excel. &lt;/p&gt;
+   <content type="html">&lt;p&gt;I’m a lover of ‘postprocessing’ in excel. If I can just get the data, I can do my own analysis, thank you. (Again, I’m going to plug my ‘&lt;a href=&quot;/2011/data-driven-practice/&quot;&gt;Data Driven Practice&lt;/a&gt;.’ Amazing what you can do with pivot tables and autofilter!) Sometimes e-MDs is set up to let you download/export data. Any crystal report, for instance, can be saved as a file to process in Excel. &lt;/p&gt;
 
 &lt;p&gt;But data is not always exportable.&lt;/p&gt;
 
@@ -2326,7 +2326,7 @@ monitoring. Hypertension 2011 May; 57:898. (Subscription may be required)&lt;/p&
 
 &lt;p&gt;&lt;a href=&quot;http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm205215.htm&quot;&gt;FDA Warning, March 2010&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;So last year at the e-MDs user conference I used that as an example of &lt;a href=&quot;http://unchart.com/2011/data-driven-practice/&quot;&gt;how to do a quick and dirty report from crystal&lt;/a&gt; see the video of how  to do that report in 2 minutes.&lt;/p&gt;
+&lt;p&gt;So last year at the e-MDs user conference I used that as an example of &lt;a href=&quot;/2011/data-driven-practice/&quot;&gt;how to do a quick and dirty report from crystal&lt;/a&gt; see the video of how  to do that report in 2 minutes.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.fda.gov/Drugs/DrugSafety/ucm256581.htm&quot;&gt;Yesterday, the FDA strengthened the recommendation&lt;/a&gt;:&lt;/p&gt;
 
@@ -2373,7 +2373,7 @@ Panel Size.pdf&lt;/a&gt;&lt;/p&gt;
    <link href="http://unchart.com//2011/patient-preferences-for-office-technology/"/>
    <updated>2011-06-01T18:42:15-07:00</updated>
    <id>http://unchart.com/2011/patient-preferences-for-office-technology</id>
-   <content type="html">&lt;p&gt;So the theme I pull out of this: Patients have a stronger preference for access than doctors have. We’re all used to creating walls to protect us from too much access. To me, that might be  a symptom of not being careful about managing your panel size. (See my recent &lt;a href=&quot;http://unchart.com/2011/provider-panel-report/&quot;&gt;Provider Panel Report&lt;/a&gt; as a starting spot.)&lt;/p&gt;
+   <content type="html">&lt;p&gt;So the theme I pull out of this: Patients have a stronger preference for access than doctors have. We’re all used to creating walls to protect us from too much access. To me, that might be  a symptom of not being careful about managing your panel size. (See my recent &lt;a href=&quot;/2011/provider-panel-report/&quot;&gt;Provider Panel Report&lt;/a&gt; as a starting spot.)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/files/2011/06/patient-office-tech-preferences.png&quot;&gt;&lt;img src=&quot;/files/2011/06/patient-office-tech-preferences-300x205.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -2388,7 +2388,7 @@ Panel Size.pdf&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This report pays attention to exempted patients (Using ‘Exempt from Reports’ in Demographics) if you use that in your clinic process for transferred or discharged patients.&lt;/p&gt;
 
-&lt;p&gt;★ Don’t miss: &lt;a href=&quot;http://unchart.com/2011/provider-panel-map/&quot;&gt;Provider Panel Map&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;★ Don’t miss: &lt;a href=&quot;/2011/provider-panel-map/&quot;&gt;Provider Panel Map&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;adjusting-not-worth-it-for-me&quot;&gt;Adjusting? Not worth it for me.&lt;/h3&gt;
 
@@ -2422,7 +2422,7 @@ Panel Size.pdf&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;e-MDs main solution to this complexity is templates. You can create hierarchical templates that allow you to delve down and select items. Personally I think templates are their most successful custom widget. e-MDs created a number of non-standard interface widgets with varying degrees of success. So while having free text insertion everywhere has some flexibility, the darn free text widget &lt;img src=&quot;/files/2011/03/freetext.png&quot; alt=&quot;&quot; /&gt; is too small and difficult to select.&lt;/p&gt;
 
-&lt;p&gt;Templates were designed for tablet use and if you never need to use a keyboard, the template is impressive in it’s speed. (Tablet mode never worked for me becuase I need to enter text regularly and handwriting was inefficient and frustrating. Flipping back and forth between tablet and laptop mode didn’t really work for me) It’s essentially a group of buttons that are ~ 200 by 25 pixels. That’s  big enough to be easily tappable (especially compared to the 6 by 6 pixels of “free text”.) e-MDs was designed when &lt;a href=&quot;http://en.wikipedia.org/wiki/Computer_display_standard&quot;&gt;XGA was the most common display standard&lt;/a&gt;. 1024 x 768 is still a common resolution – my iPad uses it, for example. You lose usable space by all the chrome around the information (See: &lt;a href=&quot;http://unchart.com/2011/e-mds-interface-janitor/&quot;&gt;Interface Janitor&lt;/a&gt;) Still, you can fit 4 columns of 25 buttons – 100 could be on the screen at once. If you had a perfect outline, a 2 layer hierarchy  could hold 625 items, a 3 layer could hold 15K items. &lt;/p&gt;
+&lt;p&gt;Templates were designed for tablet use and if you never need to use a keyboard, the template is impressive in it’s speed. (Tablet mode never worked for me becuase I need to enter text regularly and handwriting was inefficient and frustrating. Flipping back and forth between tablet and laptop mode didn’t really work for me) It’s essentially a group of buttons that are ~ 200 by 25 pixels. That’s  big enough to be easily tappable (especially compared to the 6 by 6 pixels of “free text”.) e-MDs was designed when &lt;a href=&quot;http://en.wikipedia.org/wiki/Computer_display_standard&quot;&gt;XGA was the most common display standard&lt;/a&gt;. 1024 x 768 is still a common resolution – my iPad uses it, for example. You lose usable space by all the chrome around the information (See: &lt;a href=&quot;/2011/e-mds-interface-janitor/&quot;&gt;Interface Janitor&lt;/a&gt;) Still, you can fit 4 columns of 25 buttons – 100 could be on the screen at once. If you had a perfect outline, a 2 layer hierarchy  could hold 625 items, a 3 layer could hold 15K items. &lt;/p&gt;
 
 &lt;h3 id=&quot;thinking-about-search&quot;&gt;Thinking about Search&lt;/h3&gt;
 
@@ -2456,7 +2456,7 @@ Panel Size.pdf&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;It’s a basic percentage of billed office/hospital visits – new or established patients. There are more sophisticated measures like the &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/3806028&quot;&gt;MMCI&lt;/a&gt; but this is more data/inisight than most practices ever consider.&lt;/p&gt;
 
-&lt;p&gt;The report covers the last 365 days before the report and summarizes by month. Like I said in &lt;a href=&quot;http://unchart.com/2011/data-driven-practice/&quot;&gt;Data Driven Practice&lt;/a&gt;, the right number of parameters is usually &lt;em&gt;Zero&lt;/em&gt;. So there’s intentionally no options.&lt;/p&gt;
+&lt;p&gt;The report covers the last 365 days before the report and summarizes by month. Like I said in &lt;a href=&quot;/2011/data-driven-practice/&quot;&gt;Data Driven Practice&lt;/a&gt;, the right number of parameters is usually &lt;em&gt;Zero&lt;/em&gt;. So there’s intentionally no options.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/files/2011/05/continuity.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Continuity Crystal Report&lt;/a&gt;&lt;/p&gt;
 
@@ -2471,7 +2471,7 @@ Panel Size.pdf&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;I wish it was that easy: just manage and improve continuity. If you asked me a year ago, access/continuity would have been one of my big successes at my clinic. I had created this and a few other related reports. We had a decent single-page dashboard that you can see in my &lt;a href=&quot;http://unchart.com/2011/data-driven-practice/&quot;&gt;data driven practice presentation&lt;/a&gt;. It was a way to use &lt;a href=&quot;http://unchart.com/2011/practice-based-evidence/&quot;&gt;Practice-based Evidence&lt;/a&gt; to improve care.&lt;/p&gt;
+&lt;p&gt;I wish it was that easy: just manage and improve continuity. If you asked me a year ago, access/continuity would have been one of my big successes at my clinic. I had created this and a few other related reports. We had a decent single-page dashboard that you can see in my &lt;a href=&quot;/2011/data-driven-practice/&quot;&gt;data driven practice presentation&lt;/a&gt;. It was a way to use &lt;a href=&quot;/2011/practice-based-evidence/&quot;&gt;Practice-based Evidence&lt;/a&gt; to improve care.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/files/2011/05/cowboy.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -2501,13 +2501,13 @@ Panel Size.pdf&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Peak charting for me would be a routine cold. My roomer might have used a shortcut, entered the HPI/Vitals, there’s a basic exam and plan. Assuming it’s a complete cookie cutter visit, I could theoretically just sign-off. In my macro-enabled world, I’d hit one macro to close to the E&amp;amp;M; coder, glance at it to check, then hit enter, look at my note conclusion printing options, and hit my signoff macro. On a visit like this in the middle of the day, that’s actually about 5 seconds.&lt;/p&gt;
 
-&lt;p&gt;The visit, of course, lasts much much longer. There’s small talk, figuring out what the patient is actually worried about, examining, educating, etc. And I usually try to add a little ‘&lt;a href=&quot;http://unchart.com/2011/using-dragon-with-e-mds/&quot;&gt;narrative&lt;/a&gt;’. So, I’ll type a sentence or two into the HPI to amplify. And I’ll update some social history. Still my peak charting will still be well under a minute for a simple single-problem visit.&lt;/p&gt;
+&lt;p&gt;The visit, of course, lasts much much longer. There’s small talk, figuring out what the patient is actually worried about, examining, educating, etc. And I usually try to add a little ‘&lt;a href=&quot;/2011/using-dragon-with-e-mds/&quot;&gt;narrative&lt;/a&gt;’. So, I’ll type a sentence or two into the HPI to amplify. And I’ll update some social history. Still my peak charting will still be well under a minute for a simple single-problem visit.&lt;/p&gt;
 
 &lt;p&gt;Sustained Charting is harder to measure. On a couple problem visit (both easy/routine problems), navigating back and forth eats up real time. I might be able to use a preclick ROS, say, but I need to add a few more for the second problem. Same thing with the exam. And if I’m finishing up the plan (aiming for real time, if I want finished visit summary), there’s jumping back and forth between plan templates to describe discussions, medications, followup, testing.&lt;/p&gt;
 
 &lt;p&gt;What I used to do was open the free text after an assessment and type something like, “fu1w inip. dsal. dholdabx.” And with the magic of autohotkey and my abbrevation efforts in the past few years, out would pop “Follow up in 1 week if not improving. Discussed and demonstrated use of saline sinus lavage for symptom reduction. Prescribed antibiotics but a plan to hold and monitor symptoms for now.” So something like 7 seconds typing. And a second or two to click on the right &lt;img src=&quot;/files/2011/03/freetext.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I’m now trying to keep plan as ‘structured data’ inside a template since that’s the current requirement for having it print in the visit summary. It takes me longer than a narrative blob with abbreviations like above. If I typed 10 words a minute, templating might be faster. More than time, though, it takes attention. Once I have the freetext open, I can lift my eyes from the screen and glance at the patient. (That’s Touchtyping!) There’s no reading or finding involved. With selecting on a template, there’s finding the right template, finding the followup button, finding the discussions button, etc. I know I could optimize that with preclicks (and editing to match my plan) but it’s a &lt;a href=&quot;http://unchart.com/2011/how-much-time-can-macros-save/&quot;&gt;local maximum again&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I’m now trying to keep plan as ‘structured data’ inside a template since that’s the current requirement for having it print in the visit summary. It takes me longer than a narrative blob with abbreviations like above. If I typed 10 words a minute, templating might be faster. More than time, though, it takes attention. Once I have the freetext open, I can lift my eyes from the screen and glance at the patient. (That’s Touchtyping!) There’s no reading or finding involved. With selecting on a template, there’s finding the right template, finding the followup button, finding the discussions button, etc. I know I could optimize that with preclicks (and editing to match my plan) but it’s a &lt;a href=&quot;/2011/how-much-time-can-macros-save/&quot;&gt;local maximum again&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;For faster Sustained Charting, jumping back and forth needs to be quicker (without focused attention.) And I need a way to generate lots of structured data (without focused attention). The jumping I’ve got covered with macros:&lt;/p&gt;
 
@@ -2603,7 +2603,7 @@ providers results or clinical staff follow through.&lt;/p&gt;
    <link href="http://unchart.com//2011/more-dragon-with-e-mds/"/>
    <updated>2011-04-11T19:41:32-07:00</updated>
    <id>http://unchart.com/2011/more-dragon-with-e-mds</id>
-   <content type="html">&lt;p&gt;I wrote recently about &lt;a href=&quot;http://unchart.com/2011/using-dragon-with-e-mds/&quot;&gt;Dragon 11 (not just medical) with e-MDs &lt;/a&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;I wrote recently about &lt;a href=&quot;/2011/using-dragon-with-e-mds/&quot;&gt;Dragon 11 (not just medical) with e-MDs &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;So I’ve failed dictation multiple times in the past – I’d say I’ve given a real try at least 5 times in the last 6 years. Improvements helped but I still failed.:&lt;/p&gt;
 
@@ -2833,7 +2833,7 @@ the second part of the report is actual intervention - that gets satisfied if yo
    <id>http://unchart.com/2011/pop-ups-with-no-boxes</id>
    <content type="html">&lt;p&gt;Our staff chronically write pop up alerts and forget to check any of the boxes.  This looks for those instances so we can manually correct.  It’s a quick fix, so I run it about one a week.&lt;/p&gt;
 
-&lt;p&gt;(My &lt;a href=&quot;http://unchart.com/2011/macro-to-add-flowsheets-in-e-mds/&quot;&gt;macro for looping through charts&lt;/a&gt; could be useful with this. Add the account number and then loop through the alerts. – &lt;em&gt;JP&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;(My &lt;a href=&quot;/2011/macro-to-add-flowsheets-in-e-mds/&quot;&gt;macro for looping through charts&lt;/a&gt; could be useful with this. Add the account number and then loop through the alerts. – &lt;em&gt;JP&lt;/em&gt;)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/files/2011/03/Pop-Up-with-No-Boxes-Report.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Pop Up with No Boxes Report&lt;/a&gt;&lt;/p&gt;
 
@@ -2879,11 +2879,11 @@ has cut our no-show rate by about 2%.&lt;/p&gt;
    <id>http://unchart.com/2011/using-dragon-with-e-mds</id>
    <content type="html">&lt;p&gt;Voice Recognition has been just around the corner for at least 5 years. My clinic has a number of docs who’ve been pretty sucessful over the years. We bought Dragon Professional years ago and spent some &lt;em&gt;serious cash&lt;/em&gt; on some Medical Vocabularies. I’ve tried it repeatedly over the years but my dictation is pretty error-prone and frustrating. I get motivated for a while and then lose steam a week or two later. Anyone who’s read any of this site will know: I use the keyboard (with macros and abbreviations galore.)&lt;/p&gt;
 
-&lt;p&gt;But I’ve hit a &lt;a href=&quot;http://unchart.com/2011/how-much-time-can-macros-save/&quot;&gt;local maximum&lt;/a&gt; and more macros/abbreviations won’t really save me time. If I try to re-design my workflow for speed, I need better ways of doing 2 things.&lt;/p&gt;
+&lt;p&gt;But I’ve hit a &lt;a href=&quot;/2011/how-much-time-can-macros-save/&quot;&gt;local maximum&lt;/a&gt; and more macros/abbreviations won’t really save me time. If I try to re-design my workflow for speed, I need better ways of doing 2 things.&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;I need faster &lt;a href=&quot;http://unchart.com/2011/snappy-charting/&quot;&gt;narrative medicine&lt;/a&gt; so I can put more flavor into my notes. Plain templates makes for pretty bland notes. That’s where Dragon being faster could really speed things up.&lt;/li&gt;
-  &lt;li&gt;I needs faster way to collect &lt;a href=&quot;http://unchart.com/2011/snappy-charting/&quot;&gt;structured data&lt;/a&gt;. &lt;strong&gt;The answer is autocomplete.&lt;/strong&gt; I’m intending to make an autocompleter that adds diagnoses, prescribes meds, and captures my plan. I think it’ll bring the snappy feeling to much of my charting. Just like I currently have snappy for order tracking and taskman with my &lt;a href=&quot;http://unchart.com/2011/e-mds-macros/&quot;&gt;e-MDs macros&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;I need faster &lt;a href=&quot;/2011/snappy-charting/&quot;&gt;narrative medicine&lt;/a&gt; so I can put more flavor into my notes. Plain templates makes for pretty bland notes. That’s where Dragon being faster could really speed things up.&lt;/li&gt;
+  &lt;li&gt;I needs faster way to collect &lt;a href=&quot;/2011/snappy-charting/&quot;&gt;structured data&lt;/a&gt;. &lt;strong&gt;The answer is autocomplete.&lt;/strong&gt; I’m intending to make an autocompleter that adds diagnoses, prescribes meds, and captures my plan. I think it’ll bring the snappy feeling to much of my charting. Just like I currently have snappy for order tracking and taskman with my &lt;a href=&quot;/2011/e-mds-macros/&quot;&gt;e-MDs macros&lt;/a&gt;.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;As the years go by, Dragon gets better and better. With all the work, it seems like upgrading could improve things. The problem is that the Professional Version is locked out of EHRs. Nuance says:&lt;/p&gt;
@@ -2901,7 +2901,7 @@ has cut our no-show rate by about 2%.&lt;/p&gt;
 
 &lt;p&gt;But Accuracy is a neverending quest. As a family doc, my dictation is much closer to regular english than it is to, say, an MRI report from a radiologist. if I was a radiologist, I wouldn’t even hesitate to have Dragon Medical with all the optimal training and microphone and custom macros. But my use case is different.&lt;/p&gt;
 
-&lt;p&gt;I think using &lt;a href=&quot;http://unchart.com/2011/practice-based-evidence/&quot;&gt;practice-based evidence&lt;/a&gt; is the key. I start with an empty vocabulary. Luckily I have about 3 years of dictations in electronic documents so I feed that into Dragon. Boom: I’ve got a custom dictionary of ~25K words that I’ve personally said with language adaptations for my style of wordiness. I don’t have a report (yet) but I’ll be adding words from my e-MDs visit notes, too. Those notess I won’t have language adaptation since I almost never dictate the same as what our generated text would say. I’ll add a list of words of every drug I’ve written in the past few years. I’ll add a list of every diagnosis I’ve done. &lt;/p&gt;
+&lt;p&gt;I think using &lt;a href=&quot;/2011/practice-based-evidence/&quot;&gt;practice-based evidence&lt;/a&gt; is the key. I start with an empty vocabulary. Luckily I have about 3 years of dictations in electronic documents so I feed that into Dragon. Boom: I’ve got a custom dictionary of ~25K words that I’ve personally said with language adaptations for my style of wordiness. I don’t have a report (yet) but I’ll be adding words from my e-MDs visit notes, too. Those notess I won’t have language adaptation since I almost never dictate the same as what our generated text would say. I’ll add a list of words of every drug I’ve written in the past few years. I’ll add a list of every diagnosis I’ve done. &lt;/p&gt;
 
 &lt;p&gt;That will make a dramatically more customized vocabulary than I’d get with Dragon Medical out of the box. And a relatively small vocabulary so performance will be better. &lt;/p&gt;
 
@@ -2963,7 +2963,7 @@ return
    <id>http://unchart.com/2011/preclicks-by-template-or-by-provider</id>
    <content type="html">&lt;p&gt;This report may seem worthless – who cares what preclicks your partners have or what tempates get the most ‘preclick love’?&lt;/p&gt;
 
-&lt;p&gt;This report could be a great source of &lt;a href=&quot;http://unchart.com/2011/practice-based-evidence/&quot;&gt;Practice-based Evidence.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This report could be a great source of &lt;a href=&quot;/2011/practice-based-evidence/&quot;&gt;Practice-based Evidence.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/files/2011/03/preclick-by-template.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -3053,7 +3053,7 @@ return
    <link href="http://unchart.com//2011/charting-efficiency-in-e-mds/"/>
    <updated>2011-03-18T22:25:54-07:00</updated>
    <id>http://unchart.com/2011/charting-efficiency-in-e-mds</id>
-   <content type="html">&lt;p&gt;In my post about &lt;a href=&quot;http://unchart.com/2011/snappy-charting/&quot;&gt;snappy charting&lt;/a&gt; I talked about some of the theories about making charting fast.
+   <content type="html">&lt;p&gt;In my post about &lt;a href=&quot;/2011/snappy-charting/&quot;&gt;snappy charting&lt;/a&gt; I talked about some of the theories about making charting fast.
 Ranging from big to small, here’s the toolset e-MDs provides for efficient charting.&lt;/p&gt;
 
 &lt;table&gt;
@@ -3089,7 +3089,7 @@ Ranging from big to small, here’s the toolset e-MDs provides for efficient cha
 
 &lt;p&gt;As you look here, there’s a theme of abbreviation. Combine some chunk of clicks/text in a template or note and make it doable in a few clicks. Definitely saves time over doing a whole note from scratch.&lt;/p&gt;
 
-&lt;p&gt;These should definitely be considered targets for &lt;a href=&quot;http://unchart.com/2011/practice-based-evidence/&quot;&gt;Practice-based Evidence&lt;/a&gt; – use the data from your own practice to optimize your practice.&lt;/p&gt;
+&lt;p&gt;These should definitely be considered targets for &lt;a href=&quot;/2011/practice-based-evidence/&quot;&gt;Practice-based Evidence&lt;/a&gt; – use the data from your own practice to optimize your practice.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Shortcut:&lt;/strong&gt; Report out ICDs by frequency to make sure you have appropriate common shortcuts.&lt;/li&gt;
@@ -3133,7 +3133,7 @@ Ranging from big to small, here’s the toolset e-MDs provides for efficient cha
 
 &lt;p&gt;&lt;em&gt;Ahh, a dashboard&lt;/em&gt;. People think data visualization is about making everything simplify down to just a few key speedometers. Sure, as we get close to compliance, it may be a single “Go, No Go” type metric of do we meet all the intended benchmarks.&lt;/p&gt;
 
-&lt;p&gt;But as I mentioned in my &lt;a href=&quot;http://unchart.com/2011/data-driven-practice/&quot;&gt;Data Driven Practice&lt;/a&gt; at the User Conference, visualization is about making data usable to people. Not just the geeks. Making this visual is really important. Most &lt;a href=&quot;http://mygengo.com/talk/blog/why-your-startup-needs-a-visual-dashboard/&quot;&gt;decent visualizations&lt;/a&gt; will engender much more attention than any table of numbers. Couldn’t it just be a single page of paper?&lt;/p&gt;
+&lt;p&gt;But as I mentioned in my &lt;a href=&quot;/2011/data-driven-practice/&quot;&gt;Data Driven Practice&lt;/a&gt; at the User Conference, visualization is about making data usable to people. Not just the geeks. Making this visual is really important. Most &lt;a href=&quot;http://mygengo.com/talk/blog/why-your-startup-needs-a-visual-dashboard/&quot;&gt;decent visualizations&lt;/a&gt; will engender much more attention than any table of numbers. Couldn’t it just be a single page of paper?&lt;/p&gt;
 
 &lt;p&gt;Different organizations will have different ways of organizing. This could be a starting point about how to organize subsets of benchmarks. I’m using my short titles for benchmarks based on my Meaningful Use Map:&lt;/p&gt;
 
@@ -3264,7 +3264,7 @@ Ranging from big to small, here’s the toolset e-MDs provides for efficient cha
  be signed off to be counted in the denominator. 
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;In a similar spirit to &lt;a href=&quot;http://unchart.com/2011/meaningful-use-map-and-kickoff/&quot;&gt;my Meaningful Use Kickoff Presentation&lt;/a&gt;, Christine Hunter, PA, put together 2 summaries of the MU benchmarks.&lt;/p&gt;
+&lt;p&gt;In a similar spirit to &lt;a href=&quot;/2011/meaningful-use-map-and-kickoff/&quot;&gt;my Meaningful Use Kickoff Presentation&lt;/a&gt;, Christine Hunter, PA, put together 2 summaries of the MU benchmarks.&lt;/p&gt;
 
 &lt;p&gt;These two word documents have screenshots (warning: big files!) and explain benchmarks with a practical summary of what it means for a practice. I can imagine printing these out and sitting around with partners to make sure they are clear. Consider it a ‘cliff notes’ to the videos on Supportcenter.&lt;/p&gt;
 
@@ -3656,7 +3656,7 @@ The &lt;strong&gt;‘I’m Done’ button&lt;/strong&gt; (Win-Spacebar) quickly 
   &lt;li&gt;Learning/Using the keyboard shortcuts in the macro will make you quicker over time.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/notes/images/Un-Unsigned.zip&quot; title=&quot;Un-Unsigned&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Un-Unsigned.zip&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/notes/images/Un-Unsigned.zip&quot; title=&quot;Un-Unsigned&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Un-Unsigned.zip&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Known Issue 1&lt;/strong&gt; In my clinic, computers have different installs (say, no Bill) so that causes problems for the macro. Wifi problems can also cause it to crash. I could make it more resilient by slowing it down but that degrades it for me personally since I like having it run quickly. I do have a few partners who use this regularly.&lt;/li&gt;
@@ -3706,7 +3706,7 @@ The &lt;strong&gt;‘I’m Done’ button&lt;/strong&gt; (Win-Spacebar) quickly 
 
 &lt;p&gt;Doing reporting yourself is possible (Example #1: Me) but requires geeky dedication and insight. This is complex stuff. But a small amount of complicated reporting work makes the rest of practice easier. I think it’s like picking a practice out of residency – if you make that decision right, you can mess up a lot of other things and still be happy. &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/custom-report/&quot;&gt;Let me know if you need help with custom reports.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/custom-report/&quot;&gt;Let me know if you need help with custom reports.&lt;/a&gt;&lt;/p&gt;
 
 </content>
  </entry>

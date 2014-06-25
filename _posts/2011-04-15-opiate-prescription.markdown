@@ -13,8 +13,5 @@ tags:
 - presentation
 ---
 
-
-
 Here's my presentation about opiate prescription for non-malignant pain for the local MS3s. My nifty 'magic move' animations to show grouping dont' translate into slideshare all that great.
-
 

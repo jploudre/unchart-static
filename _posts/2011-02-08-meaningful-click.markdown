@@ -26,7 +26,6 @@ Meaningful Click is an app for Docs using e-MDs that accelerates patient chart r
 
 #### Tabbing through the Health Summary
 
-
 -----------------
 
 ### Wanna Try It?

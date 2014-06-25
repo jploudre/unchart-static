@@ -38,15 +38,11 @@ Here's how to spread the word.
 
 ### Then you could paste in this signature:
 
-
      ---
      Post this to your signature if Patient Usability Matters on Portal.
      http://unchart.com/2012/portal-layout-bug/
 
-
 ### Then add signatures when you post to SupportCenter.
 
 ![](/files/2012/01/Screen-Shot-2012-01-08-at-12.59.00-PM.png)
-
-
 

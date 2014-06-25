@@ -22,8 +22,6 @@ Consider this a proof-of-concept as of 5/5/2010. I'm still refining it for my us
 
 [![](/files/2011/01/45-movie-1.png) See it in action](http://www.youtube.com/watch?v=TiiYyGDDSJg)
 
-
-
 * **Known Issues:** On our setup, there's variable server speed. Usually the first time of the day it crashes. It seems to depend on how word forms are cached. Works reliably for the rest of the day. Unfortunately I'm not debugging our server performance so consider this proof of concept only. I still use it myself. I'll probably remove the word-form .
 * **Tested on:** e-MDs 6.32
 

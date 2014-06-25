@@ -22,4 +22,3 @@ The great state of Washington has always been my home, living in Kent, Seattle, 
 
 I can't claim the prestigeous title of Geek, like my Unchart.com superiors, but hopefully they can help me change that. I did grow up in the world of dial-up AOL, giving me madd middle-school [AIM flirting skillz](http://pennalumniblog.files.wordpress.com/2011/05/aim-chat.gif), and I was in undergrad when [TheFacebook](http://www.inc.com/uploaded_files/image/facebook-2004_11934.jpg) made its debut. I like computers and I kind of know how to use them. Let's do this!
 
-

@@ -32,5 +32,3 @@ So how do you reduce interruptions?
 * Stock needed items in the room (Seriously, leaving the room regularly is a huge timewaster.)
 * Exploit messaging whenever possible. E-mail gets checked all day long but avoids  interruptions.
 
-
-

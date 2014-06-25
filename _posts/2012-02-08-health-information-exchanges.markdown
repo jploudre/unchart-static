@@ -41,9 +41,6 @@ Patients think we are always know what's going on at other doctors offices or at
 
 ## What's a HIE?
 
-
-
-
 Besides unifying our medical community, a Health Information Exchange (HIE) is an electronic network for securely sharing patient information. It includes secure addition, maintenance, storage and delivery of health records. It focuses on uniquely identifying patients. Obviously it has security regulations like HIPAA and HITECH baked in. Unlike an individual electronic health records system (EHR) of, say, a private doctor, the HIE aggregates information across different systems and EHRs. 
 
 The HIE creates a comprehensive record that all of the subscribing healthcare providers can use. Subscribers can access records of individual lab results, consulting reports, and summaries of care. Subscribers can also have the system consolidate the records into a summary that includes information from all the various EHRs and various doctors involved in the patient's care. The Documents can be viewed online, printed, downloaded, or imported straight into an EHR.

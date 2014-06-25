@@ -16,7 +16,6 @@ tags:
 
 I started doing CGM about 1.5 years ago but never posted. -- *Jonathan*
 
-
 CGM Overview
 -----------------------
 
@@ -40,6 +39,4 @@ This is a disruptive technology -- as a Family Doc I potentially can do a better
 I bought a [Meditronic iPro Continuous Glucose Monitor](http://professional.medtronicdiabetes.com/hcp-products/ipro2).
 
 Since I've been doing it, I've found it to be very useful for seeing exactly where/how sugars are out of control. Essentially every patient has had one significant insight that helped improve diabetes. In Washington State, I think about 70% Private Insurance has coverage. So that's been a barrier to doing it. For patients who don't have coverage, if they might do it several times, I suggest that they consider buying a personal CGM out of pocket. Like [Dexcom Seven Plus](http://www.dexcom.com/seven-plus). It won't be long for someone to make an iPhone compatible personal CGM.....
-
-
 

@@ -23,8 +23,6 @@ Here's my solution. Print this out huge and put it in your conference room. It's
 
 You might think about having a [Kick Ass Kickoff Meeting](http://www.alistapart.com/articles/kick-ass-kickoff-meetings/) to start explaining Meaningful Use to your whole staff (if you haven't already.) These are the slides I used at our company kickoff.
 
-
-
 **[Meaningful use overview](http://www.slideshare.net/jploudre/meaningful-use-overview)**
 
 View more [presentations](http://www.slideshare.net/) from [Jonathan Ploudre](http://www.slideshare.net/jploudre).

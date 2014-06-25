@@ -22,8 +22,6 @@ Mal Riddell has offered his template:
 
 Mal's process: We use a shortcut for our INR/PT patients that includes a  99211 charge for the most part.  If I see them significantly, I delete the charge and add the appropriate charge after the visit.    The template is a generic plan template and allows for changes in dose.  The nurse loads the previous template in the current note (via the Shortcut) and adds the INR value.  If it is within range, there is no change and the patient returns the following month.  If needed, I can see the patient and make changes to the dose.  I use a base of 5 mg tabs and alter the dose by ½ tab increments, based upon a weekly total dose. 
 
-
-
 ## Coumadin Algorithm
 
 Personally, I do a coumadin algorithm process. In e-MDs, this lives as a pretty basic flowsheet. The rest of the process (remembering who is due, patient instructions, management decisions) are embedded in a set of paper documents below.

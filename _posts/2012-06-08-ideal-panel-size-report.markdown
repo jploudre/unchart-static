@@ -36,7 +36,6 @@ The real question for a group: **Could you use this kind of data to make decisio
 
 Curious what counts as a visit/invoice? No list is perfect. But here's the CPTs embedded in the report:
 
-
      '99245','99201', '99202', '99203', '99204','99205',
      '99381','99382','99383','99384','99385','99386','99387'
      ''99211','99212','99213','99214','99215','99391',

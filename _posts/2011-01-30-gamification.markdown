@@ -19,17 +19,11 @@ Video games are controversial. And they have reputation of being a tremendous wa
 
 This starts off slow but it's worth it when you watch the whole video.
 
-
-
 #### TED.com, Jane McGonigal
 
 Why we need **more** games if we are going to solve our biggest problems.
 
-
-
 #### TED.com, Seth Priebatsch
 
 Game Mechanics change behavior. Also see his [game dynamics card set](http://techcrunch.com/2010/08/25/scvngr-game-mechanics/).
-
-
 

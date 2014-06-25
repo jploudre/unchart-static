@@ -41,4 +41,3 @@ For hotstrings, I'd initially focus on 'doctor sentences' that you say somewhat 
 
 **Last:** If you make a macro that's great for you, send it my way, I'd love to have ideas.
 
-

@@ -23,5 +23,4 @@ Paraphrasing her (on [SupportCenter](https://supportcenter.e-mds.com/ics/support
     Also an option for when a patient destroys the cast 
     and we need to replace it (we charge for that). 
 
-
 [![](/files/2011/01/57-download.png) Closed_Treatment_Casting](/files/2011/10/Closed_Treatment_Casting.zip)

@@ -47,5 +47,3 @@ It incidentally fixes a longstanding bug for me. When you remote into a computer
 
 This really is changing my work and will help me get things done quicker with better narrative in my documentation.
 
-
-

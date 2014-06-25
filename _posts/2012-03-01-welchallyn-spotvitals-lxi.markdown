@@ -23,4 +23,3 @@ I've wanted this for several years -- I think it'll improve flow, reduce dispari
 
 Keith Tom's practice uses it and loves it. Here's their quick video. By the way, Keith, better start watching your blood pressure. 
 
-

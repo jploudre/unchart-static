@@ -19,7 +19,6 @@ Mac OS X 10.4 has a function called textutil that allows conversion between diff
 
      find . -name *.doc -exec textutil -convert txt '{}' \; 
 
-
 |Command:|What it does:|
 |--------|---------|
 |find|a unix command for directory recursion|

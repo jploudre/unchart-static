@@ -44,5 +44,3 @@ Since the interface doesn't work for efficient workflow, I'm building a new 'pse
 
 If you'd like to help test this,  [you can drop me an e-mail](/about/).
 
-
-

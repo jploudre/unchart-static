@@ -24,7 +24,6 @@ I've just done a little free within-my-practice advertising and wanted to share 
 
 First, **Don't do email lists yourself**. This is a *solved problem* that can be done much better than doing it yourself. I love Mailchimp. The free plan is way more than I need. If you ever need to do this on a larger practice basis (more frequent, more providers), it would scale just fine. 
 
-
 (I don't imagine anyone will ever use this 'Spreading Monkey Love' and I don't really need credits since I use the free account. But here's my referral code.)  
 [![](/files/2012/04/MC_MonkeyReward_05.png)](http://eepurl.com/k0gpf)
 

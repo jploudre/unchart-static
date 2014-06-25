@@ -17,8 +17,6 @@ tags:
 
 View more [presentations](http://www.slideshare.net/) from [Jonathan Ploudre](http://www.slideshare.net/jploudre).
 
-
-
 ### What if you're starting out?
 
 Here's my philosophical overview of how to achieve meaningful use for WIREC's Meaningful Use Best Practices Forum.

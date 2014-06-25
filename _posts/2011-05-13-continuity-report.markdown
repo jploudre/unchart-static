@@ -26,7 +26,6 @@ The report covers the last 365 days before the report and summarizes by month. L
 
   
 
-
 ### Why does Continuity Rock?
 
 * Cancer patients with low primary care continuity are ~4x more likely to have an ER visit than those with high continuity. [See Pubmed Article](http://www.ncbi.nlm.nih.gov/pubmed/12886178).
@@ -45,10 +44,4 @@ What happened: it fizzled. My partners and I were originally looking at and thin
 I call this the '**Cowboy Problem**.' You can't fix continuity like a lone cowboy. It takes a team to do it. It doesn't matter how good my reports are if no one is willing to look at them and think. Generally continuity ought to be a responsibility of reception. They are the ones with the power to create continuity by scheduling patients with their doctor. But in most clinics, docs/nurses are afraid of letting reception have the responsibility. "My schedule is full today and I have that difficult patient coming next. That kid with a cough will have to see a partner or go to urgent care."
 
 So don't waste your time downloading the report above -- unless you could actually do something with it. Could you show someone? Get a conversation going? Actually use the data to figure out the problems with how patients are scheduled?
-
-
-
-
-
-
 

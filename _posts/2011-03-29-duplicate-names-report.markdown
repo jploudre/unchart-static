@@ -23,7 +23,6 @@ We add a special pop up alert to patients who have a name that is the same or si
 
 [![](/files/2011/01/57-download.png) Duplicate Names Report](/files/2011/03/Duplicate-Names-Report.zip)
 
-
 ---------------
 
 ### Report by Sara Evans

@@ -45,10 +45,7 @@ Which the computer translates to
      Discussed the reassuring exam.
      
 
-
 [UnFocus in e-MDs](http://vimeo.com/28491927) from [Jonathan Ploudre](http://vimeo.com/user8098140) on [Vimeo](http://vimeo.com).
-
-
 
 You probably noticed all the ` marks. That's my signal to the computer to listen up, I'm going to type something and I want you to read my mind. I've got about 170 commands covering common labs, all the options for medications or followup. They all roll off my fingers since they are mnemonics that I made. I could literally do this plan with my eyes closed. 
 

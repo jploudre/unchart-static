@@ -39,4 +39,3 @@ So personally, this feels like protectionism and whining from the AAFP. Let's pr
 
 In the 1990s, I heard what I thought was a *damning condemnation* of the AMA and physicians in general. OK, this is unsourced. But in all the discussion of 1990s Health Care Reform, not a single statement from the AMA was about patient-centered issues. It was all about physician reimbursement. Protecting physician rights, etc. All about protecting turf. Hmm, why am I remembering this anecdote now?
 
-
