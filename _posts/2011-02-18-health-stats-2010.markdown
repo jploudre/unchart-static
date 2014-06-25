@@ -1,0 +1,23 @@
+---
+author: jploudre
+comments: false
+date: 2011-02-18 14:39:18+00:00
+layout: post
+slug: health-stats-2010
+title: Health Stats, 2010
+wordpress_id: 445
+categories:
+- theory
+tags:
+- demographics
+- stats
+---
+
+**Percent of people who avoided or delayed care, by insurance**  
+![](http://unchart.com/wp-content/uploads/2011/02/Screen-shot-2011-02-18-at-6.29.15-AM.png)
+
+We're all so busy with day to day that's easy to overlook things. Yearly, the govenment puts out this suumary of health. Hundreds of pages of useful stats. Although Meaningful Use will focus us all on certain measures (and definitely certain PQRI measures, too), here's a step back at what's going on in our system. From 1988 to 2008, say, statin use went from 2% to 25%.
+
+The report has hundreds of these graphs and is a great brainstorming device -- flip through to generate ideas of things you could improve. This definitely calls for an [iPad](http://www.apple.com/ipad/), [Goodreader](http://www.goodreader.net/goodreader.html), and maybe a glass of wine.
+
+[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) CDC's 2010 Health Stats](http://www.cdc.gov/nchs/data/hus/hus10.pdf)

@@ -1,0 +1,458 @@
+/*
+ * https://github.com/poole/poole.
+ * https://github.com/bloom/DOMarkdown
+ */
+
+
+
+
+/*
+ * Body resets
+ *
+ * Update the foundational and global aspects of the page.
+ */
+
+* {
+    font-family: Avenir, Helvetica Neue, Helvetica, Arial, freesans,clean,sans-serif;
+}
+
+html,body,h1,h2,h3,h4,h5,h6,p,blockquote,pre,code,em,img,small,strong,sub,sup,b,i,dl,dt,dd,ol,ul,li,table,tbody,tfoot,thead,tr,th,td {
+    border: 0;
+    /* font-size: <fontsize>px; dynamic variable set in application preferences*/
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+body {
+    /*-webkit-font-smoothing: antialiased;*/
+    background-color: rgba(255,255,255,0.0);
+    padding-top: 12px;
+    padding-right: 30px; /* padding-right: 0; (set to 30 for example render) */
+    padding-bottom: 9px;
+    padding-left: 30px; /* padding-left: 0; (set to 30 for example render) */
+    color: #333;
+}
+
+/* Highlighed Text Color */
+
+::selection {background: #68C6DF; color:#FFFFFF;}
+
+/* EMBEDS */
+img {
+    display: block;
+    padding: 10px 0;
+    max-width: 100%;
+}
+
+.video_embed {
+    display: block;
+    padding: 10px 0;
+    height: <videoheight>px; /* dynamic variable set by application */
+    width: <screenwidth>px; /* dynamic variable set by application */
+}
+
+/* STYLES */
+em {
+    color: #373737;
+}
+
+strong {
+    color: #252525;
+}
+
+a {
+    color: #47B1C7;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EA4C89;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #eaeaea;
+    display: block;
+    height: 1px;
+    margin: 1em 0;
+    padding: 0;
+}
+
+
+/* HEADERS */
+
+
+h1 {
+    font-size: 1.2em;
+    font-weight: 700;
+    line-height: 1.3;
+    margin: 10px 0 7px;
+}
+
+h1.title {
+    font-size: 1.2em;
+    font-weight: 700;
+    color: #26748F;
+    line-height: 1.3;
+    margin: 11px 0 16px;
+}
+
+h2 {
+    color: #333;
+    font-size: 1em;
+    font-weight: 700;
+    line-height: 1.2;
+    margin: 22px 0 7px;
+}
+
+h3,h4,h5,h6 {
+    line-height: 1.1;
+    margin: 24px 0 5px;
+}
+
+h3 {
+    color: #EA4C89;
+    font-size: .85em;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+h4 {
+    color: #26748F;
+    font-size: 1.1em;
+    font-weight: 700;
+    padding-bottom: 3px;
+    border-bottom: 1px solid #ddd;
+}
+
+h5 {
+    font-size: 1em;
+    font-weight: 700;
+    color: #26748F;
+}
+
+h6 {
+    color: #415F6C;
+    font-size: .85em;
+    font-weight: 700;
+    font-variant: italic;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 3px;
+    text-transform: uppercase;
+}
+
+
+dl,ol,ul,p,blockquote,pre {
+    margin-top: 12px;
+    margin-bottom: 18px;
+}
+
+
+
+/* LISTS */
+
+ol,ul {
+    margin: .8em 1em;
+    padding-left: .8em;
+}
+
+ol li {
+    margin-left: 1em;
+    margin-bottom: .3em;
+}
+
+ul li {
+    margin-left: 1em;
+    margin-bottom: .3em;
+}
+
+ol ol,ol ul,ul ol,ul ul {
+    margin: .3em 0;
+}
+
+.footnotes ol li {
+    margin-bottom: 10px;
+    margin-left: 16px;
+    font-weight: 800;
+    font-size: .9em;
+}
+
+.footnotes ol li p {
+    font-weight: 400;
+    font-size: 1em;
+}
+
+/* code */
+/* preformatted */
+blockquote {
+    border-left: solid .4em #ddd;
+    padding-left: 10px;
+    quotes: none;
+}
+
+pre,code,tt {
+    font: 1em 'Bitstream Vera Sans Mono', Courier New, monospace;
+}
+
+pre {
+    background-color: #f8f8f8;
+    border: #E8E8E8 1px solid;
+    color: #444;
+    display: block;
+    margin: 12px 0;
+    overflow: auto;
+    padding: 6px 10px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    cursor: text;
+    max-width: 100%;
+    overflow: auto;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+
+code {
+    color: #2c92b0;
+    border: 1px solid #E8E8E8;
+    font-size: .95em;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+
+pre code {
+    font-size: .95em;
+    padding: 0 !important;
+    background-color: #F6F6F6;
+    border: none !important;
+    overflow: visible;
+}
+
+/* tables */
+table {
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-spacing: 0;
+}
+
+table th {
+    padding: 3px 10px;
+    background-color: #eee;
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+}
+
+th {border-bottom:1px solid #000;font-weight:700;}
+td {border-bottom:1px dotted #222;}
+th,td {padding:4px 10px 4px 0;}
+tfoot {font-style:italic;}
+
+/* sub */
+sup,sub,a.footnote {
+    font-size: 1.4ex;
+    height: 0;
+    line-height: 1;
+    vertical-align: super;
+    position: relative;
+    font-weight: 800;
+}
+
+sub {
+    vertical-align: sub;
+    top: -1px;
+}
+
+small {
+    font-size: 85%;
+}
+
+mark {
+    background: #ff0;
+    color: #000;
+    font-style: italic;
+    font-weight: 600;
+}
+
+
+/*
+ * Custom type
+ *
+ * Extend paragraphs with `.lead` for larger introductory text.
+ */
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+
+/*
+ * Messages
+ *
+ * Show alert messages to users. You may add it to single elements like a `<p>`,
+ * or to a parent if there are multiple elements to show.
+ */
+
+.message {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  color: #717171;
+  background-color: #f9f9f9;
+}
+
+
+/*
+ * Container
+ *
+ * Center the page content.
+ */
+
+.container {
+  max-width: 38rem;
+  padding-left:  1rem;
+  padding-right: 1rem;
+  margin-left:  auto;
+  margin-right: auto;
+}
+
+
+/*
+ * Masthead
+ *
+ * Super small header above the content for site name and short description.
+ */
+
+.masthead {
+  padding-top:    1rem;
+  padding-bottom: 1rem;
+  margin-bottom: 0rem;
+  text-align:right;
+}
+.masthead-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #505050;
+}
+.masthead-title a {
+  color: #505050;
+}
+.masthead-title small {
+  font-size: 75%;
+  font-weight: 400;
+  color: #c0c0c0;
+  letter-spacing: 0;
+}
+
+
+/*
+ * Posts and pages
+ *
+ * Each post is wrapped in `.post` and is used on default and post layouts. Each
+ * page is wrapped in `.page` and is only used on the page layout.
+ */
+
+.page,
+.post {
+  margin-bottom: 4em;
+}
+
+/* Blog post or page title */
+.page-title,
+.post-title,
+.post-title a {
+  color: #303030;
+}
+.page-title,
+.post-title {
+  margin-top: 0;
+}
+
+/* Meta data line below post title */
+.post-date {
+  display: block;
+  margin-top: -.5rem;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+}
+
+/* Related posts */
+.related {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-top: 1px solid #eee;
+}
+.related-posts {
+  padding-left: 0;
+  list-style: none;
+}
+.related-posts h3 {
+  margin-top: 0;
+}
+.related-posts li small {
+  font-size: 75%;
+  color: #999;
+}
+.related-posts li a:hover {
+  color: #268bd2;
+  text-decoration: none;
+}
+.related-posts li a:hover small {
+  color: inherit;
+}
+
+
+/*
+ * Pagination
+ *
+ * Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
+ * there are no more previous or next posts to show.
+ */
+
+.pagination {
+  overflow: hidden; /* clearfix */
+  margin-left: -1rem;
+  margin-right: -1rem;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  color: #ccc;
+  text-align: center;
+}
+
+/* Pagination items can be `span`s or `a`s */
+.pagination-item {
+  display: block;
+  padding: 1rem;
+  border: 1px solid #eee;
+}
+.pagination-item:first-child {
+  margin-bottom: -1px;
+}
+
+/* Only provide a hover state for linked pagination items */
+a.pagination-item:hover {
+  background-color: #f5f5f5;
+}
+
+@media (min-width: 30em) {
+  .pagination {
+    margin: 3rem 0;
+  }
+  .pagination-item {
+    float: left;
+    width: 50%;
+  }
+  .pagination-item:first-child {
+    margin-bottom: 0;
+    border-top-left-radius:    4px;
+    border-bottom-left-radius: 4px;
+  }
+  .pagination-item:last-child {
+    margin-left: -1px;
+    border-top-right-radius:    4px;
+    border-bottom-right-radius: 4px;
+  }
+}

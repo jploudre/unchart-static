@@ -1,0 +1,18 @@
+# Dependencies
+markdown:         kramdown
+highlights:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Unchart
+tagline:          Simply Powerful
+url:              http://unchart.com
+paginate:         1
+baseurl:          /
+author:
+  name:           Jonathan Ploudre
+  url:            https://twitter.com/jploudre
+  email:          jploudre@gmail.com
+
