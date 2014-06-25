@@ -17,4 +17,4 @@ tags:
 
 Here's a summary report of rooming by assistant (summarized by month). This could be used to manage assistants and monitor their effectiveness. Or to spot inefficiencies in the practice.
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Rooming by assistant (month) report](http://unchart.com/wp-content/uploads/2011/01/rooming-by-assistant-month.zip)
+[![](/files/2011/01/57-download.png) Rooming by assistant (month) report](/files/2011/01/rooming-by-assistant-month.zip)

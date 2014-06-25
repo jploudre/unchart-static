@@ -20,7 +20,7 @@ Here's my checklist maker for preventative recommendations in e-MDs. It uses a W
 
 Consider this a proof-of-concept as of 5/5/2010. I'm still refining it for my use and hope to eventually parse through the patient's problem list for secondary prevention recommendations. But it's working for my use.
 
-[![](http://unchart.com/wp-content/uploads/2011/01/45-movie-1.png) See it in action](http://www.youtube.com/watch?v=TiiYyGDDSJg)
+[![](/files/2011/01/45-movie-1.png) See it in action](http://www.youtube.com/watch?v=TiiYyGDDSJg)
 
 
 

@@ -1,0 +1,77 @@
+The Original Server:
+
+Server Software:        Apache/2.2.4
+Server Hostname:        cdastyle.e-mds.com
+Server Port:            80
+
+Document Path:          /cdastyle/cda-styles/cda.xsl
+Document Length:        62742 bytes
+
+Concurrency Level:      5
+Time taken for tests:   22.529 seconds
+Complete requests:      100
+Failed requests:        0
+Write errors:           0
+Total transferred:      6349068 bytes
+HTML transferred:       6320283 bytes
+Requests per second:    4.44 [#/sec] (mean)
+Time per request:       1126.426 [ms] (mean)
+Time per request:       225.285 [ms] (mean, across all concurrent requests)
+Transfer rate:          275.22 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       92  106  23.2     94     206
+Processing:   803 1000 383.2    914    4637
+Waiting:       99  117  20.1    113     193
+Total:        895 1106 383.1   1020    4730
+
+Percentage of the requests served within a certain time (ms)
+  50%   1020
+  66%   1065
+  75%   1169
+  80%   1203
+  90%   1252
+  95%   1303
+  98%   1326
+  99%   4730
+ 100%   4730 (longest request)
+
+My Server
+
+Server Software:        nginx/0.8.53
+Server Hostname:        50.18.44.12
+Server Port:            80
+
+Document Path:          /cdastyle/cda-styles/cda.xsl
+Document Length:        38266 bytes
+
+Concurrency Level:      5
+Time taken for tests:   12.045 seconds
+Complete requests:      100
+Failed requests:        0
+Write errors:           0
+Total transferred:      3848500 bytes
+HTML transferred:       3826600 bytes
+Requests per second:    8.30 [#/sec] (mean)
+Time per request:       602.268 [ms] (mean)
+Time per request:       120.454 [ms] (mean, across all concurrent requests)
+Transfer rate:          312.01 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       52   76  19.8     69     127
+Processing:   451  523  27.2    526     603
+Waiting:       54   74  13.9     73     100
+Total:        516  599  20.8    600     661
+
+Percentage of the requests served within a certain time (ms)
+  50%    600
+  66%    606
+  75%    608
+  80%    611
+  90%    618
+  95%    628
+  98%    651
+  99%    661
+ 100%    661 (longest request)

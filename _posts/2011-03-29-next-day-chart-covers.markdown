@@ -18,7 +18,7 @@ tags:
 
 We run this every afternoon for the following days appointments.  Prints out a simple one page form to verify demographic information for patients that haven't been to the clinic in a while ()45 Days).  Patient makes any corrections directly on the page and we scan to docman.  There is a small known issue where more than one copy prints for some patients, but information is identical.
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Chart Covers](http://unchart.com/wp-content/uploads/2011/03/Chart-Covers.zip)
+[![](/files/2011/01/57-download.png) Chart Covers](/files/2011/03/Chart-Covers.zip)
 
 ---------------
 
@@ -26,5 +26,5 @@ We run this every afternoon for the following days appointments.  Prints out a s
 
 For the past five years, Sara has managed her husband's practice, Evans Dermatology Partners.  Prior to that, she was a management consultant with McKinsey & Co. in Dallas and London.  At McKinsey, her work focused on streamlining clients' retail store operations.  Her undergraduate degree is in Russian from Wesleyan University and she has an MBA from Duke University.  She and her husband Colby live in Austin, TX and have two small boys, with a third expected in August.
 
-![](http://unchart.com/wp-content/uploads/2011/03/sara_evans.jpg.jpg)
+![](/files/2011/03/sara_evans.jpg.jpg)
 

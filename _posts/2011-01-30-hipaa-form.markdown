@@ -15,9 +15,9 @@ tags:
 
 Here's our HIPPA form.  Re-worked for readability and simplicity.
 
-![](http://unchart.com/wp-content/uploads/2011/01/Screen-shot-2011-01-29-at-6.52.55-PM.png)
+![](/files/2011/01/Screen-shot-2011-01-29-at-6.52.55-PM.png)
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) HIPPA Form.doc](http://unchart.com/wp-content/uploads/2011/01/hippa-form-2.0.doc)
+[![](/files/2011/01/57-download.png) HIPPA Form.doc](/files/2011/01/hippa-form-2.0.doc)
 
 
 

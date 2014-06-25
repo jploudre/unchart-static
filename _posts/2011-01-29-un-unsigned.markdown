@@ -37,7 +37,7 @@ There are multi-step instructions included in the zip. Directions assume familia
 5. Hit F1 for the next document
 6. Learning/Using the keyboard shortcuts in the macro will make you quicker over time.
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Un-Unsigned.zip](http://unchart.com/notes/images/Un-Unsigned.zip "Un-Unsigned")
+[![](/files/2011/01/57-download.png) Un-Unsigned.zip](http://unchart.com/notes/images/Un-Unsigned.zip "Un-Unsigned")
 
 * **Known Issue 1** In my clinic, computers have different installs (say, no Bill) so that causes problems for the macro. Wifi problems can also cause it to crash. I could make it more resilient by slowing it down but that degrades it for me personally since I like having it run quickly. I do have a few partners who use this regularly.
 * **Known Issue 2** This includes documents assigned to me. But sometimes the reason it is unsigned was that it wasn't assigned to me. I plan to add a patient-centered report (my patients, documents that are unsigned whether they are mine to sign or not.)

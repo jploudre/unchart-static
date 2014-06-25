@@ -14,13 +14,13 @@ tags:
 - proofofconcept
 ---
 
-![](http://unchart.com/wp-content/uploads/2012/01/Screen-Shot-2012-01-25-at-7.46.18-PM.png)
+![](/files/2012/01/Screen-Shot-2012-01-25-at-7.46.18-PM.png)
 
 
 **Update:** *This appears to be fixed as of today.  Interestingly enough the new formatting doesn't redesign the site but it makes exactly the change that I mention below. This makes it much more usable for patients.* -- Jonathan Ploudre, 1/25/2012
 
 
-[![](http://unchart.com/wp-content/uploads/2012/01/portalscreenshot-300x190.png)](http://unchart.com/wp-content/uploads/2012/01/portalscreenshot.png)
+[![](/files/2012/01/portalscreenshot-300x190.png)](/files/2012/01/portalscreenshot.png)
 
 ## Why does portal look like that?
 
@@ -34,7 +34,7 @@ A year ago when I was pointing out the bug to Tech Support, their advice was tha
 
 Lest it sound like I'm a biased Mac user (which, I am), [Read about the IE Box Model Bug on Wikipedia](http://en.wikipedia.org/wiki/Internet_Explorer_box_model_bug).
 
-[![](http://unchart.com/wp-content/uploads/2012/01/portalscreenshotmarked-300x190.png)](http://unchart.com/wp-content/uploads/2012/01/portalscreenshotmarked.png)
+[![](/files/2012/01/portalscreenshotmarked-300x190.png)](/files/2012/01/portalscreenshotmarked.png)
 
 -------------
 

@@ -22,7 +22,7 @@ But as I mentioned in my [Data Driven Practice](http://unchart.com/2011/data-dri
 
 Different organizations will have different ways of organizing. This could be a starting point about how to organize subsets of benchmarks. I'm using my short titles for benchmarks based on my Meaningful Use Map:
 
-[![](http://unchart.com/wp-content/uploads/2011/02/MU-measures-300x224.png)](http://unchart.com/wp-content/uploads/2011/02/MU-measures.png)
+[![](/files/2011/02/MU-measures-300x224.png)](/files/2011/02/MU-measures.png)
 
 ### Core versus Optional (and what optional benchmarks are you aiming for?)
 ### By **Eligible Provider** (all the benchmarks on 1 page)

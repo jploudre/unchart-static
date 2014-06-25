@@ -20,5 +20,5 @@ There are too many forms in life that seem to be written by lawyers.  Here's Ala
 ------------
  
 
-I use [![](http://unchart.com/wp-content/uploads/2011/01/36-toolbox.png) this online tool](http://www.online-utility.org/english/readability_test_and_improve.jsp) to improve readability.
+I use [![](/files/2011/01/36-toolbox.png) this online tool](http://www.online-utility.org/english/readability_test_and_improve.jsp) to improve readability.
 

@@ -61,7 +61,7 @@ The time saved on clicking is probably much more given some macros save 30 secon
 
 So using my low level data as a family doctor, generally living in e-MDs all day long: I've got more than 1 hour straight clicking/typing per typical workday. And Macros/Abbreviations save me about 15% of the typing/clicking. That's probably my limit because most months are about the same. It's a local maximum for me. I can write more macros but I won't get that much improvement
 
-![](http://unchart.com/wp-content/uploads/2011/03/local-maximum.gif)
+![](/files/2011/03/local-maximum.gif)
 
 The [Local Maximum](http://52weeksofux.com/post/694598769/the-local-maximum) is a key concept. You can only *optimize* so far. Sometimes you need to *redesign*. This applies macros, or to practice processes or graphic design.
 

@@ -15,7 +15,7 @@ tags:
 - usability
 ---
 
-![](http://unchart.com/wp-content/uploads/2011/08/dragonremotemicrophone.png)
+![](/files/2011/08/dragonremotemicrophone.png)
 
 I've been waiting for this!
 

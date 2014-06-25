@@ -30,6 +30,6 @@ Mercy says:
      ( it's opposite as the sending doctor is the 
      referring doctor in e-MDs )
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Follow up Letter to PCP](http://unchart.com/wp-content/uploads/2012/02/follow-up-letter-to-PCP.doc)
+[![](/files/2011/01/57-download.png) Follow up Letter to PCP](/files/2012/02/follow-up-letter-to-PCP.doc)
 
 I'm planning on automating this with Autohotkey (as an experiement) to see if this process could work for her/others.

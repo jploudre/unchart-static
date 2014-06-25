@@ -17,7 +17,7 @@ tags:
 - workaround
 ---
 
-![](http://unchart.com/wp-content/uploads/2011/08/AIbEiAIAAABDCNfdxLH-rsvxIiILdmNhcmRfcGhvdG8qKGJmNzA1ZjRhNDViMGI0ZTliMzU1M2U2Yjg4NDg5MjVlNGQ0OWQ4NjMwAa0sj0W03YTFCtxfJMHI64y6bfUL.jpg)  
+![](/files/2011/08/AIbEiAIAAABDCNfdxLH-rsvxIiILdmNhcmRfcGhvdG8qKGJmNzA1ZjRhNDViMGI0ZTliMzU1M2U2Yjg4NDg5MjVlNGQ0OWQ4NjMwAa0sj0W03YTFCtxfJMHI64y6bfUL.jpg)  
 Chat Kidkul made this report
 
 Chat says:
@@ -34,6 +34,6 @@ Chat says:
      
 I love reports that are 'implemented'. Download if you might actually have your billing use it.
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Insurance Invoice Status Report](http://unchart.com/wp-content/uploads/2011/08/Insurance-Invoice-Status-Report.zip)
+[![](/files/2011/01/57-download.png) Insurance Invoice Status Report](/files/2011/08/Insurance-Invoice-Status-Report.zip)
 
 

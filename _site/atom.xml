@@ -4,7 +4,7 @@
  <title>Unchart</title>
  <link href="http://unchart.com/atom.xml" rel="self"/>
  <link href="http://unchart.com/"/>
- <updated>2014-06-24T22:12:13-07:00</updated>
+ <updated>2014-06-24T22:33:30-07:00</updated>
  <id>http://unchart.com</id>
  <author>
    <name>Jonathan Ploudre</name>
@@ -19,11 +19,11 @@
    <id>http://unchart.com/about%20unchart/2013/01/29/happy-2nd-birthday-unchart</id>
    <content type="html">&lt;p&gt;It’s been about 2 years since I started UnChart. I thought I’d do a run through of the numbers. I love analytics. There’s been about 9500 visits, averaging just under 4 minutes on the site. About 5000 unique visitors. Here’s my traffic over the 2 years. That spike in the middle was the Meaningful Use Stage 2 Summary for Providers that John Crankshaw and I did. &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2013/01/Screen-Shot-2013-01-29-at-6.36.59-PM-300x69.png&quot; alt=&quot;&quot; /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2013/01/Screen-Shot-2013-01-29-at-6.36.59-PM-300x69.png&quot; alt=&quot;&quot; /&gt; &lt;/p&gt;
 
 &lt;p&gt;The top 4 browsers were IE, Chrome, Firefox and Safari. In that order. I find that interesting because for several years I have complained to e-MDs that Portal doesn’t layout appropriately in Modern Browsers. Less than half of my visitors use Internet Explorer. &lt;a href=&quot;http://unchart.com/2012/encourage-e-mds-to-fix-portal-usability/&quot;&gt;That campaign to convince e-MDs to fix portal usability&lt;/a&gt; was probably the first time SupportCenter had been used systematically to raise awareness with e-MDs. Interesting coincidence, a couple weeks later, the exact fix that I had recommended went out to Portal.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2013/01/Screen-Shot-2013-01-29-at-6.41.45-PM.png&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2013/01/Screen-Shot-2013-01-29-at-6.41.45-PM-300x245.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2013/01/Screen-Shot-2013-01-29-at-6.41.45-PM.png&quot;&gt;&lt;img src=&quot;/files/2013/01/Screen-Shot-2013-01-29-at-6.41.45-PM-300x245.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;/p&gt;
 
 &lt;p&gt;Google is now a significant source of traffic – I’ve had about a couple thousand visitors from Google links. (Comparatively: for me, Bing is 20x smaller. No other search engine shows up.) There are no advertisements (other than, I guess, stuff I advertise for myself.) &lt;/p&gt;
 
@@ -53,7 +53,7 @@
    <link href="http://unchart.com//about%20unchart/2013/01/29/meet-jordan-collier/"/>
    <updated>2013-01-29T07:00:32-08:00</updated>
    <id>http://unchart.com/about%20unchart/2013/01/29/meet-jordan-collier</id>
-   <content type="html">&lt;p&gt;[caption id=”attachment_1375” align=”alignnone” width=”300’]&lt;a href=&quot;http://unchart.com/wp-content/uploads/2013/01/IMG_0754.jpg&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2013/01/IMG_0754-300x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;[/caption]  &lt;/p&gt;
+   <content type="html">&lt;p&gt;[caption id=”attachment_1375” align=”alignnone” width=”300’]&lt;a href=&quot;/files/2013/01/IMG_0754.jpg&quot;&gt;&lt;img src=&quot;/files/2013/01/IMG_0754-300x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;[/caption]  &lt;/p&gt;
 
 &lt;p&gt;Hey everyone!&lt;/p&gt;
 
@@ -75,7 +75,7 @@
    <id>http://unchart.com/theory/2012/09/21/leadership-or-whining</id>
    <content type="html">&lt;p&gt;First, some background. A few days ago, the AAFP released a &lt;a href=&quot;http://www.aafp.org/online/en/home/membership/initiatives/nps/patientcare/changing.html&quot;&gt;statement against expanding roles for Nurse Practitioners&lt;/a&gt;. The tagline: &lt;em&gt;Ensuring a quality, physician-led team for every patient.&lt;/em&gt; &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/09/PCMH-AAFPInfographic.pdf&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/17-bar-chart.png&quot; alt=&quot;&quot; /&gt; One Page AAFP Infographic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/09/PCMH-AAFPInfographic.pdf&quot;&gt;&lt;img src=&quot;/files/2011/01/17-bar-chart.png&quot; alt=&quot;&quot; /&gt; One Page AAFP Infographic&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Nurse practitioners have started to respond. CKRN wrote about &lt;a href=&quot;http://ckrn.tumblr.com/post/31940128969/nurse-practitioners-scope-of-practice-and-turf&quot;&gt;Nurse Practitioners, Scope of Practice and turf.&lt;/a&gt; (Go ahead and read it, I’ll wait here. )&lt;/p&gt;
 
@@ -204,7 +204,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/09/Simple2Start.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/09/Simple2Start.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I bought a &lt;a href=&quot;http://professional.medtronicdiabetes.com/hcp-products/ipro2&quot;&gt;Meditronic iPro Continuous Glucose Monitor&lt;/a&gt;.&lt;/p&gt;
 
@@ -261,7 +261,7 @@
    <link href="http://unchart.com//hardware/software/2012/09/07/fitting-the-welchallyn-spot-vitals-into-e-mds/"/>
    <updated>2012-09-07T10:14:38-07:00</updated>
    <id>http://unchart.com/hardware/software/2012/09/07/fitting-the-welchallyn-spot-vitals-into-e-mds</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/08/450x0-E1-2-150x150.jpg&quot; alt=&quot;&quot; /&gt; After I attested for 2011 Meaningful Use, my group decided to have the doc decide on some of the ‘re-investments’ in our practice. The second thing I got was the WelchAllyn SpotVitals Lxi. (Bigger monitors for reception was first.) I had been interested in this for at least a couple years. A while back, I posted a &lt;a href=&quot;http://unchart.com/2012/welchallyn-spotvitals-lxi/&quot;&gt;video on using the SpotVitals&lt;/a&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/08/450x0-E1-2-150x150.jpg&quot; alt=&quot;&quot; /&gt; After I attested for 2011 Meaningful Use, my group decided to have the doc decide on some of the ‘re-investments’ in our practice. The second thing I got was the WelchAllyn SpotVitals Lxi. (Bigger monitors for reception was first.) I had been interested in this for at least a couple years. A while back, I posted a &lt;a href=&quot;http://unchart.com/2012/welchallyn-spotvitals-lxi/&quot;&gt;video on using the SpotVitals&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Automated vitals addresses a few different issues for my practice:&lt;/p&gt;
 
@@ -283,7 +283,7 @@
 &lt;p&gt;Since the machine is expensive, we’ve been re-working clinical processes. Lately we’ve been trying doing vitals out in the waiting room. There are some communication issues between staff. On our next pilot, we’re going to add a few ‘rooms’ to our clinic dashboard. There will be ‘Vitals-Room’ and ‘Vitals Done’ so clinical staff can tell where a pt is in the process (and if there’s a backup, they can route around it.) My goal has been to help my staff decide what they want (not tell them.) So we’re still trying different things out.&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/09/vitalsbackground-300x185.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/09/vitalsbackground-300x185.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Since the interface doesn’t work for efficient workflow, I’m building a new ‘pseudo-interface’. This will pop up from within a patient’s chart in e-MDs. I’m working with my staff to figure out the best place to put this. I’m trying a couple different things to make this work. First, much larger font-size so they can see typos better. The left side of this maps to where the vitals are on the machine. (Faster for staff, less cognitive-load so less error prone.) Tabbing through fields works in the order that they work (Again, faster). The results will be put into e-MDs where there’s full details – for example, which arm for the blood pressure. So we simplify input for reliability. &lt;/p&gt;
 
@@ -315,7 +315,7 @@
 
 &lt;p&gt;So I decided to buy a &lt;a href=&quot;http://www.knowbrainer.com/NewStore/pc/viewPrd.asp?idproduct=402&amp;idcategory;=58&quot;&gt;$279 Speechware Mic from Knowbrainer&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/06/speechware1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/06/speechware1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I have to say, I was surprised. I recreated a profile (pro tip: Any time you change Dragon Versions, your computer or your microphone, start a new profile. It’s work but it makes sure that each part is being maximized.) And the performance is much better. I still slur certain words but it felt that nearly all of my errors are either slurring or words that aren’t in my custom dictionary.&lt;/p&gt;
 
@@ -335,7 +335,7 @@
 
 &lt;p&gt;The biggest problem with side projects like this, is finding time to do them. Yesterday afternoon I had a few hours while I was on call and so I got a table and have put it together.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/07/consultoffice-300x225.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/07/consultoffice-300x225.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -356,7 +356,7 @@
 
 &lt;p&gt;And the last table shows the number of continuity visit/invoices for the providers and patients.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/06/ideal-panel-size-data.rpt_.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Ideal Panel Size Report&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/06/ideal-panel-size-data.rpt_.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Ideal Panel Size Report&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The real question for a group: &lt;strong&gt;Could you use this kind of data to make decisions about how to manage panel sizes?&lt;/strong&gt;&lt;/p&gt;
 
@@ -416,13 +416,13 @@ efficience (cheaper). Larger screen will allow showing multiple schedules. More 
    <link href="http://unchart.com//software/2012/05/25/appointment-status-by-month/"/>
    <updated>2012-05-25T09:42:27-07:00</updated>
    <id>http://unchart.com/software/2012/05/25/appointment-status-by-month</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/05/billsweeney.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/05/billsweeney.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Bill Sweeney of Mid State Health wrote this report.&lt;/p&gt;
 
 &lt;p&gt;This shows normal vs new patients per month. It also includes distinct patients in that time.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/05/Appointment-Status-by-Month.rpt_.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Appointment Status by Month&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/05/Appointment-Status-by-Month.rpt_.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Appointment Status by Month&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -433,13 +433,13 @@ efficience (cheaper). Larger screen will allow showing multiple schedules. More 
    <id>http://unchart.com/software/2012/05/25/portal-patients-email-and-expiration-dates</id>
    <content type="html">&lt;p&gt;Here’s another report by Bill Sweeney from Mid-State Health.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/05/311131.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/05/311131.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Bill creates awesome flat file reports. This is just begging for some simple list work in  Excel (See my &lt;a href=&quot;http://unchart.com/2011/data-driven-practice/&quot;&gt;Data-Driven Practice&lt;/a&gt; page). &lt;/p&gt;
 
 &lt;p&gt;In my practice we didn’t fully realize how expiration dates worked. We used 1 year later – now patients portal is expiring. We need to change the date to a later one. I think we’re going to use a macro to loop through and update expiration dates. It’ll be the &lt;a href=&quot;http://unchart.com/2011/macro-to-add-flowsheets-in-e-mds/&quot;&gt;same technique I used to add preventive flowsheet&lt;/a&gt; by looping through a list of accounts.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/05/Portal-Patients-with-email-and-expiration.rpt_.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Portal Patients (with email and expiration dates)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/05/Portal-Patients-with-email-and-expiration.rpt_.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Portal Patients (with email and expiration dates)&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -452,7 +452,7 @@ efficience (cheaper). Larger screen will allow showing multiple schedules. More 
 
 &lt;hr /&gt;
 
-&lt;p&gt;Jeff’s Current Recommendation (Free):  &lt;a href=&quot;http://timesynctool.com/&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; NetTime&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jeff’s Current Recommendation (Free):  &lt;a href=&quot;http://timesynctool.com/&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; NetTime&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;daily-frustration-with-access-violations&quot;&gt;Daily frustration with access violations&lt;/h2&gt;
 
@@ -520,7 +520,7 @@ efficience (cheaper). Larger screen will allow showing multiple schedules. More 
   &lt;li&gt;Removal of HPI (now an option from e-MDs) allows more visit summaries to be available at the visit (with an incomplete note.)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/05/Screen-Shot-2012-05-14-at-9.33.56-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/05/Screen-Shot-2012-05-14-at-9.33.56-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -540,7 +540,7 @@ efficience (cheaper). Larger screen will allow showing multiple schedules. More 
 &lt;p&gt;First, &lt;strong&gt;Don’t do email lists yourself&lt;/strong&gt;. This is a &lt;em&gt;solved problem&lt;/em&gt; that can be done much better than doing it yourself. I love Mailchimp. The free plan is way more than I need. If you ever need to do this on a larger practice basis (more frequent, more providers), it would scale just fine. &lt;/p&gt;
 
 &lt;p&gt;(I don’t imagine anyone will ever use this ‘Spreading Monkey Love’ and I don’t really need credits since I use the free account. But here’s my referral code.)&lt;br /&gt;
-&lt;a href=&quot;http://eepurl.com/k0gpf&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/04/MC_MonkeyReward_05.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;http://eepurl.com/k0gpf&quot;&gt;&lt;img src=&quot;/files/2012/04/MC_MonkeyReward_05.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;With MailChimp you get tools that allow you to automatically do things right:&lt;/p&gt;
 
@@ -571,13 +571,13 @@ efficience (cheaper). Larger screen will allow showing multiple schedules. More 
 
 &lt;p&gt;Here’s the first 2 days of opens:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/04/Screen-Shot-2012-04-16-at-10.23.09-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/04/Screen-Shot-2012-04-16-at-10.23.09-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;my-campaign-design&quot;&gt;My Campaign Design&lt;/h2&gt;
 
 &lt;p&gt;I wanted this email to be personal (vs. corporate) so I included a picture of me with one of my daughters. I aimed the ‘voice’ as being from me, not my clinic. I also wrote the text for simplicity (&lt;a href=&quot;http://unchart.com/?s=readability&quot;&gt;low reading level is a theme on unchart&lt;/a&gt;….)  It looks partly like this:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/04/Screen-Shot-2012-04-16-at-10.27.46-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/04/Screen-Shot-2012-04-16-at-10.27.46-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;My text:&lt;/p&gt;
 
@@ -616,7 +616,7 @@ that….)&lt;/p&gt;
 
 &lt;p&gt;Flowsheet links are ‘brittle’ so the exact wording matters. For my clinic the flowsheet links don’t work but it would be a starting point for making our own.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/04/Laboratory_Results.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Laboratory_Results&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/04/Laboratory_Results.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Laboratory_Results&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -629,7 +629,7 @@ that….)&lt;/p&gt;
 
 &lt;p&gt;This includes some billing codes (so you can get credit for reviewing and interpreting Vanderbilts, for example.)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/04/Psychological_Testing.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Psychological_Testing Template&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/04/Psychological_Testing.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Psychological_Testing Template&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -638,13 +638,13 @@ that….)&lt;/p&gt;
    <link href="http://unchart.com//clinical/theory/2012/03/28/practice-improvement-3-2012-podcast/"/>
    <updated>2012-03-28T19:30:42-07:00</updated>
    <id>http://unchart.com/clinical/theory/2012/03/28/practice-improvement-3-2012-podcast</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/03/practice-improvement-podcast.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2012/03/practice-improvement-podcast.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to everyone who participated. I &lt;a href=&quot;http://unchart.com/2012/lessons-from-hosting-my-first-webex/&quot;&gt;learned a lot&lt;/a&gt; about hosting a webex. The more I edited myself out of the podcast, the bettter it gets.&lt;/p&gt;
 
 &lt;p&gt;Load in iTunes:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://itunes.apple.com/us/podcast/unchart/id514823962&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/03/Screen-Shot-2012-03-26-at-6.41.42-AM1.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://itunes.apple.com/us/podcast/unchart/id514823962&quot;&gt;&lt;img src=&quot;/files/2012/03/Screen-Shot-2012-03-26-at-6.41.42-AM1.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;There’s some sweet nuggets in here. So load it into your phone and listen during your commute.&lt;/p&gt;
 
@@ -732,7 +732,7 @@ Dr. Jonathan Ploudre&lt;/p&gt;
 
 &lt;p&gt;If you have Pages on a Mac or iPad or iPhone, here’s the actual document.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/03/DM-Group-Visit-Invite.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/03/Screen-Shot-2012-03-18-at-10.20.54-AM.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/03/DM-Group-Visit-Invite.zip&quot;&gt;&lt;img src=&quot;/files/2012/03/Screen-Shot-2012-03-18-at-10.20.54-AM.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 DM Group Visit Invite&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
@@ -752,7 +752,7 @@ DM Group Visit Invite&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This reports people seen in the last 5 days, who have Medicare, and who had an e-prescription done in the past 5 days. In our practice docs don’t do e-prescribing outside of visits (Nurses handle refills) so for us, this is a valid shortcut for e-prescription with a visit.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/03/Medicare-Prescription-Check.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Medicare Prescription Check&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/03/Medicare-Prescription-Check.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Medicare Prescription Check&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -760,7 +760,7 @@ DM Group Visit Invite&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;For the past five years, Sara has managed her husband’s practice, Evans Dermatology Partners.  Prior to that, she was a management consultant with McKinsey &amp;amp; Co. in Dallas and London.  At McKinsey, her work focused on streamlining clients’ retail store operations.  Her undergraduate degree is in Russian from Wesleyan University and she has an MBA from Duke University.  She and her husband Colby live in Austin, TX and have three children.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/03/sara_evans.jpg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/03/sara_evans.jpg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -772,14 +772,14 @@ DM Group Visit Invite&lt;/a&gt;&lt;/p&gt;
    <id>http://unchart.com/software/2012/03/10/checked-in-by-date-range-report</id>
    <content type="html">&lt;p&gt;Here’s a report by Bill Sweeney from Mid-State Health.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/05/311131.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/05/311131.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;It generates a nice flat file list of appointments that you can select by date. Includes check in time, date, check out time, and optionally who did the check in. &lt;/p&gt;
 
 &lt;p&gt;I love ‘flat file’ reports like this – it allows you to do your own analysis in an easier tool like Excel (See my &lt;a href=&quot;http://unchart.com/2011/data-driven-practice/&quot;&gt;Data-Driven Practice&lt;/a&gt; page) With just a few extra columns and a pivot table, I could answer questions like: Are Monday Appointments longer? Do my receptionists share check-in equally?&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/03/Checked-in-by-Date-Range.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/03/Screen-Shot-2012-03-10-at-9.09.53-AM.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Checked in by Date Range&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/03/Checked-in-by-Date-Range.zip&quot;&gt;&lt;img src=&quot;/files/2012/03/Screen-Shot-2012-03-10-at-9.09.53-AM.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Checked in by Date Range&lt;/a&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -791,10 +791,10 @@ DM Group Visit Invite&lt;/a&gt;&lt;/p&gt;
    <id>http://unchart.com/business/2012/03/03/stage-2-proposed-guidelines</id>
    <content type="html">&lt;h2 id=&quot;print-this-for-yourself-and-your-partners&quot;&gt;Print this for yourself and your partners&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/03/Proposed-Stage-2.pdf&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/03/Screen-Shot-2012-03-03-at-8.52.10-AM.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/03/Proposed-Stage-2.pdf&quot;&gt;&lt;img src=&quot;/files/2012/03/Screen-Shot-2012-03-03-at-8.52.10-AM.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 Download Handout: Proposed MU Stage 2 Benchmarks&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/185-printer.png&quot; alt=&quot;&quot; /&gt; Made for printing double side.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/01/185-printer.png&quot; alt=&quot;&quot; /&gt; Made for printing double side.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;p&gt;This was written initially by John Crankshaw as a forum post, then we collaborated to make it into a handout. Since these are ‘proposed’ guidelines, these are our interpretations.&lt;/p&gt;
@@ -806,7 +806,7 @@ Download Handout: Proposed MU Stage 2 Benchmarks&lt;/a&gt;&lt;/p&gt;
    <link href="http://unchart.com//hardware/2012/03/01/welchallyn-spotvitals-lxi/"/>
    <updated>2012-03-01T10:59:17-08:00</updated>
    <id>http://unchart.com/hardware/2012/03/01/welchallyn-spotvitals-lxi</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/08/450x0-E1-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/08/450x0-E1-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I’ve wanted this for several years – I think it’ll improve flow, reduce disparities in vitals and reduce transcription errors on vitals. If we implement this right, we can even use it to improve the human-ness of our rooming.&lt;/p&gt;
 
@@ -836,7 +836,7 @@ Download Handout: Proposed MU Stage 2 Benchmarks&lt;/a&gt;&lt;/p&gt;
  referring doctor in e-MDs )
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/02/follow-up-letter-to-PCP.doc&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Follow up Letter to PCP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/02/follow-up-letter-to-PCP.doc&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Follow up Letter to PCP&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I’m planning on automating this with Autohotkey (as an experiement) to see if this process could work for her/others.&lt;/p&gt;
 </content>
@@ -855,7 +855,7 @@ Download Handout: Proposed MU Stage 2 Benchmarks&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This creates a coversheet and then the notes (only those marked as NEWP or CONS). Obviously this needs to be modified per clinic but it’s a template.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/02/Notes-to-PCPs.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Notes to PCPs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/02/Notes-to-PCPs.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Notes to PCPs&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -863,7 +863,7 @@ Download Handout: Proposed MU Stage 2 Benchmarks&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;For the past five years, Sara has managed her husband’s practice, Evans Dermatology Partners.  Prior to that, she was a management consultant with McKinsey &amp;amp; Co. in Dallas and London.  At McKinsey, her work focused on streamlining clients’ retail store operations.  Her undergraduate degree is in Russian from Wesleyan University and she has an MBA from Duke University.  She and her husband Colby live in Austin, TX and have three children.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/03/sara_evans.jpg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/03/sara_evans.jpg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -873,7 +873,7 @@ Download Handout: Proposed MU Stage 2 Benchmarks&lt;/a&gt;&lt;/p&gt;
    <link href="http://unchart.com//theory/2012/02/13/practice-improvement-webinar-2012/"/>
    <updated>2012-02-13T21:51:50-08:00</updated>
    <id>http://unchart.com/theory/2012/02/13/practice-improvement-webinar-2012</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/02/unchart-practice-improvement-webinar.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2012/02/unchart-practice-improvement-webinar.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;“The future is already here – it’s just not very evenly distributed.”&lt;br /&gt;
  —William Gibson&lt;/p&gt;
@@ -982,7 +982,7 @@ the final rule published by CMS. Secure sharing is central to Meaningful use. By
    <id>http://unchart.com/software/2012/01/13/interfacing-devices-to-e-mds</id>
    <content type="html">&lt;p&gt;John Crankshaw mentioned a process for interfacing devices to e-MDs (without having to buy the more expensive models that are supported.) &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/01/ZanimageDocmanBatchscreenshots.docx.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt;Printable Word Document&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/01/ZanimageDocmanBatchscreenshots.docx.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt;Printable Word Document&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Take it away Dr. Crankshaw….&lt;/p&gt;
 
@@ -994,11 +994,11 @@ the final rule published by CMS. Secure sharing is central to Meaningful use. By
 Since the Midmark system allows us to add the e-mds ID to the demographics, we are then capable of importing the results directly into the patients chart.  The zan image printer, during tiff conversion, is able to scan the document for the e-mds ID and include it in the file name, which then allows the Docman Batch Import Utility to import the document directly into the patient’s chart and notify a user the results are ready.&lt;br /&gt;
 The first step is setting up the Docman Batch Import Utility if you haven’t set it up yet.  It should be installed on just one computer.  The utility is on the latest e-mds solution series disc if you haven’t installed it.  When you install from the e-mds disc, click custom and check it off.   I would recommend looking at the instructions for the Docman Batch Import Utility on the last disc you have from e-mds or download the instructions from the e-mds support center.  It will walk you through the installation steps.   The Docman Utility gets installed as a service on your computer.  The utility needs to have constant access to the shared folders it is monitoring.  If the shared folders are on a different computer and that computer is turned off, then the utility will not work when that other computer is restarted.   The service will need to be restarted.    I recommend that the computers that have the shared folders be constantly on.   Here is a screenshot of the Docman Utility Service:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/01/docman-utility.png&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/01/docman-utility-300x224.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/01/docman-utility.png&quot;&gt;&lt;img src=&quot;/files/2012/01/docman-utility-300x224.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;After installing the Docman Utility, you will need to set up shared folders on the computer you will be downloading results.    The following are screenshots from our Midmark computer of the folder setup: &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/01/midmark-import.png&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/01/midmark-import-150x150.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/01/midmark2.png&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/01/midmark2-150x150.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/01/midmark-import.png&quot;&gt;&lt;img src=&quot;/files/2012/01/midmark-import-150x150.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;/files/2012/01/midmark2.png&quot;&gt;&lt;img src=&quot;/files/2012/01/midmark2-150x150.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Finally, you will have to change the settings in the Docman Utility.  The following are my settings for the Midmark import:&lt;/p&gt;
 
@@ -1011,7 +1011,7 @@ The first step is setting up the Docman Batch Import Utility if you haven’t se
   &lt;li&gt;Auto Tasking -  Check Send Taskman message -  then choose who you want to receive the message when imported and who should get a message if it didn’t work right.   (exception).&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/01/docman-settings.png&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/01/docman-settings-150x150.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/01/docman-settings.png&quot;&gt;&lt;img src=&quot;/files/2012/01/docman-settings-150x150.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The next step is installing and setting up the Zan Image Printer on the computer you will download the information to.  For us, we installed it on the same computer that has the Midmark software.  The Zan Image Printer is third party software that has a nominal cost. http://www.zan1011.com/ 
  (Disclosure: I have no relation financially with the makers of Zan Image printer).&lt;/p&gt;
@@ -1027,10 +1027,10 @@ I’ll go through each tab in the printing preferences with screen shots for eac
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/01/ZanimageDocmanBatchscreenshots.docx&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Download the printable Word Document with all the screenshots&lt;/a&gt;**&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/01/ZanimageDocmanBatchscreenshots.docx&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Download the printable Word Document with all the screenshots&lt;/a&gt;**&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/03/joker.jpg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/03/joker.jpg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This was shared by John Crankshaw, MD&lt;/p&gt;
 </content>
@@ -1045,7 +1045,7 @@ I’ll go through each tab in the printing preferences with screen shots for eac
 
 &lt;p&gt;Mal Riddell has offered his template:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/01/Coumadin__Plan__MR.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Coumadin Plan Template&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/01/Coumadin__Plan__MR.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Coumadin Plan Template&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Mal’s process: We use a shortcut for our INR/PT patients that includes a  99211 charge for the most part.  If I see them significantly, I delete the charge and add the appropriate charge after the visit.    The template is a generic plan template and allows for changes in dose.  The nurse loads the previous template in the current note (via the Shortcut) and adds the INR value.  If it is within range, there is no change and the patient returns the following month.  If needed, I can see the patient and make changes to the dose.  I use a base of 5 mg tabs and alter the dose by ½ tab increments, based upon a weekly total dose. &lt;/p&gt;
 
@@ -1178,7 +1178,7 @@ I’ll go through each tab in the printing preferences with screen shots for eac
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/01/Coumadin-Packet.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/01/coumadin-instructions2-285x300.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/01/Coumadin-Packet.zip&quot;&gt;&lt;img src=&quot;/files/2012/01/coumadin-instructions2-285x300.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 Coumadin Packet&lt;/a&gt;&lt;/p&gt;
 
 </content>
@@ -1189,7 +1189,7 @@ Coumadin Packet&lt;/a&gt;&lt;/p&gt;
    <link href="http://unchart.com//software/2012/01/08/encourage-e-mds-to-fix-portal-usability/"/>
    <updated>2012-01-08T13:01:03-08:00</updated>
    <id>http://unchart.com/software/2012/01/08/encourage-e-mds-to-fix-portal-usability</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/01/Screen-Shot-2012-01-25-at-7.46.18-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2012/01/Screen-Shot-2012-01-25-at-7.46.18-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; &lt;em&gt;This appears to be fixed as of today.  Interestingly enough the new formatting doesn’t redesign the site but it makes exactly the change that I mention below. This makes it much more usable for patients.&lt;/em&gt; – Jonathan Ploudre, 1/25/2012&lt;/p&gt;
 
@@ -1201,11 +1201,11 @@ Coumadin Packet&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;edit-your-profile-to-add-the-signature&quot;&gt;Edit your profile to add the signature.&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/01/Screen-Shot-2012-01-08-at-12.50.35-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/01/Screen-Shot-2012-01-08-at-12.50.35-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/01/edit-profile.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/01/edit-profile.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/01/edit-signature.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/01/edit-signature.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -1218,7 +1218,7 @@ Coumadin Packet&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;then-add-signatures-when-you-post-to-supportcenter&quot;&gt;Then add signatures when you post to SupportCenter.&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/01/Screen-Shot-2012-01-08-at-12.59.00-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/01/Screen-Shot-2012-01-08-at-12.59.00-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -1228,11 +1228,11 @@ Coumadin Packet&lt;/a&gt;&lt;/p&gt;
    <link href="http://unchart.com//software/2012/01/08/portal-layout-bug/"/>
    <updated>2012-01-08T08:48:06-08:00</updated>
    <id>http://unchart.com/software/2012/01/08/portal-layout-bug</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/01/Screen-Shot-2012-01-25-at-7.46.18-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2012/01/Screen-Shot-2012-01-25-at-7.46.18-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; &lt;em&gt;This appears to be fixed as of today.  Interestingly enough the new formatting doesn’t redesign the site but it makes exactly the change that I mention below. This makes it much more usable for patients.&lt;/em&gt; – Jonathan Ploudre, 1/25/2012&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/01/portalscreenshot.png&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/01/portalscreenshot-300x190.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/01/portalscreenshot.png&quot;&gt;&lt;img src=&quot;/files/2012/01/portalscreenshot-300x190.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;why-does-portal-look-like-that&quot;&gt;Why does portal look like that?&lt;/h2&gt;
 
@@ -1246,7 +1246,7 @@ Coumadin Packet&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Lest it sound like I’m a biased Mac user (which, I am), &lt;a href=&quot;http://en.wikipedia.org/wiki/Internet_Explorer_box_model_bug&quot;&gt;Read about the IE Box Model Bug on Wikipedia&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/01/portalscreenshotmarked.png&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/01/portalscreenshotmarked-300x190.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/01/portalscreenshotmarked.png&quot;&gt;&lt;img src=&quot;/files/2012/01/portalscreenshotmarked-300x190.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -1346,7 +1346,7 @@ reorganize the css&lt;/a&gt; rather than just hack the number like I mention abo
 
 &lt;p&gt;So, if you get a warning box every time you do a search, do you really read it? You might the first time, right? I could see where there should be a usage and privacy policy. Curent design is to have it interrupt you every time you log in. It’s not much of a welcome:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/01/Screen-Shot-2012-01-04-at-11.43.40-PM-300x236.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/01/Screen-Shot-2012-01-04-at-11.43.40-PM-300x236.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I doubt that 5% of users will actually read it after the first time. (Taunt for PMP Designers: Use your server logs/analytics to disprove me.) This looks like it was designed by a lawyer with no consideration for whether it would do anything but slow providers/pharmacists down. Um, it might have been.&lt;/p&gt;
 
@@ -1391,17 +1391,17 @@ reorganize the css&lt;/a&gt; rather than just hack the number like I mention abo
 
 &lt;p&gt;If you move your eyes through the search form, you have a jumble of needing to carefully check everything. &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2012/01/Screen-Shot-2012-01-05-at-1.00.10-AM.png&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/01/Screen-Shot-2012-01-05-at-1.00.10-AM-300x247.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2012/01/Screen-Shot-2012-01-05-at-1.00.10-AM.png&quot;&gt;&lt;img src=&quot;/files/2012/01/Screen-Shot-2012-01-05-at-1.00.10-AM-300x247.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Some of the available options, seem to be missing the whole point of a &lt;strong&gt;statewide prescription monitoring program&lt;/strong&gt;. Why give an option to search by county? That’s close to never useful. If location really mattered they would do ‘within 10/25/50/100 miles’. (The DEA knows my address already without me typing it in.) &lt;/p&gt;
 
 &lt;p&gt;Something like this would be better:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/01/PMP-Search-Revised.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/01/PMP-Search-Revised.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Honestly you could simplify to just Patient Name/DOB (since Dispense dates appear to autofill, anyhow). Just give advanced options for all those providers who only care about your zip code or county. (Why would they want to know if you go across town? Oh, wait, that’s the whole point.)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2012/01/Screen-Shot-2012-01-05-at-1.24.52-AM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/01/Screen-Shot-2012-01-05-at-1.24.52-AM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;bonus-issue-design-from-1998&quot;&gt;Bonus Issue: Design from 1998&lt;/h2&gt;
 
@@ -1423,16 +1423,16 @@ reorganize the css&lt;/a&gt; rather than just hack the number like I mention abo
 
 &lt;p&gt;I use a small freeware program to fix this:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/29-heart.png&quot; alt=&quot;&quot; /&gt; &lt;a href=&quot;http://dimio.altervista.org/eng/&quot;&gt;DShutdown by Dimio&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/01/29-heart.png&quot; alt=&quot;&quot; /&gt; &lt;a href=&quot;http://dimio.altervista.org/eng/&quot;&gt;DShutdown by Dimio&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;p&gt;I have mine set up like this (click on the screenshot to see it full size):&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/12/screenshot.4.png&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/12/screenshot.4-281x300.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/12/screenshot.4.png&quot;&gt;&lt;img src=&quot;/files/2011/12/screenshot.4-281x300.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Down in the bottom left, I set up the timer like this. So everyday at 11pm it force logs out of my machine. When this app is on, you can see it’s icon down in the system tray.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/12/screenshot.3.png&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/12/screenshot.3-235x300.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/12/screenshot.3.png&quot;&gt;&lt;img src=&quot;/files/2011/12/screenshot.3-235x300.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -1454,7 +1454,7 @@ reorganize the css&lt;/a&gt; rather than just hack the number like I mention abo
 
 &lt;p&gt;I wanted to know if my recent lecture to MS3s was on target so I did a 2 question form.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/12/Screen-Shot-2011-12-14-at-7.38.02-AM.png&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/12/Screen-Shot-2011-12-14-at-7.38.02-AM-300x290.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/12/Screen-Shot-2011-12-14-at-7.38.02-AM.png&quot;&gt;&lt;img src=&quot;/files/2011/12/Screen-Shot-2011-12-14-at-7.38.02-AM-300x290.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;And now I know.&lt;/p&gt;
 
@@ -1572,7 +1572,7 @@ Also an option for when a patient destroys the cast
 and we need to replace it (we charge for that). 
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/10/Closed_Treatment_Casting.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Closed_Treatment_Casting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/10/Closed_Treatment_Casting.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Closed_Treatment_Casting&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1655,8 +1655,8 @@ and we need to replace it (we charge for that).
 
 &lt;p&gt;If you’re looking for a beautiful overview of security, Kyle Homstead’s presentation from the e-MDs User Conference in 2010 is excellent. It has been available on supportcenter in the past. Doesn’t seem to be on his blog at Healthlens.org anymore.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/09/Meaningful-Use-Security-Documents.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/09/cybersecurity-cover.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Meaningful Use Security Documents&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/09/Meaningful-Use-Security-Documents.zip&quot;&gt;&lt;img src=&quot;/files/2011/09/cybersecurity-cover.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Meaningful Use Security Documents&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1770,7 +1770,7 @@ and we need to replace it (we charge for that).
    <id>http://unchart.com/software/2011/09/06/ros-and-fast-forms-a-simple-work-flow</id>
    <content type="html">&lt;p&gt;&lt;em&gt;A guest post by Christine Hunter, PAC.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/09/fastforms-hunter.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Fastforms by Christine Hunter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/09/fastforms-hunter.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Fastforms by Christine Hunter&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;When we started eMDs two years ago, we tried to use the Fast Forms that eMDs
 had with the system. We were not very successful. We could never get a scanner that
@@ -1814,10 +1814,10 @@ information added to the visit note in seconds. If you have any questions regard
 my above suggestion for Review of Systems and Fast Forms, please email me at
 pachunter@hotmail.com.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/09/fastforms-hunter.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Fastforms by Christine Hunter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/09/fastforms-hunter.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Fastforms by Christine Hunter&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/09/Profile-Picture-150x150.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/09/Profile-Picture-150x150.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Christine Hunter has been practicing as a Physician Assistant in Family Practice for the past 17 years.  She graduated from Des Moines University in 1994 and obtained her Masters degree in Physician Assistant Studies from University of Nebraska Medical Center in 2001.  She currently works at Southwest Family Practice in Omaha, NE with two doctors and three other mid-level practitioners.  In addition to seeing patients full time, she is also Nurse Administrator and unoffical eMDs guru which they have been using for the past 2 years.  She’s married to Jim and mother to two teenage children, Lindsey and Ian.&lt;/p&gt;
 </content>
@@ -1893,7 +1893,7 @@ pachunter@hotmail.com.&lt;/p&gt;
 
 &lt;p&gt;I’m not sure I still need to host the cda.xsl at the root but I did during development. In both xsl files you’d need to change ‘50.18.44.12’ to whatever your server address is so the pictures show up. (The .png’s are hardcoded into the xsl.) You’ll probably want to change the picture at the top (ncfpleaf.png, too.) I host mine on Nginx. If these instructions are too brief for your tech guru, then you probably shouldn’t host these yourself.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/08/Unchart-Visit-Summary-Aug2011.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Unchart Visit Summary (August 2011)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/08/Unchart-Visit-Summary-Aug2011.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Unchart Visit Summary (August 2011)&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -1914,7 +1914,7 @@ pachunter@hotmail.com.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://supportcenter.e-mds.com/ics/forum/Client/Common/ContentView.aspx?contentID=107150&quot;&gt;Original Discussion on SupportCenter&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/08/PATIENT_HISTORY_RECORD_eMDs1.doc&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Patient Health Summary Form&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/08/PATIENT_HISTORY_RECORD_eMDs1.doc&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Patient Health Summary Form&lt;/a&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -1924,7 +1924,7 @@ pachunter@hotmail.com.&lt;/p&gt;
    <link href="http://unchart.com//software/2011/08/08/e-mds-rounds-for-iphone-review/"/>
    <updated>2011-08-08T00:00:31-07:00</updated>
    <id>http://unchart.com/software/2011/08/08/e-mds-rounds-for-iphone-review</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/08/e-MDs-rounds.jpg&quot; alt=&quot;&quot; /&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/08/e-MDs-rounds.jpg&quot; alt=&quot;&quot; /&gt;
 In 1998 when I started Medical School, I was the only person in my entire school to have a PDA – a Palm Pilot. At first it seemed like a toy to my classmates. But soon it became an unfair advantage. In my pocket I had info about essentially every drug, every disease, every lab test. It was my ‘external brain’. I thought that someday every doc would have one of these. But I didn’t expect how soon it would be. In second year, my best friend got his Palm Pilot. In third year, about 30 classmates got them. Nowadays essentially every student I meet uses tech as a key part of doctoring whether it’s smartphones or websites like UpToDate. Books still exist. But my ‘odd behavior’ 13 years ago with my Palm is now totally mainstream and unconscious.&lt;/p&gt;
 
 &lt;p&gt;People have been asking about e-MDs on the iPhone for years. It’s finally here. I admit I had some trepidation when I heard that e-MDs was developing for the iPhone. Solution Series is powerful and flexible. It’s an award-winning complete package. But usability really lags. Bugs and stability issues are still a daily occurrence. There have been recent new products (OB module, I’m looking at you) that were significantly misconceived. So what will e-MDs Rounds bring? Award-winning or daily frustration?&lt;/p&gt;
@@ -1955,19 +1955,19 @@ In 1998 when I started Medical School, I was the only person in my entire school
 
 &lt;p&gt;Although Schedule works, it is definitely frustrating. Every time you log in, you have to search for your schedule again. It doesn’t remember what you were looking at – it really slows down a quick lookup. There’s a time interval button that doesn’t really reformat your schedule - just changes tickmarks. If you tap on the date to change it, nothing happens. You need to go back to the schedule search. The other sections include an app navigation bar (like at the bottom of iPod App or App Store.) But when you use it to switch to schedule, it disappears.&lt;/p&gt;
 
-&lt;p&gt;[caption id=”attachment_886”  width=”320” caption=”Schedule doesn’t use the navigation bar on the bottom. This could be re-designed to be consistent with the rest of the App.”]&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/08/photo.png&quot; alt=&quot;&quot; /&gt;[/caption]&lt;/p&gt;
+&lt;p&gt;[caption id=”attachment_886”  width=”320” caption=”Schedule doesn’t use the navigation bar on the bottom. This could be re-designed to be consistent with the rest of the App.”]&lt;img src=&quot;/files/2011/08/photo.png&quot; alt=&quot;&quot; /&gt;[/caption]&lt;/p&gt;
 
 &lt;p&gt;E-mail has long been a staple of smartphones. No wonder it’s a key part of e-MDs rounds.  None of the data is stored on your iPhone (the app is a window into your database). So e-MDs Rounds is HIPAA-compliant. &lt;strong&gt;This is big.&lt;/strong&gt; Almost certainly if you’ve been doing any patient-related work with your phone you’ve not been compliant. With more security focus in Meaningful Use and the HITECH Law you can reduce your risk of a breach.&lt;/p&gt;
 
 &lt;p&gt;Messaging is more functional than you might imagine. Attached Docman scans? View them on the phone. Attached Chart or Log Note. Ditto. I think secure mobile messaging will soon be taken for granted because it will be so obviously useful to doctors.&lt;/p&gt;
 
-&lt;p&gt;[caption id=”attachment_893” align=”alignnone” width=”320” caption=”You might think you tap in the space by the To: since that’s what you’d do in Mail. Instead you use the icons on the right. Tap on Subject it scrolls off the screen so you can’t see what you’re writing.”]&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/08/photo-4.png&quot; alt=&quot;&quot; /&gt;[/caption]&lt;/p&gt;
+&lt;p&gt;[caption id=”attachment_893” align=”alignnone” width=”320” caption=”You might think you tap in the space by the To: since that’s what you’d do in Mail. Instead you use the icons on the right. Tap on Subject it scrolls off the screen so you can’t see what you’re writing.”]&lt;img src=&quot;/files/2011/08/photo-4.png&quot; alt=&quot;&quot; /&gt;[/caption]&lt;/p&gt;
 
 &lt;p&gt;Unfortunately, messaging isn’t bug-free or speedy. Selecting a recipient involves scrolling a long list instead of using autocomplete (which you’d assume using most iPhone software.) And the buttons off to the side for selecting are not intuitive – you would assume you could type into the field where the address goes. When typing a subject, the line scrolls off screen so you can’t see what you’re typing. e-MDs Rounds allows attaching multiple documents – something I’ve not seen in Solution Series. Overall, it adds a layer to viewing/attaching attachments. It’d be quicker if only single attachments were supported.&lt;/p&gt;
 
 &lt;p&gt;But these attachments show the biggest strength of e-MDs Rounds: The Patient’s Chart. All of the usual suspects are here:  Health Summary, Visit Notes, Documents, Chronology, Flowsheets. Even Rules is here. I can only assume having Rules is from concurrent development of the iPad version – access to viewing rules doesn’t make much sense in a mobile context.&lt;/p&gt;
 
-&lt;p&gt;[caption id=”attachment_884” width=”320” caption=”Mobile Health Summary is definitely useful for rounding or doing H&amp;amp;Ps.; You can edit the first three on the fly, the others are review-only.”]&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/08/photo-2.png&quot; alt=&quot;&quot; /&gt;[/caption]&lt;/p&gt;
+&lt;p&gt;[caption id=”attachment_884” width=”320” caption=”Mobile Health Summary is definitely useful for rounding or doing H&amp;amp;Ps.; You can edit the first three on the fly, the others are review-only.”]&lt;img src=&quot;/files/2011/08/photo-2.png&quot; alt=&quot;&quot; /&gt;[/caption]&lt;/p&gt;
 
 &lt;p&gt;Health Summary is particularly useful. You can review or update problems, allergies and medications. The various histories are read-only. I couldn’t test it but adding/sending a prescription is clearly intended. Heath Summary has some inconsistencies, though. Stopping an allergy/problem/medication has three different icons. The chart navigation bar shifts up and down as you navigate (it should be stable above the section title.) Even with those problems, e-MDs Rounds packs a lot of power and information onto a little screen.&lt;/p&gt;
 
@@ -2031,12 +2031,12 @@ We need to enable patients as  partners in their care.   &lt;/p&gt;
    <link href="http://unchart.com//software/2011/08/02/immunization-report-kentucky/"/>
    <updated>2011-08-02T18:56:57-07:00</updated>
    <id>http://unchart.com/software/2011/08/02/immunization-report-kentucky</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/08/keithtoms.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/08/keithtoms.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 Keith Toms wrote this report. &lt;/p&gt;
 
 &lt;p&gt;Keith wrote a crystal report that automagically presents immunization in the format for  Kentucky. Like this:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/08/kentucky-2011-immunization-certificate.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Kentucky 2011 immunization certificate&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/08/kentucky-2011-immunization-certificate.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Kentucky 2011 immunization certificate&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Keith is a favorite here at unchart. He’s a happy user of my e-MDs macros and an original ‘Venture Capitalist’ who’s help paid for the Visit Summary Server.&lt;/p&gt;
 </content>
@@ -2047,7 +2047,7 @@ Keith Toms wrote this report. &lt;/p&gt;
    <link href="http://unchart.com//business/software/2011/08/02/insurance-invoice-status-report/"/>
    <updated>2011-08-02T18:23:58-07:00</updated>
    <id>http://unchart.com/business/software/2011/08/02/insurance-invoice-status-report</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/08/AIbEiAIAAABDCNfdxLH-rsvxIiILdmNhcmRfcGhvdG8qKGJmNzA1ZjRhNDViMGI0ZTliMzU1M2U2Yjg4NDg5MjVlNGQ0OWQ4NjMwAa0sj0W03YTFCtxfJMHI64y6bfUL.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/08/AIbEiAIAAABDCNfdxLH-rsvxIiILdmNhcmRfcGhvdG8qKGJmNzA1ZjRhNDViMGI0ZTliMzU1M2U2Yjg4NDg5MjVlNGQ0OWQ4NjMwAa0sj0W03YTFCtxfJMHI64y6bfUL.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 Chat Kidkul made this report&lt;/p&gt;
 
 &lt;p&gt;Chat says:&lt;/p&gt;
@@ -2065,7 +2065,7 @@ Chat Kidkul made this report&lt;/p&gt;
 
 &lt;p&gt;I love reports that are ‘implemented’. Download if you might actually have your billing use it.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/08/Insurance-Invoice-Status-Report.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Insurance Invoice Status Report&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/08/Insurance-Invoice-Status-Report.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Insurance Invoice Status Report&lt;/a&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -2075,7 +2075,7 @@ Chat Kidkul made this report&lt;/p&gt;
    <link href="http://unchart.com//clinical/software/2011/08/02/custom-single-drug-search/"/>
    <updated>2011-08-02T18:17:49-07:00</updated>
    <id>http://unchart.com/clinical/software/2011/08/02/custom-single-drug-search</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/08/AIbEiAIAAABDCNfdxLH-rsvxIiILdmNhcmRfcGhvdG8qKGJmNzA1ZjRhNDViMGI0ZTliMzU1M2U2Yjg4NDg5MjVlNGQ0OWQ4NjMwAa0sj0W03YTFCtxfJMHI64y6bfUL.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/08/AIbEiAIAAABDCNfdxLH-rsvxIiILdmNhcmRfcGhvdG8qKGJmNzA1ZjRhNDViMGI0ZTliMzU1M2U2Yjg4NDg5MjVlNGQ0OWQ4NjMwAa0sj0W03YTFCtxfJMHI64y6bfUL.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 Chat Kidkul made this report&lt;/p&gt;
 
 &lt;p&gt;Chat says:&lt;/p&gt;
@@ -2088,7 +2088,7 @@ Chat Kidkul made this report&lt;/p&gt;
 
 &lt;p&gt;This is a more general (and well written) example of what I did recently to screen patients on the 80mg dose of Simvastatin. &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/08/Custom-Single-Drug-Current-Past-Med-Search.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Custom Single Drug Current &amp;amp; Past Med Search&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/08/Custom-Single-Drug-Current-Past-Med-Search.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Custom Single Drug Current &amp;amp; Past Med Search&lt;/a&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -2098,7 +2098,7 @@ Chat Kidkul made this report&lt;/p&gt;
    <link href="http://unchart.com//business/software/2011/08/02/custom-payer-invoice-count/"/>
    <updated>2011-08-02T17:41:33-07:00</updated>
    <id>http://unchart.com/business/software/2011/08/02/custom-payer-invoice-count</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/08/AIbEiAIAAABDCNfdxLH-rsvxIiILdmNhcmRfcGhvdG8qKGJmNzA1ZjRhNDViMGI0ZTliMzU1M2U2Yjg4NDg5MjVlNGQ0OWQ4NjMwAa0sj0W03YTFCtxfJMHI64y6bfUL.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/08/AIbEiAIAAABDCNfdxLH-rsvxIiILdmNhcmRfcGhvdG8qKGJmNzA1ZjRhNDViMGI0ZTliMzU1M2U2Yjg4NDg5MjVlNGQ0OWQ4NjMwAa0sj0W03YTFCtxfJMHI64y6bfUL.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 Chat Kidkul made this report&lt;/p&gt;
 
 &lt;p&gt;Chat says:&lt;/p&gt;
@@ -2112,7 +2112,7 @@ Chat Kidkul made this report&lt;/p&gt;
 
 &lt;p&gt;He used this report to determine if he could get 30% for qualifying for MU for Medicaid.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/08/Custom-Payor-Invoice-Count-V4.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Custom Payor Invoice Count&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/08/Custom-Payor-Invoice-Count-V4.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Custom Payor Invoice Count&lt;/a&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -2122,7 +2122,7 @@ Chat Kidkul made this report&lt;/p&gt;
    <link href="http://unchart.com//business/software/2011/08/02/custom-appointment-data/"/>
    <updated>2011-08-02T17:35:15-07:00</updated>
    <id>http://unchart.com/business/software/2011/08/02/custom-appointment-data</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/08/AIbEiAIAAABDCNfdxLH-rsvxIiILdmNhcmRfcGhvdG8qKGJmNzA1ZjRhNDViMGI0ZTliMzU1M2U2Yjg4NDg5MjVlNGQ0OWQ4NjMwAa0sj0W03YTFCtxfJMHI64y6bfUL.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/08/AIbEiAIAAABDCNfdxLH-rsvxIiILdmNhcmRfcGhvdG8qKGJmNzA1ZjRhNDViMGI0ZTliMzU1M2U2Yjg4NDg5MjVlNGQ0OWQ4NjMwAa0sj0W03YTFCtxfJMHI64y6bfUL.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 Chat Kidkul made this report&lt;/p&gt;
 
 &lt;p&gt;Chat says:&lt;/p&gt;
@@ -2135,7 +2135,7 @@ Chat Kidkul made this report&lt;/p&gt;
 
 &lt;p&gt;That’s one of my favorite bits: The best report is one that is actually run repeatedly and actioned. &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/08/Custom-Appointment-Audit-Summary-Detail.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Custom Appointment Audit Summary &amp;amp; Detail&lt;/a&gt;[](http://unchart.com/wp-content/uploads/2011/01/57-download.png)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/08/Custom-Appointment-Audit-Summary-Detail.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Custom Appointment Audit Summary &amp;amp; Detail&lt;/a&gt;[](/files/2011/01/57-download.png)&lt;/p&gt;
 </content>
  </entry>
  
@@ -2144,7 +2144,7 @@ Chat Kidkul made this report&lt;/p&gt;
    <link href="http://unchart.com//hardware/2011/08/01/dragon-remote-microphone/"/>
    <updated>2011-08-01T19:50:38-07:00</updated>
    <id>http://unchart.com/hardware/2011/08/01/dragon-remote-microphone</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/08/dragonremotemicrophone.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/08/dragonremotemicrophone.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I’ve been waiting for this!&lt;/p&gt;
 
@@ -2198,11 +2198,11 @@ Chat Kidkul made this report&lt;/p&gt;
 
 &lt;p&gt;The trick is to create generic/text only printer. &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/07/Generic_Text_Only_Icon.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/07/Generic_Text_Only_Icon.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;For example, Windows XP has trouble exporting device manager info. So they recommend &lt;a href=&quot;http://support.microsoft.com/kb/127156&quot;&gt;installing a generic/text only driver and printing to that to create a file.&lt;/a&gt;. If you follow the instructions there, you’ll be able to do the same with Chart Audit. But this is the  key step:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/07/Generic-Text-Only-Driver-Selection.png&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/07/Generic-Text-Only-Driver-Selection.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/07/Generic-Text-Only-Driver-Selection.png&quot;&gt;&lt;img src=&quot;/files/2011/07/Generic-Text-Only-Driver-Selection.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;In e-MDs you can control printing options in Chart. But some things will just go to your default printer in Windows. So to print to file, you may need to first set your default printer to the generic/text only, then do the printing, then set it back to your default.&lt;/p&gt;
 
@@ -2262,7 +2262,7 @@ Chat Kidkul made this report&lt;/p&gt;
 
 &lt;p&gt;Well, it can be.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/06/abpm50.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/06/abpm50.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;If you search on Amazon for ‘ABPM’ you’ll find this $400 import from China. We just got one at my clinic. The hardware is reasonably nice. It’s small, lightweight, sturdy. The usability on the machine is not that great but it still would take under a couple minutes to get it ready for a new patient including popping in some AA batteries.&lt;/p&gt;
 
@@ -2318,7 +2318,7 @@ monitoring. Hypertension 2011 May; 57:898. (Subscription may be required)&lt;/p&
    <link href="http://unchart.com//clinical/theory/2011/06/10/simvastatin-zocor-80mg-report/"/>
    <updated>2011-06-10T15:26:14-07:00</updated>
    <id>http://unchart.com/clinical/theory/2011/06/10/simvastatin-zocor-80mg-report</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/06/Simvastatin.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Simvastatin Report&lt;/a&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;/files/2011/06/Simvastatin.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Simvastatin Report&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -2350,7 +2350,7 @@ monitoring. Hypertension 2011 May; 57:898. (Subscription may be required)&lt;/p&
 
 &lt;p&gt;&lt;strong&gt;Philosopical Interlude:&lt;/strong&gt; reporting/analytics isn’t a tech issue. This is sociopolitical. Who’s going to run it? Who’s going to contact patients? Or are you going to contact patients? What would you say or plan? Don’t just download this. Decide what you think is best then use this to help make it happen.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/06/Simvastatin.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Simvastatin Report&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/06/Simvastatin.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Simvastatin Report&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2359,7 +2359,7 @@ monitoring. Hypertension 2011 May; 57:898. (Subscription may be required)&lt;/p&
    <link href="http://unchart.com//theory/2011/06/01/provider-panel-map/"/>
    <updated>2011-06-01T21:29:17-07:00</updated>
    <id>http://unchart.com/theory/2011/06/01/provider-panel-map</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/06/Panel-Size.pdf&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/06/panel-map.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;/files/2011/06/Panel-Size.pdf&quot;&gt;&lt;img src=&quot;/files/2011/06/panel-map.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 Panel Size.pdf&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The general math behind defining a provider panel isn’t complicated. But if you’re trying to have useful discussions about panel management (hard!) a shared vocabulary can really help. &lt;a href=&quot;http://www.aafp.org/fpm/2007/0400/p44.html&quot;&gt;Mark Murray in Family Practice Mangement&lt;/a&gt; has a decent starting point. The Map is a way of tracking the issues – should make sense after you’ve read the article. Although it’s more sophistication than I’ve ever seen actually used/managed, it can help in separating overlapping issues.&lt;/p&gt;
@@ -2375,7 +2375,7 @@ Panel Size.pdf&lt;/a&gt;&lt;/p&gt;
    <id>http://unchart.com/business/2011/06/01/patient-preferences-for-office-technology</id>
    <content type="html">&lt;p&gt;So the theme I pull out of this: Patients have a stronger preference for access than doctors have. We’re all used to creating walls to protect us from too much access. To me, that might be  a symptom of not being careful about managing your panel size. (See my recent &lt;a href=&quot;http://unchart.com/2011/provider-panel-report/&quot;&gt;Provider Panel Report&lt;/a&gt; as a starting spot.)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/06/patient-office-tech-preferences.png&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/06/patient-office-tech-preferences-300x205.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/06/patient-office-tech-preferences.png&quot;&gt;&lt;img src=&quot;/files/2011/06/patient-office-tech-preferences-300x205.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2400,7 +2400,7 @@ Panel Size.pdf&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;One of the things I learned by looking at panel size is that larger clinic dynamics matter. I could fix my availability and have a right-sized panel and still have problems. If a partner is overburdened, the patients will spill over. To really get success in managing panels, I think you have to consider  the whole clinic as much as individual providers. &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/06/provider-panel.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Provider Panel Report&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/06/provider-panel.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Provider Panel Report&lt;/a&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -2414,27 +2414,27 @@ Panel Size.pdf&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Here’s how Yahoo tamed  complexity over 15 years:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/05/3786863152_31559284df_m.jpg&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/05/3786863254_8549fdb860_m.jpg&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/05/3786863674_629e018e07_m.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/05/3786863152_31559284df_m.jpg&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;/files/2011/05/3786863254_8549fdb860_m.jpg&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;/files/2011/05/3786863674_629e018e07_m.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ok, I cheated. I skipped from 1995 to 2009 between the second and third screenshoot. But the trend is clear. What started as a way to tame complexity is now itself complex. So, although this designed (it’s not pure entropy), there’s clearly a limit on how much information we can access through a directory.&lt;/p&gt;
 
 &lt;p&gt;In my clinic, we use a primary ordering template. It’s got a Yahoo problem – we have 3000 items in the template. Even when you know the template like the back of your hand, it takes real time and attention to navigate through. There are limits to usability as size increases. You can manage this somewhat through good &lt;a href=&quot;http://en.wikipedia.org/wiki/Information_architecture&quot;&gt;information architecture&lt;/a&gt;. &lt;/p&gt;
 
-&lt;p&gt;e-MDs main solution to this complexity is templates. You can create hierarchical templates that allow you to delve down and select items. Personally I think templates are their most successful custom widget. e-MDs created a number of non-standard interface widgets with varying degrees of success. So while having free text insertion everywhere has some flexibility, the darn free text widget &lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/03/freetext.png&quot; alt=&quot;&quot; /&gt; is too small and difficult to select.&lt;/p&gt;
+&lt;p&gt;e-MDs main solution to this complexity is templates. You can create hierarchical templates that allow you to delve down and select items. Personally I think templates are their most successful custom widget. e-MDs created a number of non-standard interface widgets with varying degrees of success. So while having free text insertion everywhere has some flexibility, the darn free text widget &lt;img src=&quot;/files/2011/03/freetext.png&quot; alt=&quot;&quot; /&gt; is too small and difficult to select.&lt;/p&gt;
 
 &lt;p&gt;Templates were designed for tablet use and if you never need to use a keyboard, the template is impressive in it’s speed. (Tablet mode never worked for me becuase I need to enter text regularly and handwriting was inefficient and frustrating. Flipping back and forth between tablet and laptop mode didn’t really work for me) It’s essentially a group of buttons that are ~ 200 by 25 pixels. That’s  big enough to be easily tappable (especially compared to the 6 by 6 pixels of “free text”.) e-MDs was designed when &lt;a href=&quot;http://en.wikipedia.org/wiki/Computer_display_standard&quot;&gt;XGA was the most common display standard&lt;/a&gt;. 1024 x 768 is still a common resolution – my iPad uses it, for example. You lose usable space by all the chrome around the information (See: &lt;a href=&quot;http://unchart.com/2011/e-mds-interface-janitor/&quot;&gt;Interface Janitor&lt;/a&gt;) Still, you can fit 4 columns of 25 buttons – 100 could be on the screen at once. If you had a perfect outline, a 2 layer hierarchy  could hold 625 items, a 3 layer could hold 15K items. &lt;/p&gt;
 
 &lt;h3 id=&quot;thinking-about-search&quot;&gt;Thinking about Search&lt;/h3&gt;
 
 &lt;p&gt;So much for hierarchy. Now let’s think about Search as Interface. I think we can agree what internet company to look at. Here’s Google’s 1997 and then 2009 homepage.
-&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/05/1997-300x181.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/05/google-2009-fade-in-large-300x168.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/files/2011/05/1997-300x181.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/files/2011/05/google-2009-fade-in-large-300x168.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Boy, that really hides the complexity! Interestingly, Google’s gotten much better during that interval – it’s faster than ever to use. It corrects for human constraints. Typos, for example. Or slow typing – Google Suggest adds autocompleting to search terms so you don’t have to type as much. &lt;a href=&quot;http://www.google.com/instant/&quot;&gt;Google Instant&lt;/a&gt; goes even further by doing the navigating while you are still typing. They say that saves 2-5 seconds per search. So that same box gets more powerful and quicker-to-use at the same time.&lt;/p&gt;
 
 &lt;p&gt;If you put it in strategic terms, Google aims to simplify complexity so users can get back to what they are trying to do. Contrast that with a screenshot from e-MDs. So, 6  characters into hypertension (by far one of the most common chronic disease), and how are things looking:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/05/Screen-shot-2011-05-30-at-9.31.26-AM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/05/Screen-shot-2011-05-30-at-9.31.26-AM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;stop-disrespecting-doctors&quot;&gt;Stop disrespecting doctors!&lt;/h3&gt;
 
@@ -2458,7 +2458,7 @@ Panel Size.pdf&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The report covers the last 365 days before the report and summarizes by month. Like I said in &lt;a href=&quot;http://unchart.com/2011/data-driven-practice/&quot;&gt;Data Driven Practice&lt;/a&gt;, the right number of parameters is usually &lt;em&gt;Zero&lt;/em&gt;. So there’s intentionally no options.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/05/continuity.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Continuity Crystal Report&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/05/continuity.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Continuity Crystal Report&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;why-does-continuity-rock&quot;&gt;Why does Continuity Rock?&lt;/h3&gt;
 
@@ -2473,7 +2473,7 @@ Panel Size.pdf&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I wish it was that easy: just manage and improve continuity. If you asked me a year ago, access/continuity would have been one of my big successes at my clinic. I had created this and a few other related reports. We had a decent single-page dashboard that you can see in my &lt;a href=&quot;http://unchart.com/2011/data-driven-practice/&quot;&gt;data driven practice presentation&lt;/a&gt;. It was a way to use &lt;a href=&quot;http://unchart.com/2011/practice-based-evidence/&quot;&gt;Practice-based Evidence&lt;/a&gt; to improve care.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/05/cowboy.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/05/cowboy.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;What happened: it fizzled. My partners and I were originally looking at and thinking about data. In one discussion we got about a minute away from the grail – we almost made a management experiment using real-time data. We were going to change scheduling to improve the docs who needed the most help. But there was some issues with recent reception stress so we decided to wait. And essentially there’s never been any momentum again.&lt;/p&gt;
 
@@ -2505,7 +2505,7 @@ Panel Size.pdf&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Sustained Charting is harder to measure. On a couple problem visit (both easy/routine problems), navigating back and forth eats up real time. I might be able to use a preclick ROS, say, but I need to add a few more for the second problem. Same thing with the exam. And if I’m finishing up the plan (aiming for real time, if I want finished visit summary), there’s jumping back and forth between plan templates to describe discussions, medications, followup, testing.&lt;/p&gt;
 
-&lt;p&gt;What I used to do was open the free text after an assessment and type something like, “fu1w inip. dsal. dholdabx.” And with the magic of autohotkey and my abbrevation efforts in the past few years, out would pop “Follow up in 1 week if not improving. Discussed and demonstrated use of saline sinus lavage for symptom reduction. Prescribed antibiotics but a plan to hold and monitor symptoms for now.” So something like 7 seconds typing. And a second or two to click on the right &lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/03/freetext.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;What I used to do was open the free text after an assessment and type something like, “fu1w inip. dsal. dholdabx.” And with the magic of autohotkey and my abbrevation efforts in the past few years, out would pop “Follow up in 1 week if not improving. Discussed and demonstrated use of saline sinus lavage for symptom reduction. Prescribed antibiotics but a plan to hold and monitor symptoms for now.” So something like 7 seconds typing. And a second or two to click on the right &lt;img src=&quot;/files/2011/03/freetext.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I’m now trying to keep plan as ‘structured data’ inside a template since that’s the current requirement for having it print in the visit summary. It takes me longer than a narrative blob with abbreviations like above. If I typed 10 words a minute, templating might be faster. More than time, though, it takes attention. Once I have the freetext open, I can lift my eyes from the screen and glance at the patient. (That’s Touchtyping!) There’s no reading or finding involved. With selecting on a template, there’s finding the right template, finding the followup button, finding the discussions button, etc. I know I could optimize that with preclicks (and editing to match my plan) but it’s a &lt;a href=&quot;http://unchart.com/2011/how-much-time-can-macros-save/&quot;&gt;local maximum again&lt;/a&gt;.&lt;/p&gt;
 
@@ -2631,7 +2631,7 @@ providers results or clinical staff follow through.&lt;/p&gt;
 
 &lt;h2 id=&quot;very-simple-dragon-macro&quot;&gt;Very simple Dragon Macro&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/04/dragon11.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Dragon 11 Macro&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/04/dragon11.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Dragon 11 Macro&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The source is in the previous post, if you’re  interested. This is the stand-alone version.&lt;/p&gt;
 
@@ -2688,7 +2688,7 @@ providers results or clinical staff follow through.&lt;/p&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/04/server-testing-4.5.2011.txt&quot;&gt;Full Server Testing Details (4.5.2011)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/04/server-testing-4.5.2011.txt&quot;&gt;Full Server Testing Details (4.5.2011)&lt;/a&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -2713,11 +2713,11 @@ providers results or clinical staff follow through.&lt;/p&gt;
 &lt;p&gt;These PQRI codes will satisfy the first part of the Tobacco Use and Intervention report for Core requirement #11
 the second part of the report is actual intervention - that gets satisfied if you prescribe a smoking cessation medication or you document counseling of smoking cessation in a plan template under “Smoking Status” which is in about every plan template.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/03/Tobacco_Alcohol_Supplements.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Tobacco_Alcohol_Supplements&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/03/Tobacco_Alcohol_Supplements.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Tobacco_Alcohol_Supplements&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/03/joker.jpg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/03/joker.jpg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This was shared by John Crankshaw, MD&lt;/p&gt;
 </content>
@@ -2733,7 +2733,7 @@ the second part of the report is actual intervention - that gets satisfied if yo
 &lt;p&gt;Here’s how I find my diabetic patients who haven’t been in the clinic for 6 months. (Note: if they came for a cold 3 month ago, they’d not be caught. Still generally this report works well enough.)&lt;/p&gt;
 
 &lt;p&gt;(Don’t forget to click through to see full size picture!)
-&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/03/Notice-Processor.png&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/03/Notice-Processor-300x218.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;/files/2011/03/Notice-Processor.png&quot;&gt;&lt;img src=&quot;/files/2011/03/Notice-Processor-300x218.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -2751,7 +2751,7 @@ the second part of the report is actual intervention - that gets satisfied if yo
 
 &lt;p&gt;(&lt;strong&gt;This is a tremendous report!&lt;/strong&gt; Reduce Name errors. This is a patient safety issue. – &lt;em&gt;JP&lt;/em&gt;)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/03/Duplicate-Names-Report.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Duplicate Names Report&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/03/Duplicate-Names-Report.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Duplicate Names Report&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -2759,7 +2759,7 @@ the second part of the report is actual intervention - that gets satisfied if yo
 
 &lt;p&gt;For the past five years, Sara has managed her husband’s practice, Evans Dermatology Partners.  Prior to that, she was a management consultant with McKinsey &amp;amp; Co. in Dallas and London.  At McKinsey, her work focused on streamlining clients’ retail store operations.  Her undergraduate degree is in Russian from Wesleyan University and she has an MBA from Duke University.  She and her husband Colby live in Austin, TX and have two small boys, with a third expected in August.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/03/sara_evans.jpg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/03/sara_evans.jpg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -2771,7 +2771,7 @@ the second part of the report is actual intervention - that gets satisfied if yo
    <id>http://unchart.com/business/software/2011/03/28/patient-phone-list</id>
    <content type="html">&lt;p&gt;Also just a lookup report (like the e-mail one).  Since the demographic search only allows a search of the home phone.  Sometimes we miss a patient call or just jot down a phone number and need to find the patient in the system.  This report searches the home, cell and work fields.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/03/Patient-Phone-Report.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Patient Phone Report&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/03/Patient-Phone-Report.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Patient Phone Report&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -2779,7 +2779,7 @@ the second part of the report is actual intervention - that gets satisfied if yo
 
 &lt;p&gt;For the past five years, Sara has managed her husband’s practice, Evans Dermatology Partners.  Prior to that, she was a management consultant with McKinsey &amp;amp; Co. in Dallas and London.  At McKinsey, her work focused on streamlining clients’ retail store operations.  Her undergraduate degree is in Russian from Wesleyan University and she has an MBA from Duke University.  She and her husband Colby live in Austin, TX and have two small boys, with a third expected in August.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/03/sara_evans.jpg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/03/sara_evans.jpg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -2791,7 +2791,7 @@ the second part of the report is actual intervention - that gets satisfied if yo
    <id>http://unchart.com/business/software/2011/03/28/patient-email-list</id>
    <content type="html">&lt;p&gt;This is just a lookup report which checks both e-mail fields in patient demographics.  We sometimes get e-mails from existing patients, but they don’t think to include their full name on the e-mail.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/03/Patient-e-Mail.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Patient e-Mail&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/03/Patient-e-Mail.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Patient e-Mail&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;(Opportunity to re-direct patients to portal. – &lt;em&gt;JP&lt;/em&gt;)&lt;/p&gt;
 
@@ -2801,7 +2801,7 @@ the second part of the report is actual intervention - that gets satisfied if yo
 
 &lt;p&gt;For the past five years, Sara has managed her husband’s practice, Evans Dermatology Partners.  Prior to that, she was a management consultant with McKinsey &amp;amp; Co. in Dallas and London.  At McKinsey, her work focused on streamlining clients’ retail store operations.  Her undergraduate degree is in Russian from Wesleyan University and she has an MBA from Duke University.  She and her husband Colby live in Austin, TX and have two small boys, with a third expected in August.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/03/sara_evans.jpg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/03/sara_evans.jpg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -2813,7 +2813,7 @@ the second part of the report is actual intervention - that gets satisfied if yo
    <id>http://unchart.com/business/software/2011/03/28/next-day-chart-covers</id>
    <content type="html">&lt;p&gt;We run this every afternoon for the following days appointments.  Prints out a simple one page form to verify demographic information for patients that haven’t been to the clinic in a while ()45 Days).  Patient makes any corrections directly on the page and we scan to docman.  There is a small known issue where more than one copy prints for some patients, but information is identical.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/03/Chart-Covers.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Chart Covers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/03/Chart-Covers.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Chart Covers&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -2821,7 +2821,7 @@ the second part of the report is actual intervention - that gets satisfied if yo
 
 &lt;p&gt;For the past five years, Sara has managed her husband’s practice, Evans Dermatology Partners.  Prior to that, she was a management consultant with McKinsey &amp;amp; Co. in Dallas and London.  At McKinsey, her work focused on streamlining clients’ retail store operations.  Her undergraduate degree is in Russian from Wesleyan University and she has an MBA from Duke University.  She and her husband Colby live in Austin, TX and have two small boys, with a third expected in August.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/03/sara_evans.jpg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/03/sara_evans.jpg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -2835,7 +2835,7 @@ the second part of the report is actual intervention - that gets satisfied if yo
 
 &lt;p&gt;(My &lt;a href=&quot;http://unchart.com/2011/macro-to-add-flowsheets-in-e-mds/&quot;&gt;macro for looping through charts&lt;/a&gt; could be useful with this. Add the account number and then loop through the alerts. – &lt;em&gt;JP&lt;/em&gt;)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/03/Pop-Up-with-No-Boxes-Report.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Pop Up with No Boxes Report&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/03/Pop-Up-with-No-Boxes-Report.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Pop Up with No Boxes Report&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -2843,7 +2843,7 @@ the second part of the report is actual intervention - that gets satisfied if yo
 
 &lt;p&gt;For the past five years, Sara has managed her husband’s practice, Evans Dermatology Partners.  Prior to that, she was a management consultant with McKinsey &amp;amp; Co. in Dallas and London.  At McKinsey, her work focused on streamlining clients’ retail store operations.  Her undergraduate degree is in Russian from Wesleyan University and she has an MBA from Duke University.  She and her husband Colby live in Austin, TX and have two small boys, with a third expected in August.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/03/sara_evans.jpg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/03/sara_evans.jpg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -2859,7 +2859,7 @@ advance. Calling these patients 24-48 hours in advance was too late. So no, we
 call these patients a week in advance just to give them a heads up. This step
 has cut our no-show rate by about 2%.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/03/Appointment-Made-More-Than-45-Days-Ago.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Appointment Made More Than 45 Days Ago&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/03/Appointment-Made-More-Than-45-Days-Ago.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Appointment Made More Than 45 Days Ago&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -2867,7 +2867,7 @@ has cut our no-show rate by about 2%.&lt;/p&gt;
 
 &lt;p&gt;For the past five years, Sara has managed her husband’s practice, Evans Dermatology Partners.  Prior to that, she was a management consultant with McKinsey &amp;amp; Co. in Dallas and London.  At McKinsey, her work focused on streamlining clients’ retail store operations.  Her undergraduate degree is in Russian from Wesleyan University and she has an MBA from Duke University.  She and her husband Colby live in Austin, TX and have two small boys, with a third expected in August.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/03/sara_evans.jpg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/03/sara_evans.jpg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -2949,7 +2949,7 @@ return
 
 &lt;h3 id=&quot;next-version-note-integration&quot;&gt;Next Version: Note Integration&lt;/h3&gt;
 
-&lt;p&gt;If we really are going to ‘integrate with your EMR’, we need a macro that makes it easy to dictate. I’m thinking I’ll make a toolbar that covers the note navigation toolbar. It’ll be hardwired to the appropriate free texts. So ROS will go to that free text. And Assessment will go to the free text after each assessments. (I’ll have several assessment buttons since I often have multiple) By eliminating trying to click the tiny little free text circles (You know, &lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/03/freetext.png&quot; alt=&quot;&quot; /&gt;) it should be much less stressful to dictate and to hop around the note. That hopping is part of what stresses me out. I am typically going back and forth. As dictation gets better and better the going up and down the note start to take more time respectively.&lt;/p&gt;
+&lt;p&gt;If we really are going to ‘integrate with your EMR’, we need a macro that makes it easy to dictate. I’m thinking I’ll make a toolbar that covers the note navigation toolbar. It’ll be hardwired to the appropriate free texts. So ROS will go to that free text. And Assessment will go to the free text after each assessments. (I’ll have several assessment buttons since I often have multiple) By eliminating trying to click the tiny little free text circles (You know, &lt;img src=&quot;/files/2011/03/freetext.png&quot; alt=&quot;&quot; /&gt;) it should be much less stressful to dictate and to hop around the note. That hopping is part of what stresses me out. I am typically going back and forth. As dictation gets better and better the going up and down the note start to take more time respectively.&lt;/p&gt;
 
 &lt;p&gt;I don’t want to over-estimate here but I think my little note navigator part will actually make Dragon faster in e-MDs than Dragon Medical. I’m going to be using this with Dragon 11 Professional (since that’s what I have) but it ought to work fine with Dragon 11 Premium  that costs &lt;a href=&quot;http://www.amazon.com/Nuance-Communications-Inc-K609A-G00-11-0-NaturallySpeaking/dp/B003VNCROU/ref=sr_1_1?ie=UTF8&amp;qid;=1301274621&amp;sr;=8-1&quot;&gt;$137 on Amazon&lt;/a&gt;.&lt;/p&gt;
 
@@ -2965,9 +2965,9 @@ return
 
 &lt;p&gt;This report could be a great source of &lt;a href=&quot;http://unchart.com/2011/practice-based-evidence/&quot;&gt;Practice-based Evidence.&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/03/preclick-by-template.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/03/preclick-by-template.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/03/preclick-by-provider.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/03/preclick-by-provider.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3040,7 +3040,7 @@ return
 
 &lt;p&gt;So using my low level data as a family doctor, generally living in e-MDs all day long: I’ve got more than 1 hour straight clicking/typing per typical workday. And Macros/Abbreviations save me about 15% of the typing/clicking. That’s probably my limit because most months are about the same. It’s a local maximum for me. I can write more macros but I won’t get that much improvement&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/03/local-maximum.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/03/local-maximum.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The &lt;a href=&quot;http://52weeksofux.com/post/694598769/the-local-maximum&quot;&gt;Local Maximum&lt;/a&gt; is a key concept. You can only &lt;em&gt;optimize&lt;/em&gt; so far. Sometimes you need to &lt;em&gt;redesign&lt;/em&gt;. This applies macros, or to practice processes or graphic design.&lt;/p&gt;
 
@@ -3137,7 +3137,7 @@ Ranging from big to small, here’s the toolset e-MDs provides for efficient cha
 
 &lt;p&gt;Different organizations will have different ways of organizing. This could be a starting point about how to organize subsets of benchmarks. I’m using my short titles for benchmarks based on my Meaningful Use Map:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/02/MU-measures.png&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/02/MU-measures-300x224.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/02/MU-measures.png&quot;&gt;&lt;img src=&quot;/files/2011/02/MU-measures-300x224.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;core-versus-optional-and-what-optional-benchmarks-are-you-aiming-for&quot;&gt;Core versus Optional (and what optional benchmarks are you aiming for?)&lt;/h3&gt;
 &lt;p&gt;### By &lt;strong&gt;Eligible Provider&lt;/strong&gt; (all the benchmarks on 1 page)
@@ -3238,11 +3238,11 @@ Ranging from big to small, here’s the toolset e-MDs provides for efficient cha
 
 &lt;p&gt;By reducing the header, it saves a half a sheet and really simplifies it. It’s still not pretty/legible – reformatting is equally important. But for a few minutes of editing the XSL file, this is a big improvement. Before and after shows:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/03/Visit-Summary-1.0.png&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/03/Visit-Summary-1.0-300x193.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/03/Visit-Summary-1.0.png&quot;&gt;&lt;img src=&quot;/files/2011/03/Visit-Summary-1.0-300x193.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Using a little bit of css, you  can make something that looks like it’s supposed to be printed. I can use some of that saved space to make the outline more obvious and to increase legibility and scanability. (New word…?)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/03/visit-summary-2.1.png&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/03/visit-summary-2.1-300x216.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/03/visit-summary-2.1.png&quot;&gt;&lt;img src=&quot;/files/2011/03/visit-summary-2.1-300x216.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Unfortunately this sort of makeover is limited to printouts. It won’t clean up the portal version for  patients. It could be done for portal but e-MDs would have to allow it. And given that there doesn’t seem to be any development/changes on portal for several years, I doubt that will happen soon. &lt;/p&gt;
 
@@ -3270,7 +3270,7 @@ Ranging from big to small, here’s the toolset e-MDs provides for efficient cha
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/03/MU_Explanations6.17.2011.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; MU_Explanations6.17.2011&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/03/MU_Explanations6.17.2011.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; MU_Explanations6.17.2011&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;p&gt;Christine is a provider, not a Meaningful Use Verification Specialist. Consider these worksheets to help out, not “The Law”&lt;/p&gt;
@@ -3343,13 +3343,13 @@ sleep, 1000
    <updated>2011-02-18T06:39:18-08:00</updated>
    <id>http://unchart.com/theory/2011/02/18/health-stats-2010</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Percent of people who avoided or delayed care, by insurance&lt;/strong&gt;&lt;br /&gt;
-&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/02/Screen-shot-2011-02-18-at-6.29.15-AM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/files/2011/02/Screen-shot-2011-02-18-at-6.29.15-AM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We’re all so busy with day to day that’s easy to overlook things. Yearly, the govenment puts out this suumary of health. Hundreds of pages of useful stats. Although Meaningful Use will focus us all on certain measures (and definitely certain PQRI measures, too), here’s a step back at what’s going on in our system. From 1988 to 2008, say, statin use went from 2% to 25%.&lt;/p&gt;
 
 &lt;p&gt;The report has hundreds of these graphs and is a great brainstorming device – flip through to generate ideas of things you could improve. This definitely calls for an &lt;a href=&quot;http://www.apple.com/ipad/&quot;&gt;iPad&lt;/a&gt;, &lt;a href=&quot;http://www.goodreader.net/goodreader.html&quot;&gt;Goodreader&lt;/a&gt;, and maybe a glass of wine.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.cdc.gov/nchs/data/hus/hus10.pdf&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; CDC’s 2010 Health Stats&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.cdc.gov/nchs/data/hus/hus10.pdf&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; CDC’s 2010 Health Stats&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3378,7 +3378,7 @@ sleep, 1000
 
 &lt;p&gt;You can download it to use if you’d  like.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://dl.dropbox.com/u/607655/meaningfulclick%2003072011.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Meaningful Click (March 7, 2011)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://dl.dropbox.com/u/607655/meaningfulclick%2003072011.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Meaningful Click (March 7, 2011)&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I use ‘Windows Classic Theme’ in XP. I can fix that but it’s pretty low priority to me – I want other features working for me, first. To change your theme:&lt;/p&gt;
 
@@ -3412,7 +3412,7 @@ sleep, 1000
 
 &lt;p&gt;Here’s my solution. Print this out huge and put it in your conference room. It’s color-coded by major MU goal (improving care is yellow, engaging patients/families is orange, etc)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/02/MU-measures.png&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/02/MU-measures-300x224.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/02/MU-measures.png&quot;&gt;&lt;img src=&quot;/files/2011/02/MU-measures-300x224.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -3431,7 +3431,7 @@ sleep, 1000
    <id>http://unchart.com/software/2011/01/30/e-mds-interface-janitor</id>
    <content type="html">&lt;p&gt;e-MDs  doesn’t really allow much customization of the chart interface. It’s trying to be everything to everyone. That means I use it all day long and have buttons that I haven’t clicked in 3 years. If I could customize it might look more like this. Wish I could make it not waste so much vertical resolution. &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/01/photo-1.jpg&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/photo-1-300x225.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/01/photo-1.jpg&quot;&gt;&lt;img src=&quot;/files/2011/01/photo-1-300x225.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3466,7 +3466,7 @@ sleep, 1000
 
 &lt;hr /&gt;
 
-&lt;p&gt;I use &lt;a href=&quot;http://www.online-utility.org/english/readability_test_and_improve.jsp&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/36-toolbox.png&quot; alt=&quot;&quot; /&gt; this online tool&lt;/a&gt; to improve readability.&lt;/p&gt;
+&lt;p&gt;I use &lt;a href=&quot;http://www.online-utility.org/english/readability_test_and_improve.jsp&quot;&gt;&lt;img src=&quot;/files/2011/01/36-toolbox.png&quot; alt=&quot;&quot; /&gt; this online tool&lt;/a&gt; to improve readability.&lt;/p&gt;
 
 </content>
  </entry>
@@ -3478,7 +3478,7 @@ sleep, 1000
    <id>http://unchart.com/software/2011/01/29/rooming-by-assistant-month-report</id>
    <content type="html">&lt;p&gt;Here’s a summary report of rooming by assistant (summarized by month). This could be used to manage assistants and monitor their effectiveness. Or to spot inefficiencies in the practice.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/01/rooming-by-assistant-month.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Rooming by assistant (month) report&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/01/rooming-by-assistant-month.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Rooming by assistant (month) report&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3489,7 +3489,7 @@ sleep, 1000
    <id>http://unchart.com/software/2011/01/29/pharmacy-frequency-report</id>
    <content type="html">&lt;p&gt;This lists pharmacies in order of popularity. I put office phone numbers on it because I wanted a short list of phone numbers to have on my phone. Interesting to see where your prescriptions go. Considering all the work related to pharmacies, it seems like you could use it to streamline processes with a few of your most important pharmacies.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/01/Pharmacy-Frequency.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Pharmacy Frequency Report&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/01/Pharmacy-Frequency.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Pharmacy Frequency Report&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3500,7 +3500,7 @@ sleep, 1000
    <id>http://unchart.com/software/2011/01/29/injection-opiates-report</id>
    <content type="html">&lt;p&gt;A report of all the inejction opiates given in a timeframe. (May need adjustment if your clinic uses different injectables.)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/01/Narcotic-Report.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Injectable Opiates Report&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/01/Narcotic-Report.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Injectable Opiates Report&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3511,17 +3511,17 @@ sleep, 1000
    <id>http://unchart.com/theory/2011/01/29/patient-portal-form</id>
    <content type="html">&lt;p&gt;Here’s our Patient Portal form.  Re-worked for readability and simplicity.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/Screen-shot-2011-01-29-at-6.59.15-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/01/Screen-shot-2011-01-29-at-6.59.15-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/01/patient-portal-agreement.doc&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Patient Portal Agreement&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/01/patient-portal-agreement.doc&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Patient Portal Agreement&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;Janice Darmody of DarmodyMD.com also shared her clinic’s portal form. Her form has a FAQ section with basic help about how to use it and includes a link to the official portal user guide.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/01/patientportalauthform.pdf&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/Screen-Shot-2011-10-26-at-6.32.30-AM.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/01/patientportalauthform.pdf&quot;&gt;&lt;img src=&quot;/files/2011/01/Screen-Shot-2011-10-26-at-6.32.30-AM.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/01/patientportalauthform.pdf&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; DarmodyMD Patient Portal Form (with FAQ)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/01/patientportalauthform.pdf&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; DarmodyMD Patient Portal Form (with FAQ)&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3532,9 +3532,9 @@ sleep, 1000
    <id>http://unchart.com/theory/2011/01/29/hipaa-form</id>
    <content type="html">&lt;p&gt;Here’s our HIPPA form.  Re-worked for readability and simplicity.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/Screen-shot-2011-01-29-at-6.52.55-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/01/Screen-shot-2011-01-29-at-6.52.55-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/01/hippa-form-2.0.doc&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; HIPPA Form.doc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/01/hippa-form-2.0.doc&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; HIPPA Form.doc&lt;/a&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -3557,13 +3557,13 @@ The &lt;strong&gt;‘I’m Done’ button&lt;/strong&gt; (Win-Spacebar) quickly 
 
 &lt;h4 id=&quot;the-benefitscheatsheet&quot;&gt;The Benefits/Cheatsheet&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/Screen-shot-2011-01-29-at-12.05.48-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/01/Screen-shot-2011-01-29-at-12.05.48-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;instructions&quot;&gt;Instructions&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/01/Im-Done-2.0.exe&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt;Download the executable I’m Done 2.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/01/Im-Done-2.0.exe&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt;Download the executable I’m Done 2.0&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/01/Im-Done-Helpfile.pdf&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Printable PDF of I’m Done Helpfile&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/01/Im-Done-Helpfile.pdf&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Printable PDF of I’m Done Helpfile&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Or  if you want to do it from scratch for security reasons:&lt;/p&gt;
 
@@ -3573,7 +3573,7 @@ The &lt;strong&gt;‘I’m Done’ button&lt;/strong&gt; (Win-Spacebar) quickly 
   &lt;li&gt;Use the compiler from autohokey.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/01/Im-Done-2.0.txt&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; I’m Done 2.0 (Code Source)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/01/Im-Done-2.0.txt&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; I’m Done 2.0 (Code Source)&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -3599,13 +3599,13 @@ The &lt;strong&gt;‘I’m Done’ button&lt;/strong&gt; (Win-Spacebar) quickly 
 &lt;/ul&gt;
 
 &lt;p&gt;[]()
-&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/01/Data-Driven-Practice-NEUC.pdf&quot; title=&quot;Data Driven Practice&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Data Driven Practice (article)&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;/files/2011/01/Data-Driven-Practice-NEUC.pdf&quot; title=&quot;Data Driven Practice&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Data Driven Practice (article)&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Here’s a 2 minute video that shows how to do a custom report from scratch. (If you have trouble opening the video, consider getting &lt;a href=&quot;http://www.videolan.org/&quot;&gt;VLC&lt;/a&gt; to play it.) This report shows how to find all the patients in the practice on 80mg of Simvastatin (Zocor) so you could respond to an FDA announcement.&lt;/p&gt;
 
 &lt;p&gt;Here’s 90 second video that shows 5 different reports off of a single set of data (Pivot Tables Rock!)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/01/Juice30Days.pdf&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt;  Juice Analytics 30 Days to Visualization&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/01/Juice30Days.pdf&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt;  Juice Analytics 30 Days to Visualization&lt;/a&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -3617,16 +3617,16 @@ The &lt;strong&gt;‘I’m Done’ button&lt;/strong&gt; (Win-Spacebar) quickly 
    <id>http://unchart.com/software/2011/01/29/chronic-pain-documentation</id>
    <content type="html">&lt;p&gt;In 2008 I did some templates for e-MDs that you still can find on the supportcenter. These are based on a validated documentation tool called PADT.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/01/32d2a8e7d0154c8d881e7e1502ac9bb3.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Chronic Pain Followup.zip&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/01/32d2a8e7d0154c8d881e7e1502ac9bb3.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Chronic Pain Followup.zip&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/01/225da8926c244d1ebb7db435f53b7479.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt;Chronic Pain Plan.zip&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/01/225da8926c244d1ebb7db435f53b7479.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt;Chronic Pain Plan.zip&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;You can find tons of great info on this on google:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt; google: padt opiate
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Back when I was on paper, I used &lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/01/PADT.pdf&quot;&gt;this form&lt;/a&gt; of it. Nice &amp;amp; Simple checkboxes. &lt;/p&gt;
+&lt;p&gt;Back when I was on paper, I used &lt;a href=&quot;/files/2011/01/PADT.pdf&quot;&gt;this form&lt;/a&gt; of it. Nice &amp;amp; Simple checkboxes. &lt;/p&gt;
 </content>
  </entry>
  
@@ -3656,7 +3656,7 @@ The &lt;strong&gt;‘I’m Done’ button&lt;/strong&gt; (Win-Spacebar) quickly 
   &lt;li&gt;Learning/Using the keyboard shortcuts in the macro will make you quicker over time.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/notes/images/Un-Unsigned.zip&quot; title=&quot;Un-Unsigned&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Un-Unsigned.zip&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://unchart.com/notes/images/Un-Unsigned.zip&quot; title=&quot;Un-Unsigned&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Un-Unsigned.zip&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Known Issue 1&lt;/strong&gt; In my clinic, computers have different installs (say, no Bill) so that causes problems for the macro. Wifi problems can also cause it to crash. I could make it more resilient by slowing it down but that degrades it for me personally since I like having it run quickly. I do have a few partners who use this regularly.&lt;/li&gt;
@@ -3675,7 +3675,7 @@ The &lt;strong&gt;‘I’m Done’ button&lt;/strong&gt; (Win-Spacebar) quickly 
 
 &lt;p&gt;Consider this a proof-of-concept as of 5/5/2010. I’m still refining it for my use and hope to eventually parse through the patient’s problem list for secondary prevention recommendations. But it’s working for my use.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=TiiYyGDDSJg&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/45-movie-1.png&quot; alt=&quot;&quot; /&gt; See it in action&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=TiiYyGDDSJg&quot;&gt;&lt;img src=&quot;/files/2011/01/45-movie-1.png&quot; alt=&quot;&quot; /&gt; See it in action&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Known Issues:&lt;/strong&gt; On our setup, there’s variable server speed. Usually the first time of the day it crashes. It seems to depend on how word forms are cached. Works reliably for the rest of the day. Unfortunately I’m not debugging our server performance so consider this proof of concept only. I still use it myself. I’ll probably remove the word-form .&lt;/li&gt;
@@ -3722,17 +3722,17 @@ The &lt;strong&gt;‘I’m Done’ button&lt;/strong&gt; (Win-Spacebar) quickly 
 
 &lt;p&gt;In my clinic of about a dozen providers, this runs about 65 pages long. But it only takes a few minutes to highlight all the patients who need appointments.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/01/photo.jpg&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/photo-300x156.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/01/photo.jpg&quot;&gt;&lt;img src=&quot;/files/2011/01/photo-300x156.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Known Issues:&lt;/strong&gt; None.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Tested on:&lt;/strong&gt; e-MDs 6.32&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/01/Well_Child_Registry.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Well_Child_Registry&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/01/Well_Child_Registry.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Well_Child_Registry&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/05/billsweeney.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2011/05/billsweeney.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Bill Sweeney of Mid State Health re-worked the report to go up to age 17 and to include the ability to export to automated reminder calls. He says: &lt;/p&gt;
 
@@ -3748,7 +3748,7 @@ The &lt;strong&gt;‘I’m Done’ button&lt;/strong&gt; (Win-Spacebar) quickly 
  zip this can be used to send reminder letters or postcards,
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://unchart.com/wp-content/uploads/2011/01/Well-Child-Registry-Bill-Sweeney.zip&quot;&gt;&lt;img src=&quot;http://unchart.com/wp-content/uploads/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Well Child Registry (Bill Sweeney)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/2011/01/Well-Child-Registry-Bill-Sweeney.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Well Child Registry (Bill Sweeney)&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  

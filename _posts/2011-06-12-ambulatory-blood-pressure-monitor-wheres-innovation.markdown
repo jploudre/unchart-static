@@ -34,7 +34,7 @@ Go forward to 2011.  A Welch-Allyn ABPM that's compatible with e-MDs costs $2-30
 
 Well, it can be.
 
-![](http://unchart.com/wp-content/uploads/2011/06/abpm50.jpg)
+![](/files/2011/06/abpm50.jpg)
 
 If you search on Amazon for 'ABPM' you'll find this $400 import from China. We just got one at my clinic. The hardware is reasonably nice. It's small, lightweight, sturdy. The usability on the machine is not that great but it still would take under a couple minutes to get it ready for a new patient including popping in some AA batteries.
 

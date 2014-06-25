@@ -29,7 +29,7 @@ Chris takes a different approach: He uses Dragon Medical Version (which costs > 
 
 So I decided to buy a [$279 Speechware Mic from Knowbrainer](http://www.knowbrainer.com/NewStore/pc/viewPrd.asp?idproduct=402&idcategory;=58).
 
-![](http://unchart.com/wp-content/uploads/2012/06/speechware1.jpg)
+![](/files/2012/06/speechware1.jpg)
 
 I have to say, I was surprised. I recreated a profile (pro tip: Any time you change Dragon Versions, your computer or your microphone, start a new profile. It's work but it makes sure that each part is being maximized.) And the performance is much better. I still slur certain words but it felt that nearly all of my errors are either slurring or words that aren't in my custom dictionary.
 

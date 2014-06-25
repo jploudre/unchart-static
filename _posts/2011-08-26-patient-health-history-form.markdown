@@ -18,5 +18,5 @@ Christine Hunter, PA, provided this Word Document which lines up with the histor
 
 [Original Discussion on SupportCenter](https://supportcenter.e-mds.com/ics/forum/Client/Common/ContentView.aspx?contentID=107150)
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Patient Health Summary Form](http://unchart.com/wp-content/uploads/2011/08/PATIENT_HISTORY_RECORD_eMDs1.doc)
+[![](/files/2011/01/57-download.png) Patient Health Summary Form](/files/2011/08/PATIENT_HISTORY_RECORD_eMDs1.doc)
 

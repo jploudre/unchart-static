@@ -22,15 +22,15 @@ This report searches visits in the past three years for well child visits. It li
 
 In my clinic of about a dozen providers, this runs about 65 pages long. But it only takes a few minutes to highlight all the patients who need appointments.
 
-[![](http://unchart.com/wp-content/uploads/2011/01/photo-300x156.jpg)](http://unchart.com/wp-content/uploads/2011/01/photo.jpg)
+[![](/files/2011/01/photo-300x156.jpg)](/files/2011/01/photo.jpg)
 
 * **Known Issues:** None.
 * **Tested on:** e-MDs 6.32
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Well_Child_Registry](http://unchart.com/wp-content/uploads/2011/01/Well_Child_Registry.zip)
+[![](/files/2011/01/57-download.png) Well_Child_Registry](/files/2011/01/Well_Child_Registry.zip)
 
 ----------------
-![](http://unchart.com/wp-content/uploads/2011/05/billsweeney.gif)
+![](/files/2011/05/billsweeney.gif)
 
 Bill Sweeney of Mid State Health re-worked the report to go up to age 17 and to include the ability to export to automated reminder calls. He says: 
 
@@ -45,4 +45,4 @@ Bill Sweeney of Mid State Health re-worked the report to go up to age 17 and to 
      mail merge group with first, last, address, city, state, 
      zip this can be used to send reminder letters or postcards,
      
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Well Child Registry (Bill Sweeney)](http://unchart.com/wp-content/uploads/2011/01/Well-Child-Registry-Bill-Sweeney.zip)
+[![](/files/2011/01/57-download.png) Well Child Registry (Bill Sweeney)](/files/2011/01/Well-Child-Registry-Bill-Sweeney.zip)

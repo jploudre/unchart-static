@@ -21,14 +21,14 @@ Having an open e-MDs client during backup, though, is a 'bad idea'. As in [Bad I
 
 I use a small freeware program to fix this:
 
-![](http://unchart.com/wp-content/uploads/2011/01/29-heart.png) [DShutdown by Dimio](http://dimio.altervista.org/eng/).
+![](/files/2011/01/29-heart.png) [DShutdown by Dimio](http://dimio.altervista.org/eng/).
 
 -----------------------------
 I have mine set up like this (click on the screenshot to see it full size):
 
-[![](http://unchart.com/wp-content/uploads/2011/12/screenshot.4-281x300.png)](http://unchart.com/wp-content/uploads/2011/12/screenshot.4.png)
+[![](/files/2011/12/screenshot.4-281x300.png)](/files/2011/12/screenshot.4.png)
 
 Down in the bottom left, I set up the timer like this. So everyday at 11pm it force logs out of my machine. When this app is on, you can see it's icon down in the system tray.
 
-[![](http://unchart.com/wp-content/uploads/2011/12/screenshot.3-235x300.png)](http://unchart.com/wp-content/uploads/2011/12/screenshot.3.png)
+[![](/files/2011/12/screenshot.3-235x300.png)](/files/2011/12/screenshot.3.png)
 

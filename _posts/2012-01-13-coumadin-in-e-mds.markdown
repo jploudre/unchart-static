@@ -18,7 +18,7 @@ There's been a discusssion on [SupportCenter](http://supportcenter.e-mds.com/ics
 
 Mal Riddell has offered his template:
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Coumadin Plan Template](http://unchart.com/wp-content/uploads/2012/01/Coumadin__Plan__MR.zip)
+[![](/files/2011/01/57-download.png) Coumadin Plan Template](/files/2012/01/Coumadin__Plan__MR.zip)
 
 Mal's process: We use a shortcut for our INR/PT patients that includes a  99211 charge for the most part.  If I see them significantly, I delete the charge and add the appropriate charge after the visit.    The template is a generic plan template and allows for changes in dose.  The nurse loads the previous template in the current note (via the Shortcut) and adds the INR value.  If it is within range, there is no change and the patient returns the following month.  If needed, I can see the patient and make changes to the dose.  I use a base of 5 mg tabs and alter the dose by ½ tab increments, based upon a weekly total dose. 
 
@@ -157,6 +157,6 @@ The other benefit I've noticed is that having my nurse doing coumadin managment 
 
  
 
-[![](http://unchart.com/wp-content/uploads/2012/01/coumadin-instructions2-285x300.png)  
-Coumadin Packet](http://unchart.com/wp-content/uploads/2012/01/Coumadin-Packet.zip)
+[![](/files/2012/01/coumadin-instructions2-285x300.png)  
+Coumadin Packet](/files/2012/01/Coumadin-Packet.zip)
 

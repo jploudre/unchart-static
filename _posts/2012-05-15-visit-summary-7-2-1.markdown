@@ -48,4 +48,4 @@ The best improvements from e-MDs center on making the information more approacha
 * Cleaner appearance. 
 * Removal of HPI (now an option from e-MDs) allows more visit summaries to be available at the visit (with an incomplete note.)
 
-![](http://unchart.com/wp-content/uploads/2012/05/Screen-Shot-2012-05-14-at-9.33.56-PM.png)
+![](/files/2012/05/Screen-Shot-2012-05-14-at-9.33.56-PM.png)

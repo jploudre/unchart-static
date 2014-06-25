@@ -18,7 +18,7 @@ Thanks to Jeff Grabenstein, MD, of Family Doctors of Oak Ridge. He's been explor
 
 ----------------------
 
-Jeff's Current Recommendation (Free):  [![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) NetTime](http://timesynctool.com/)
+Jeff's Current Recommendation (Free):  [![](/files/2011/01/57-download.png) NetTime](http://timesynctool.com/)
 
 ## Daily frustration with access violations
 

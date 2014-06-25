@@ -26,7 +26,7 @@ First, **Don't do email lists yourself**. This is a *solved problem* that can be
 
 
 (I don't imagine anyone will ever use this 'Spreading Monkey Love' and I don't really need credits since I use the free account. But here's my referral code.)  
-[![](http://unchart.com/wp-content/uploads/2012/04/MC_MonkeyReward_05.png)](http://eepurl.com/k0gpf)
+[![](/files/2012/04/MC_MonkeyReward_05.png)](http://eepurl.com/k0gpf)
 
 With MailChimp you get tools that allow you to automatically do things right:
 
@@ -53,13 +53,13 @@ I used a crystal report to generate a list of ~650 patients. After importing to 
 
 Here's the first 2 days of opens:
 
-![](http://unchart.com/wp-content/uploads/2012/04/Screen-Shot-2012-04-16-at-10.23.09-PM.png)
+![](/files/2012/04/Screen-Shot-2012-04-16-at-10.23.09-PM.png)
 
 ## My Campaign Design
 
 I wanted this email to be personal (vs. corporate) so I included a picture of me with one of my daughters. I aimed the 'voice' as being from me, not my clinic. I also wrote the text for simplicity ([low reading level is a theme on unchart](http://unchart.com/?s=readability)....)  It looks partly like this:
 
-![](http://unchart.com/wp-content/uploads/2012/04/Screen-Shot-2012-04-16-at-10.27.46-PM.png)
+![](/files/2012/04/Screen-Shot-2012-04-16-at-10.27.46-PM.png)
 
 My text:
 

@@ -10,7 +10,7 @@ categories:
 - About Unchart
 ---
 
-[caption id="attachment_1375" align="alignnone" width="300'][![](http://unchart.com/wp-content/uploads/2013/01/IMG_0754-300x300.jpg)](http://unchart.com/wp-content/uploads/2013/01/IMG_0754.jpg)[/caption]  
+[caption id="attachment_1375" align="alignnone" width="300'][![](/files/2013/01/IMG_0754-300x300.jpg)](/files/2013/01/IMG_0754.jpg)[/caption]  
 
 Hey everyone!
 

@@ -29,7 +29,7 @@ My suggestion: Drop the virtual 2 factor security altogether. It doesn't really 
 
 So, if you get a warning box every time you do a search, do you really read it? You might the first time, right? I could see where there should be a usage and privacy policy. Curent design is to have it interrupt you every time you log in. It's not much of a welcome:
 
-![](http://unchart.com/wp-content/uploads/2012/01/Screen-Shot-2012-01-04-at-11.43.40-PM-300x236.png)
+![](/files/2012/01/Screen-Shot-2012-01-04-at-11.43.40-PM-300x236.png)
 
 I doubt that 5% of users will actually read it after the first time. (Taunt for PMP Designers: Use your server logs/analytics to disprove me.) This looks like it was designed by a lawyer with no consideration for whether it would do anything but slow providers/pharmacists down. Um, it might have been.
 
@@ -66,17 +66,17 @@ My suggestion: Drop the required click through. And if you dramatically simplify
 
 If you move your eyes through the search form, you have a jumble of needing to carefully check everything. 
 
-[![](http://unchart.com/wp-content/uploads/2012/01/Screen-Shot-2012-01-05-at-1.00.10-AM-300x247.png)](http://unchart.com/wp-content/uploads/2012/01/Screen-Shot-2012-01-05-at-1.00.10-AM.png)
+[![](/files/2012/01/Screen-Shot-2012-01-05-at-1.00.10-AM-300x247.png)](/files/2012/01/Screen-Shot-2012-01-05-at-1.00.10-AM.png)
 
 Some of the available options, seem to be missing the whole point of a **statewide prescription monitoring program**. Why give an option to search by county? That's close to never useful. If location really mattered they would do 'within 10/25/50/100 miles'. (The DEA knows my address already without me typing it in.) 
 
 Something like this would be better:
 
-![](http://unchart.com/wp-content/uploads/2012/01/PMP-Search-Revised.png)
+![](/files/2012/01/PMP-Search-Revised.png)
 
 Honestly you could simplify to just Patient Name/DOB (since Dispense dates appear to autofill, anyhow). Just give advanced options for all those providers who only care about your zip code or county. (Why would they want to know if you go across town? Oh, wait, that's the whole point.)
 
-![](http://unchart.com/wp-content/uploads/2012/01/Screen-Shot-2012-01-05-at-1.24.52-AM.png)
+![](/files/2012/01/Screen-Shot-2012-01-05-at-1.24.52-AM.png)
 
 ## Bonus Issue: Design from 1998
 

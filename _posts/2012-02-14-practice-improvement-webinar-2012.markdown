@@ -12,7 +12,7 @@ tags:
 - e-MDs
 ---
 
-![](http://unchart.com/wp-content/uploads/2012/02/unchart-practice-improvement-webinar.png)
+![](/files/2012/02/unchart-practice-improvement-webinar.png)
 
 "The future is already here -- it's just not very evenly distributed."  
  ---William Gibson

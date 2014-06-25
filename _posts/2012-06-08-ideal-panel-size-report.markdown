@@ -28,7 +28,7 @@ The third table shows the number of visits/invoices that the provider gave in th
 
 And the last table shows the number of continuity visit/invoices for the providers and patients.
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Ideal Panel Size Report](http://unchart.com/wp-content/uploads/2012/06/ideal-panel-size-data.rpt_.zip)
+[![](/files/2011/01/57-download.png) Ideal Panel Size Report](/files/2012/06/ideal-panel-size-data.rpt_.zip)
 
 The real question for a group: **Could you use this kind of data to make decisions about how to manage panel sizes?**
 

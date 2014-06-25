@@ -28,13 +28,13 @@ The **'I'm Done' button** (Win-Spacebar) quickly get's you out of common places 
 
 #### The Benefits/Cheatsheet
 
-![](http://unchart.com/wp-content/uploads/2011/01/Screen-shot-2011-01-29-at-12.05.48-PM.png)
+![](/files/2011/01/Screen-shot-2011-01-29-at-12.05.48-PM.png)
 
 #### Instructions
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png)Download the executable I'm Done 2.0](http://unchart.com/wp-content/uploads/2011/01/Im-Done-2.0.exe)
+[![](/files/2011/01/57-download.png)Download the executable I'm Done 2.0](/files/2011/01/Im-Done-2.0.exe)
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Printable PDF of I'm Done Helpfile](http://unchart.com/wp-content/uploads/2011/01/Im-Done-Helpfile.pdf)
+[![](/files/2011/01/57-download.png) Printable PDF of I'm Done Helpfile](/files/2011/01/Im-Done-Helpfile.pdf)
 
 Or  if you want to do it from scratch for security reasons:
 
@@ -42,7 +42,7 @@ Or  if you want to do it from scratch for security reasons:
 2. Change the extension to .ahk (look inside, if you're interested)
 3. Use the compiler from autohokey.
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) I'm Done 2.0 (Code Source)](http://unchart.com/wp-content/uploads/2011/01/Im-Done-2.0.txt)
+[![](/files/2011/01/57-download.png) I'm Done 2.0 (Code Source)](/files/2011/01/Im-Done-2.0.txt)
 
 
 

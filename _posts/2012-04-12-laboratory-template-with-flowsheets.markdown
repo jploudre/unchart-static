@@ -18,4 +18,4 @@ This is Chris Hunter's Laboratory Template that includes links to appropriate fl
 
 Flowsheet links are 'brittle' so the exact wording matters. For my clinic the flowsheet links don't work but it would be a starting point for making our own.
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Laboratory_Results](http://unchart.com/wp-content/uploads/2012/04/Laboratory_Results.zip)
+[![](/files/2011/01/57-download.png) Laboratory_Results](/files/2012/04/Laboratory_Results.zip)

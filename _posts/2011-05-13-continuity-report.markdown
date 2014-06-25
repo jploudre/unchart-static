@@ -22,7 +22,7 @@ It's a basic percentage of billed office/hospital visits -- new or established p
 
 The report covers the last 365 days before the report and summarizes by month. Like I said in [Data Driven Practice](http://unchart.com/2011/data-driven-practice/), the right number of parameters is usually *Zero*. So there's intentionally no options.
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Continuity Crystal Report](http://unchart.com/wp-content/uploads/2011/05/continuity.zip)
+[![](/files/2011/01/57-download.png) Continuity Crystal Report](/files/2011/05/continuity.zip)
 
   
 
@@ -38,7 +38,7 @@ The report covers the last 365 days before the report and summarizes by month. L
 
 I wish it was that easy: just manage and improve continuity. If you asked me a year ago, access/continuity would have been one of my big successes at my clinic. I had created this and a few other related reports. We had a decent single-page dashboard that you can see in my [data driven practice presentation](http://unchart.com/2011/data-driven-practice/). It was a way to use [Practice-based Evidence](http://unchart.com/2011/practice-based-evidence/) to improve care.
 
-![](http://unchart.com/wp-content/uploads/2011/05/cowboy.jpg)
+![](/files/2011/05/cowboy.jpg)
 
 What happened: it fizzled. My partners and I were originally looking at and thinking about data. In one discussion we got about a minute away from the grail -- we almost made a management experiment using real-time data. We were going to change scheduling to improve the docs who needed the most help. But there was some issues with recent reception stress so we decided to wait. And essentially there's never been any momentum again.
 

@@ -17,13 +17,13 @@ tags:
 
 Here's a report by Bill Sweeney from Mid-State Health.
 
-![](http://unchart.com/wp-content/uploads/2012/05/311131.gif)
+![](/files/2012/05/311131.gif)
 
 
  It generates a nice flat file list of appointments that you can select by date. Includes check in time, date, check out time, and optionally who did the check in. 
 
 I love 'flat file' reports like this -- it allows you to do your own analysis in an easier tool like Excel (See my [Data-Driven Practice](http://unchart.com/2011/data-driven-practice/) page) With just a few extra columns and a pivot table, I could answer questions like: Are Monday Appointments longer? Do my receptionists share check-in equally?
 
-[![](http://unchart.com/wp-content/uploads/2012/03/Screen-Shot-2012-03-10-at-9.09.53-AM.png)  
-![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Checked in by Date Range](http://unchart.com/wp-content/uploads/2012/03/Checked-in-by-Date-Range.zip)
+[![](/files/2012/03/Screen-Shot-2012-03-10-at-9.09.53-AM.png)  
+![](/files/2011/01/57-download.png) Checked in by Date Range](/files/2012/03/Checked-in-by-Date-Range.zip)
 

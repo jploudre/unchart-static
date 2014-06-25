@@ -21,7 +21,7 @@ We add a special pop up alert to patients who have a name that is the same or si
 
 (**This is a tremendous report!** Reduce Name errors. This is a patient safety issue. -- *JP*)
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Duplicate Names Report](http://unchart.com/wp-content/uploads/2011/03/Duplicate-Names-Report.zip)
+[![](/files/2011/01/57-download.png) Duplicate Names Report](/files/2011/03/Duplicate-Names-Report.zip)
 
 
 ---------------
@@ -30,5 +30,5 @@ We add a special pop up alert to patients who have a name that is the same or si
 
 For the past five years, Sara has managed her husband's practice, Evans Dermatology Partners.  Prior to that, she was a management consultant with McKinsey & Co. in Dallas and London.  At McKinsey, her work focused on streamlining clients' retail store operations.  Her undergraduate degree is in Russian from Wesleyan University and she has an MBA from Duke University.  She and her husband Colby live in Austin, TX and have two small boys, with a third expected in August.
 
-![](http://unchart.com/wp-content/uploads/2011/03/sara_evans.jpg.jpg)
+![](/files/2011/03/sara_evans.jpg.jpg)
 

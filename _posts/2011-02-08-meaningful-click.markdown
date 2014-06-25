@@ -33,7 +33,7 @@ Meaningful Click is an app for Docs using e-MDs that accelerates patient chart r
 
 You can download it to use if you'd  like.
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Meaningful Click (March 7, 2011)](http://dl.dropbox.com/u/607655/meaningfulclick%2003072011.zip)
+[![](/files/2011/01/57-download.png) Meaningful Click (March 7, 2011)](http://dl.dropbox.com/u/607655/meaningfulclick%2003072011.zip)
 
 I use 'Windows Classic Theme' in XP. I can fix that but it's pretty low priority to me -- I want other features working for me, first. To change your theme:
 

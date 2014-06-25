@@ -24,11 +24,11 @@ One of the things I love about Mac OS X is that printing to file (pdf) is baked 
 
 The trick is to create generic/text only printer. 
 
-![](http://unchart.com/wp-content/uploads/2011/07/Generic_Text_Only_Icon.png)
+![](/files/2011/07/Generic_Text_Only_Icon.png)
 
 For example, Windows XP has trouble exporting device manager info. So they recommend [installing a generic/text only driver and printing to that to create a file.](http://support.microsoft.com/kb/127156). If you follow the instructions there, you'll be able to do the same with Chart Audit. But this is the  key step:
 
-[![](http://unchart.com/wp-content/uploads/2011/07/Generic-Text-Only-Driver-Selection.png)](http://unchart.com/wp-content/uploads/2011/07/Generic-Text-Only-Driver-Selection.png)
+[![](/files/2011/07/Generic-Text-Only-Driver-Selection.png)](/files/2011/07/Generic-Text-Only-Driver-Selection.png)
 
 In e-MDs you can control printing options in Chart. But some things will just go to your default printer in Windows. So to print to file, you may need to first set your default printer to the generic/text only, then do the printing, then set it back to your default.
 

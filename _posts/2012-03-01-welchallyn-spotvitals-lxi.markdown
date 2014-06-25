@@ -17,7 +17,7 @@ tags:
 - technology
 ---
 
-![](http://unchart.com/wp-content/uploads/2011/08/450x0-E1-2.jpg)
+![](/files/2011/08/450x0-E1-2.jpg)
 
 I've wanted this for several years -- I think it'll improve flow, reduce disparities in vitals and reduce transcription errors on vitals. If we implement this right, we can even use it to improve the human-ness of our rooming.
 

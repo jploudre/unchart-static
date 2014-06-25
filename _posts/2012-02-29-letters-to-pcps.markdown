@@ -23,7 +23,7 @@ If you do have a process: Could this automate it for you. I consider a fab repor
 
 This creates a coversheet and then the notes (only those marked as NEWP or CONS). Obviously this needs to be modified per clinic but it's a template.
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Notes to PCPs](http://unchart.com/wp-content/uploads/2012/02/Notes-to-PCPs.zip)
+[![](/files/2011/01/57-download.png) Notes to PCPs](/files/2012/02/Notes-to-PCPs.zip)
 
 ---------------
 
@@ -31,5 +31,5 @@ This creates a coversheet and then the notes (only those marked as NEWP or CONS)
 
 For the past five years, Sara has managed her husband's practice, Evans Dermatology Partners.  Prior to that, she was a management consultant with McKinsey & Co. in Dallas and London.  At McKinsey, her work focused on streamlining clients' retail store operations.  Her undergraduate degree is in Russian from Wesleyan University and she has an MBA from Duke University.  She and her husband Colby live in Austin, TX and have three children.
 
-![](http://unchart.com/wp-content/uploads/2011/03/sara_evans.jpg.jpg)
+![](/files/2011/03/sara_evans.jpg.jpg)
 

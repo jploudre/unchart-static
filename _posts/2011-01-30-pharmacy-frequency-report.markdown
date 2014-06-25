@@ -16,4 +16,4 @@ tags:
 
 This lists pharmacies in order of popularity. I put office phone numbers on it because I wanted a short list of phone numbers to have on my phone. Interesting to see where your prescriptions go. Considering all the work related to pharmacies, it seems like you could use it to streamline processes with a few of your most important pharmacies.
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Pharmacy Frequency Report](http://unchart.com/wp-content/uploads/2011/01/Pharmacy-Frequency.zip)
+[![](/files/2011/01/57-download.png) Pharmacy Frequency Report](/files/2011/01/Pharmacy-Frequency.zip)

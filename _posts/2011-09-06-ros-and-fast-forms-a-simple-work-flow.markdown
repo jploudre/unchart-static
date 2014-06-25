@@ -16,7 +16,7 @@ tags:
 
 *A guest post by Christine Hunter, PAC.*
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Fastforms by Christine Hunter](http://unchart.com/wp-content/uploads/2011/09/fastforms-hunter.zip)
+[![](/files/2011/01/57-download.png) Fastforms by Christine Hunter](/files/2011/09/fastforms-hunter.zip)
 
 When we started eMDs two years ago, we tried to use the Fast Forms that eMDs
 had with the system. We were not very successful. We could never get a scanner that
@@ -60,9 +60,9 @@ information added to the visit note in seconds. If you have any questions regard
 my above suggestion for Review of Systems and Fast Forms, please email me at
 pachunter@hotmail.com.
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Fastforms by Christine Hunter](http://unchart.com/wp-content/uploads/2011/09/fastforms-hunter.zip)
+[![](/files/2011/01/57-download.png) Fastforms by Christine Hunter](/files/2011/09/fastforms-hunter.zip)
 
 ---------------
-![](http://unchart.com/wp-content/uploads/2011/09/Profile-Picture-150x150.jpg)
+![](/files/2011/09/Profile-Picture-150x150.jpg)
 
 Christine Hunter has been practicing as a Physician Assistant in Family Practice for the past 17 years.  She graduated from Des Moines University in 1994 and obtained her Masters degree in Physician Assistant Studies from University of Nebraska Medical Center in 2001.  She currently works at Southwest Family Practice in Omaha, NE with two doctors and three other mid-level practitioners.  In addition to seeing patients full time, she is also Nurse Administrator and unoffical eMDs guru which they have been using for the past 2 years.  She's married to Jim and mother to two teenage children, Lindsey and Ian.

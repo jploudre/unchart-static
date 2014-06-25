@@ -16,7 +16,7 @@ tags:
 - report
 ---
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Simvastatin Report](http://unchart.com/wp-content/uploads/2011/06/Simvastatin.zip)
+[![](/files/2011/01/57-download.png) Simvastatin Report](/files/2011/06/Simvastatin.zip)
 
 ------------
 
@@ -44,4 +44,4 @@ This is a simple report that organizes by Provider and then Patient taking 80mg 
 
 **Philosopical Interlude:** reporting/analytics isn't a tech issue. This is sociopolitical. Who's going to run it? Who's going to contact patients? Or are you going to contact patients? What would you say or plan? Don't just download this. Decide what you think is best then use this to help make it happen.
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Simvastatin Report](http://unchart.com/wp-content/uploads/2011/06/Simvastatin.zip)
+[![](/files/2011/01/57-download.png) Simvastatin Report](/files/2011/06/Simvastatin.zip)

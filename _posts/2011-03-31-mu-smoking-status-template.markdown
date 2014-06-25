@@ -28,10 +28,10 @@ Here are the changes I made
 These PQRI codes will satisfy the first part of the Tobacco Use and Intervention report for Core requirement #11
 the second part of the report is actual intervention - that gets satisfied if you prescribe a smoking cessation medication or you document counseling of smoking cessation in a plan template under "Smoking Status" which is in about every plan template.
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Tobacco_Alcohol_Supplements](http://unchart.com/wp-content/uploads/2011/03/Tobacco_Alcohol_Supplements.zip)
+[![](/files/2011/01/57-download.png) Tobacco_Alcohol_Supplements](/files/2011/03/Tobacco_Alcohol_Supplements.zip)
 
 -------------------------
 
-![](http://unchart.com/wp-content/uploads/2011/03/joker.jpg.jpg)
+![](/files/2011/03/joker.jpg.jpg)
 
 This was shared by John Crankshaw, MD

@@ -16,4 +16,4 @@ tags:
 
 A report of all the inejction opiates given in a timeframe. (May need adjustment if your clinic uses different injectables.)
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Injectable Opiates Report](http://unchart.com/wp-content/uploads/2011/01/Narcotic-Report.zip)
+[![](/files/2011/01/57-download.png) Injectable Opiates Report](/files/2011/01/Narcotic-Report.zip)

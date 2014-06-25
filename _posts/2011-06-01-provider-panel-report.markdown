@@ -32,5 +32,5 @@ One time I used a set of conversion factors to adjust for the age/sex of patient
 
 One of the things I learned by looking at panel size is that larger clinic dynamics matter. I could fix my availability and have a right-sized panel and still have problems. If a partner is overburdened, the patients will spill over. To really get success in managing panels, I think you have to consider  the whole clinic as much as individual providers. 
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Provider Panel Report](http://unchart.com/wp-content/uploads/2011/06/provider-panel.zip)
+[![](/files/2011/01/57-download.png) Provider Panel Report](/files/2011/06/provider-panel.zip)
 

@@ -35,7 +35,7 @@ This is a disruptive technology -- as a Family Doc I potentially can do a better
 
 --------------------
 
-![](http://unchart.com/wp-content/uploads/2012/09/Simple2Start.jpg)
+![](/files/2012/09/Simple2Start.jpg)
 
 I bought a [Meditronic iPro Continuous Glucose Monitor](http://professional.medtronicdiabetes.com/hcp-products/ipro2).
 

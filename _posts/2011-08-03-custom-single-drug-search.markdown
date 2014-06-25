@@ -17,7 +17,7 @@ tags:
 - report
 ---
 
-![](http://unchart.com/wp-content/uploads/2011/08/AIbEiAIAAABDCNfdxLH-rsvxIiILdmNhcmRfcGhvdG8qKGJmNzA1ZjRhNDViMGI0ZTliMzU1M2U2Yjg4NDg5MjVlNGQ0OWQ4NjMwAa0sj0W03YTFCtxfJMHI64y6bfUL.jpg)  
+![](/files/2011/08/AIbEiAIAAABDCNfdxLH-rsvxIiILdmNhcmRfcGhvdG8qKGJmNzA1ZjRhNDViMGI0ZTliMzU1M2U2Yjg4NDg5MjVlNGQ0OWQ4NjMwAa0sj0W03YTFCtxfJMHI64y6bfUL.jpg)  
 Chat Kidkul made this report
 
 Chat says:
@@ -30,5 +30,5 @@ Chat says:
      
 This is a more general (and well written) example of what I did recently to screen patients on the 80mg dose of Simvastatin. 
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Custom Single Drug Current & Past Med Search](http://unchart.com/wp-content/uploads/2011/08/Custom-Single-Drug-Current-Past-Med-Search.zip)
+[![](/files/2011/01/57-download.png) Custom Single Drug Current & Past Med Search](/files/2011/08/Custom-Single-Drug-Current-Past-Med-Search.zip)
 

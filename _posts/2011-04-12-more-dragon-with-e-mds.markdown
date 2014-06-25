@@ -38,7 +38,7 @@ I haven't really used Dragon for messaging or order tracking since it's not my c
 
 ## Very simple Dragon Macro
  
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Dragon 11 Macro](http://unchart.com/wp-content/uploads/2011/04/dragon11.zip)
+[![](/files/2011/01/57-download.png) Dragon 11 Macro](/files/2011/04/dragon11.zip)
 
 The source is in the previous post, if you're  interested. This is the stand-alone version.
 

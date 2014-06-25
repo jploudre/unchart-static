@@ -32,7 +32,7 @@ Here's how I organized the files on the server:
      
 I'm not sure I still need to host the cda.xsl at the root but I did during development. In both xsl files you'd need to change '50.18.44.12' to whatever your server address is so the pictures show up. (The .png's are hardcoded into the xsl.) You'll probably want to change the picture at the top (ncfpleaf.png, too.) I host mine on Nginx. If these instructions are too brief for your tech guru, then you probably shouldn't host these yourself.
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) Unchart Visit Summary (August 2011)](http://unchart.com/wp-content/uploads/2011/08/Unchart-Visit-Summary-Aug2011.zip)
+[![](/files/2011/01/57-download.png) Unchart Visit Summary (August 2011)](/files/2011/08/Unchart-Visit-Summary-Aug2011.zip)
 
 -----------------------
 

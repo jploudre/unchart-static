@@ -25,6 +25,6 @@ Surprisingly, this inexpensive virtual server outperforms e-MD's official server
 |Requests/second|**8.3**|4.4|
 |Longest Request|**661ms**|4730ms|
 
-[Full Server Testing Details (4.5.2011)](http://unchart.com/wp-content/uploads/2011/04/server-testing-4.5.2011.txt)
+[Full Server Testing Details (4.5.2011)](/files/2011/04/server-testing-4.5.2011.txt)
 
 

@@ -14,7 +14,7 @@ tags:
 
 First, some background. A few days ago, the AAFP released a [statement against expanding roles for Nurse Practitioners](http://www.aafp.org/online/en/home/membership/initiatives/nps/patientcare/changing.html). The tagline: *Ensuring a quality, physician-led team for every patient.* 
 
-[![](http://unchart.com/wp-content/uploads/2011/01/17-bar-chart.png) One Page AAFP Infographic](http://unchart.com/wp-content/uploads/2012/09/PCMH-AAFPInfographic.pdf)
+[![](/files/2011/01/17-bar-chart.png) One Page AAFP Infographic](/files/2012/09/PCMH-AAFPInfographic.pdf)
 
 Nurse practitioners have started to respond. CKRN wrote about [Nurse Practitioners, Scope of Practice and turf.](http://ckrn.tumblr.com/post/31940128969/nurse-practitioners-scope-of-practice-and-turf) (Go ahead and read it, I'll wait here. )
 

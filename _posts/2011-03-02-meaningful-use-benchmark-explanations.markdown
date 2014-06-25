@@ -30,7 +30,7 @@ These two word documents have screenshots (warning: big files!) and explain benc
 
 ---------------
 
-[![](http://unchart.com/wp-content/uploads/2011/01/57-download.png) MU_Explanations6.17.2011](http://unchart.com/wp-content/uploads/2011/03/MU_Explanations6.17.2011.zip)
+[![](/files/2011/01/57-download.png) MU_Explanations6.17.2011](/files/2011/03/MU_Explanations6.17.2011.zip)
 
 
 --------------

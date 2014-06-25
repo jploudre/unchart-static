@@ -16,4 +16,4 @@ I am still in the process of turning my office into another exam room. Now that 
 
 The biggest problem with side projects like this, is finding time to do them. Yesterday afternoon I had a few hours while I was on call and so I got a table and have put it together.
 
-![](http://unchart.com/wp-content/uploads/2012/07/consultoffice-300x225.jpg)
+![](/files/2012/07/consultoffice-300x225.jpg)

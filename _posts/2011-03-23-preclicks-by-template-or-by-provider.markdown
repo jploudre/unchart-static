@@ -17,6 +17,6 @@ This report may seem worthless -- who cares what preclicks your partners have or
 
 This report could be a great source of [Practice-based Evidence.](http://unchart.com/2011/practice-based-evidence/)
 
-![](http://unchart.com/wp-content/uploads/2011/03/preclick-by-template.png)
+![](/files/2011/03/preclick-by-template.png)
 
-![](http://unchart.com/wp-content/uploads/2011/03/preclick-by-provider.png)
+![](/files/2011/03/preclick-by-provider.png)

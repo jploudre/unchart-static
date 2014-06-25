@@ -45,5 +45,5 @@ Dr. Jonathan Ploudre
 
 If you have Pages on a Mac or iPad or iPhone, here's the actual document.
 
-[![](http://unchart.com/wp-content/uploads/2012/03/Screen-Shot-2012-03-18-at-10.20.54-AM.png)  
-DM Group Visit Invite](http://unchart.com/wp-content/uploads/2012/03/DM-Group-Visit-Invite.zip)
+[![](/files/2012/03/Screen-Shot-2012-03-18-at-10.20.54-AM.png)  
+DM Group Visit Invite](/files/2012/03/DM-Group-Visit-Invite.zip)

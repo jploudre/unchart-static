@@ -17,7 +17,7 @@ Jargon really complicates Meaningful Use discussions. When talking about prescri
 
 Here's my solution. Print this out huge and put it in your conference room. It's color-coded by major MU goal (improving care is yellow, engaging patients/families is orange, etc)
 
-[![](http://unchart.com/wp-content/uploads/2011/02/MU-measures-300x224.png)](http://unchart.com/wp-content/uploads/2011/02/MU-measures.png)
+[![](/files/2011/02/MU-measures-300x224.png)](/files/2011/02/MU-measures.png)
 
 ----
 

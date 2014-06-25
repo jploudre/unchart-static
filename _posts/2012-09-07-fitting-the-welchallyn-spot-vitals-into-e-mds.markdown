@@ -18,7 +18,7 @@ tags:
 - workaround
 ---
 
-![](http://unchart.com/wp-content/uploads/2011/08/450x0-E1-2-150x150.jpg) After I attested for 2011 Meaningful Use, my group decided to have the doc decide on some of the 're-investments' in our practice. The second thing I got was the WelchAllyn SpotVitals Lxi. (Bigger monitors for reception was first.) I had been interested in this for at least a couple years. A while back, I posted a [video on using the SpotVitals](http://unchart.com/2012/welchallyn-spotvitals-lxi/).
+![](/files/2011/08/450x0-E1-2-150x150.jpg) After I attested for 2011 Meaningful Use, my group decided to have the doc decide on some of the 're-investments' in our practice. The second thing I got was the WelchAllyn SpotVitals Lxi. (Bigger monitors for reception was first.) I had been interested in this for at least a couple years. A while back, I posted a [video on using the SpotVitals](http://unchart.com/2012/welchallyn-spotvitals-lxi/).
 
 Automated vitals addresses a few different issues for my practice:
 
@@ -38,7 +38,7 @@ e-MDs has an interface -- that's why we bought this specific mdoel. *It's suppor
 Since the machine is expensive, we've been re-working clinical processes. Lately we've been trying doing vitals out in the waiting room. There are some communication issues between staff. On our next pilot, we're going to add a few 'rooms' to our clinic dashboard. There will be 'Vitals-Room' and 'Vitals Done' so clinical staff can tell where a pt is in the process (and if there's a backup, they can route around it.) My goal has been to help my staff decide what they want (not tell them.) So we're still trying different things out.
 
 ----------------------
-![](http://unchart.com/wp-content/uploads/2012/09/vitalsbackground-300x185.png)
+![](/files/2012/09/vitalsbackground-300x185.png)
 
 Since the interface doesn't work for efficient workflow, I'm building a new 'pseudo-interface'. This will pop up from within a patient's chart in e-MDs. I'm working with my staff to figure out the best place to put this. I'm trying a couple different things to make this work. First, much larger font-size so they can see typos better. The left side of this maps to where the vitals are on the machine. (Faster for staff, less cognitive-load so less error prone.) Tabbing through fields works in the order that they work (Again, faster). The results will be put into e-MDs where there's full details -- for example, which arm for the blood pressure. So we simplify input for reliability. 
 
