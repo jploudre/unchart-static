@@ -20,7 +20,7 @@ tags:
 
 Portal has a usability bug that affects a lot of patients (anyone using Google Chrome, Safari, iPhone, iPad, Android Phones, RIM Phones, Kindle Fires, etc.) 
 
-Read about the [Portal Usability Bug](http://unchart.com/2012/portal-layout-bug/)
+Read about the [Portal Usability Bug](/2012/portal-layout-bug/)
 
 Here's how to spread the word.
 

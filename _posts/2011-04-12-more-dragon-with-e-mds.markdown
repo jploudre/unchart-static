@@ -14,7 +14,7 @@ tags:
 - efficiency
 ---
 
-I wrote recently about [Dragon 11 (not just medical) with e-MDs ](http://unchart.com/2011/using-dragon-with-e-mds/)
+I wrote recently about [Dragon 11 (not just medical) with e-MDs ](/2011/using-dragon-with-e-mds/)
 
 So I've failed dictation multiple times in the past -- I'd say I've given a real try at least 5 times in the last 6 years. Improvements helped but I still failed.:
 

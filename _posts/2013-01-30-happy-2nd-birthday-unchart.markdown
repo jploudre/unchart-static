@@ -14,7 +14,7 @@ It's been about 2 years since I started UnChart. I thought I'd do a run through 
 
 ![](/files/2013/01/Screen-Shot-2013-01-29-at-6.36.59-PM-300x69.png) 
 
-The top 4 browsers were IE, Chrome, Firefox and Safari. In that order. I find that interesting because for several years I have complained to e-MDs that Portal doesn't layout appropriately in Modern Browsers. Less than half of my visitors use Internet Explorer. [That campaign to convince e-MDs to fix portal usability](http://unchart.com/2012/encourage-e-mds-to-fix-portal-usability/) was probably the first time SupportCenter had been used systematically to raise awareness with e-MDs. Interesting coincidence, a couple weeks later, the exact fix that I had recommended went out to Portal.
+The top 4 browsers were IE, Chrome, Firefox and Safari. In that order. I find that interesting because for several years I have complained to e-MDs that Portal doesn't layout appropriately in Modern Browsers. Less than half of my visitors use Internet Explorer. [That campaign to convince e-MDs to fix portal usability](/2012/encourage-e-mds-to-fix-portal-usability/) was probably the first time SupportCenter had been used systematically to raise awareness with e-MDs. Interesting coincidence, a couple weeks later, the exact fix that I had recommended went out to Portal.
 
 [![](/files/2013/01/Screen-Shot-2013-01-29-at-6.41.45-PM-300x245.png)][1] 
 
@@ -26,10 +26,10 @@ I wrote most of the posts here. I've definitely had help from a number of other 
 
 My top posts: 
 
-* [Unchart Visit Summary](http://unchart.com/unchart-visit-summary/). (Which now has about 3500 uses/week!) 
-* [Stage 2 Proposed Guidelines](http://unchart.com/2012/stage-2-proposed-guidelines/) (the spike of traffic, handout was downloaded ~800 times) 
-* [e-MDs Macros](http://unchart.com/2011/e-mds-macros/) (My tool for making daily work faster) 
-* [Where to Start with macros and e-MDs](http://unchart.com/2011/where-to-start-with-macros-and-e-mds/). 
+* [Unchart Visit Summary](/unchart-visit-summary/). (Which now has about 3500 uses/week!) 
+* [Stage 2 Proposed Guidelines](/2012/stage-2-proposed-guidelines/) (the spike of traffic, handout was downloaded ~800 times) 
+* [e-MDs Macros](/2011/e-mds-macros/) (My tool for making daily work faster) 
+* [Where to Start with macros and e-MDs](/2011/where-to-start-with-macros-and-e-mds/). 
 
 I spent some time optimizing the site. I like speed. A typical page loads in 2.5 seconds. Hopefully that makes browsing more enjoyable for people. 95% of visit are straight browsing (not using search.)
 

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Portal Layout Bug &middot; Unchart
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/unchart.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  <body>
+
+    <div class="container content">
+      <div class="masthead">
+        <h3 class="masthead-title">
+          <a href="/" title="Home">Unchart</a>
+          <small></small>
+        </h3>
+      </div>
+
+      <div class="post">
+  <h1 class="post-title">Portal Layout Bug</h1>
+  <span class="post-date">08 Jan 2012</span>
+  <p><img src="/files/2012/01/Screen-Shot-2012-01-25-at-7.46.18-PM.png" alt="" /></p>
+
+<p><strong>Update:</strong> <em>This appears to be fixed as of today.  Interestingly enough the new formatting doesn’t redesign the site but it makes exactly the change that I mention below. This makes it much more usable for patients.</em> – Jonathan Ploudre, 1/25/2012</p>
+
+<p><a href="/files/2012/01/portalscreenshot.png"><img src="/files/2012/01/portalscreenshot-300x190.png" alt="" /></a></p>
+
+<h2 id="why-does-portal-look-like-that">Why does portal look like that?</h2>
+
+<p>Let’s do some ancient history. More than 10 years ago, <em>Internet Explorer 5.0</em> (yes, 5.0) had a bug in how it rendered layout. This is called the IE Box Model Bug. It was fixed in IE 6.0. But for backwards compatibility IE usually replicates the buggy behavior of IE 5. (So do newer version of IE, this is called ‘Quirks mode’) Firefox on Windows decided to replicate the bug for compatibility with IE, too. </p>
+
+<p>When portal was written, I assume they didn’t even test it on other browsers besides IE. It would have been easy to fix (see below) but they weren’t looking for it. To be fair, 10 years ago a lot of developers did that. And I don’t know exactly when portal was developed but it was a while ago and doesn’t seem to have active development.</p>
+
+<p>But over the last 10 years, more and more browsers are not IE/Firefox on Windows. There are more Macs now. Google Chrome is a popular Browser. iPhone, iPad, and Android Phones. The new Kindle Fire. They all do standards-based layout so the Portal Layout Bug shows up on lots of devices. </p>
+
+<p>A year ago when I was pointing out the bug to Tech Support, their advice was that I <em>tell all my patients to use IE on Windows</em>. <del>Um, Seriously?</del></p>
+
+<p>Lest it sound like I’m a biased Mac user (which, I am), <a href="http://en.wikipedia.org/wiki/Internet_Explorer_box_model_bug">Read about the IE Box Model Bug on Wikipedia</a>.</p>
+
+<p><a href="/files/2012/01/portalscreenshotmarked.png"><img src="/files/2012/01/portalscreenshotmarked-300x190.png" alt="" /></a></p>
+
+<hr />
+
+<p>There are multiple ways to fix this. On the example above where the
+Inbox flows wrong, this is the code that’s broken:</p>
+
+<pre><code>#ContentLeft {
+   float: left;
+   width: 20%;
+   padding: 20px 0px 20px 20px;
+}
+#ContentRight {
+   float: left;
+   width: 79.5%;
+   padding: 20px 20px 20px 30px;
+}
+</code></pre>
+
+<p>When this renders in a modern browser (with padding added on) it adds
+up to more than <strong>20% + 79.5% + Padding &gt; 100%</strong> and so it overflows down.</p>
+
+<p>The quick hack (that then renders in all browsers correctly) would be
+to switch to something like width: <strong>70%</strong> on #ContentRight.</p>
+
+<p>There are several box model bugs on the page (look at the sidebar
+boxes) so to fix everything a <a href="http://www.456bereastreet.com/archive/200612/internet_explorer_and_the_css_box_model/">developer would probably want to
+reorganize the css</a> rather than just hack the number like I mention above.</p>
+
+<p>Without doing a complete portal design, a web developer could fix all the Portal Layout Bugs in a couple hours. I’d fix it myself, but I don’t have access to the templates for portal. And I’m sure e-MDs isn’t going to ask me. :-)</p>
+
+<p>(Keep Reading: <a href="http://unchart.com/2012/encourage-e-mds-to-fix-portal-usability/">Let’s Encourage e-MDs to Fix Usability for Patients on Portal</a>)</p>
+
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="//2013/happy-2nd-birthday-unchart/">
+            Happy 2nd Birthday, UnChart
+            <small>29 Jan 2013</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="//2013/meet-jordan-collier/">
+            Meet Jordan Collier
+            <small>29 Jan 2013</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="//2012/leadership-or-whining/">
+            Leadership or whining?
+            <small>21 Sep 2012</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+
+      <div class="footer">
+        <p>
+          &copy; 2014. All rights reserved.
+        </p>
+      </div>
+    </div>
+
+  </body>
+</html>

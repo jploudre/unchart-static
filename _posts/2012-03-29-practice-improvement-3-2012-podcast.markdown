@@ -23,7 +23,7 @@ tags:
 
 ![](/files/2012/03/practice-improvement-podcast.png)
 
-Thanks to everyone who participated. I [learned a lot](http://unchart.com/2012/lessons-from-hosting-my-first-webex/) about hosting a webex. The more I edited myself out of the podcast, the bettter it gets.
+Thanks to everyone who participated. I [learned a lot](/2012/lessons-from-hosting-my-first-webex/) about hosting a webex. The more I edited myself out of the podcast, the bettter it gets.
 
 Load in iTunes:
 

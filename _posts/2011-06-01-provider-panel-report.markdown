@@ -20,7 +20,7 @@ This is a basic report for provider panel size. It's based on patients that have
 
 This report pays attention to exempted patients (Using 'Exempt from Reports' in Demographics) if you use that in your clinic process for transferred or discharged patients.
 
-★ Don't miss: [Provider Panel Map](http://unchart.com/2011/provider-panel-map/)
+★ Don't miss: [Provider Panel Map](/2011/provider-panel-map/)
 
 ### Adjusting? Not worth it for me.
 

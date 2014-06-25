@@ -12,7 +12,7 @@ tags:
 - workaround
 ---
 
-I'm a lover of 'postprocessing' in excel. If I can just get the data, I can do my own analysis, thank you. (Again, I'm going to plug my '[Data Driven Practice](http://unchart.com/2011/data-driven-practice/).' Amazing what you can do with pivot tables and autofilter!) Sometimes e-MDs is set up to let you download/export data. Any crystal report, for instance, can be saved as a file to process in Excel. 
+I'm a lover of 'postprocessing' in excel. If I can just get the data, I can do my own analysis, thank you. (Again, I'm going to plug my '[Data Driven Practice](/2011/data-driven-practice/).' Amazing what you can do with pivot tables and autofilter!) Sometimes e-MDs is set up to let you download/export data. Any crystal report, for instance, can be saved as a file to process in Excel. 
 
 But data is not always exportable.
  

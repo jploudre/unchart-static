@@ -14,7 +14,7 @@ tags:
 - patient-centered
 ---
 
-After doing some practice innovations ([group visits are restarting](http://unchart.com/2012/group-visit-invitation/), I'm [undiagnosing patients from hypertension treatment with my ABPM](http://unchart.com/?s=abpm)) I may have some availability in my practice without affecting my [continuity](http://unchart.com/2011/continuity-report/).
+After doing some practice innovations ([group visits are restarting](/2012/group-visit-invitation/), I'm [undiagnosing patients from hypertension treatment with my ABPM](/?s=abpm)) I may have some availability in my practice without affecting my [continuity](/2011/continuity-report/).
 
 That means I can potentially increase my panel size a bit and still provide similar care.
 
@@ -57,7 +57,7 @@ Here's the first 2 days of opens:
 
 ## My Campaign Design
 
-I wanted this email to be personal (vs. corporate) so I included a picture of me with one of my daughters. I aimed the 'voice' as being from me, not my clinic. I also wrote the text for simplicity ([low reading level is a theme on unchart](http://unchart.com/?s=readability)....)  It looks partly like this:
+I wanted this email to be personal (vs. corporate) so I included a picture of me with one of my daughters. I aimed the 'voice' as being from me, not my clinic. I also wrote the text for simplicity ([low reading level is a theme on unchart](/?s=readability)....)  It looks partly like this:
 
 ![](/files/2012/04/Screen-Shot-2012-04-16-at-10.27.46-PM.png)
 

@@ -3,7 +3,7 @@ markdown:         kramdown
 highlights:         true
 
 # Permalinks
-permalink:        pretty
+permalink:        /:year/:title/
 
 # Setup
 title:            Unchart

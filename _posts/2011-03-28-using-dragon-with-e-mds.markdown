@@ -20,10 +20,10 @@ tags:
 
 Voice Recognition has been just around the corner for at least 5 years. My clinic has a number of docs who've been pretty sucessful over the years. We bought Dragon Professional years ago and spent some *serious cash* on some Medical Vocabularies. I've tried it repeatedly over the years but my dictation is pretty error-prone and frustrating. I get motivated for a while and then lose steam a week or two later. Anyone who's read any of this site will know: I use the keyboard (with macros and abbreviations galore.)
 
-But I've hit a [local maximum](http://unchart.com/2011/how-much-time-can-macros-save/) and more macros/abbreviations won't really save me time. If I try to re-design my workflow for speed, I need better ways of doing 2 things.
+But I've hit a [local maximum](/2011/how-much-time-can-macros-save/) and more macros/abbreviations won't really save me time. If I try to re-design my workflow for speed, I need better ways of doing 2 things.
 
-1. I need faster [narrative medicine](http://unchart.com/2011/snappy-charting/) so I can put more flavor into my notes. Plain templates makes for pretty bland notes. That's where Dragon being faster could really speed things up.
-2. I needs faster way to collect [structured data](http://unchart.com/2011/snappy-charting/). **The answer is autocomplete.** I'm intending to make an autocompleter that adds diagnoses, prescribes meds, and captures my plan. I think it'll bring the snappy feeling to much of my charting. Just like I currently have snappy for order tracking and taskman with my [e-MDs macros](http://unchart.com/2011/e-mds-macros/).
+1. I need faster [narrative medicine](/2011/snappy-charting/) so I can put more flavor into my notes. Plain templates makes for pretty bland notes. That's where Dragon being faster could really speed things up.
+2. I needs faster way to collect [structured data](/2011/snappy-charting/). **The answer is autocomplete.** I'm intending to make an autocompleter that adds diagnoses, prescribes meds, and captures my plan. I think it'll bring the snappy feeling to much of my charting. Just like I currently have snappy for order tracking and taskman with my [e-MDs macros](/2011/e-mds-macros/).
 
 As the years go by, Dragon gets better and better. With all the work, it seems like upgrading could improve things. The problem is that the Professional Version is locked out of EHRs. Nuance says:
 
@@ -39,7 +39,7 @@ My real question: **Is Premium even less efficient than Dragon Medical**? I'm su
 
 But Accuracy is a neverending quest. As a family doc, my dictation is much closer to regular english than it is to, say, an MRI report from a radiologist. if I was a radiologist, I wouldn't even hesitate to have Dragon Medical with all the optimal training and microphone and custom macros. But my use case is different.
 
-I think using [practice-based evidence](http://unchart.com/2011/practice-based-evidence/) is the key. I start with an empty vocabulary. Luckily I have about 3 years of dictations in electronic documents so I feed that into Dragon. Boom: I've got a custom dictionary of ~25K words that I've personally said with language adaptations for my style of wordiness. I don't have a report (yet) but I'll be adding words from my e-MDs visit notes, too. Those notess I won't have language adaptation since I almost never dictate the same as what our generated text would say. I'll add a list of words of every drug I've written in the past few years. I'll add a list of every diagnosis I've done. 
+I think using [practice-based evidence](/2011/practice-based-evidence/) is the key. I start with an empty vocabulary. Luckily I have about 3 years of dictations in electronic documents so I feed that into Dragon. Boom: I've got a custom dictionary of ~25K words that I've personally said with language adaptations for my style of wordiness. I don't have a report (yet) but I'll be adding words from my e-MDs visit notes, too. Those notess I won't have language adaptation since I almost never dictate the same as what our generated text would say. I'll add a list of words of every drug I've written in the past few years. I'll add a list of every diagnosis I've done. 
 
 That will make a dramatically more customized vocabulary than I'd get with Dragon Medical out of the box. And a relatively small vocabulary so performance will be better. 
 

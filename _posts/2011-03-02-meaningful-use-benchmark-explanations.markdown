@@ -24,7 +24,7 @@ tags:
      in EHR as Structured Data that the lab results must 
      be signed off to be counted in the denominator. 
 
-In a similar spirit to [my Meaningful Use Kickoff Presentation](http://unchart.com/2011/meaningful-use-map-and-kickoff/), Christine Hunter, PA, put together 2 summaries of the MU benchmarks.
+In a similar spirit to [my Meaningful Use Kickoff Presentation](/2011/meaningful-use-map-and-kickoff/), Christine Hunter, PA, put together 2 summaries of the MU benchmarks.
 
 These two word documents have screenshots (warning: big files!) and explain benchmarks with a practical summary of what it means for a practice. I can imagine printing these out and sitting around with partners to make sure they are clear. Consider it a 'cliff notes' to the videos on Supportcenter.
 

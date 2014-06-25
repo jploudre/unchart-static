@@ -18,7 +18,7 @@ One of the main troubles with Meaningful Use (MU) is that there are so many benc
 
 *Ahh, a dashboard*. People think data visualization is about making everything simplify down to just a few key speedometers. Sure, as we get close to compliance, it may be a single "Go, No Go" type metric of do we meet all the intended benchmarks.
 
-But as I mentioned in my [Data Driven Practice](http://unchart.com/2011/data-driven-practice/) at the User Conference, visualization is about making data usable to people. Not just the geeks. Making this visual is really important. Most [decent visualizations](http://mygengo.com/talk/blog/why-your-startup-needs-a-visual-dashboard/) will engender much more attention than any table of numbers. Couldn't it just be a single page of paper?
+But as I mentioned in my [Data Driven Practice](/2011/data-driven-practice/) at the User Conference, visualization is about making data usable to people. Not just the geeks. Making this visual is really important. Most [decent visualizations](http://mygengo.com/talk/blog/why-your-startup-needs-a-visual-dashboard/) will engender much more attention than any table of numbers. Couldn't it just be a single page of paper?
 
 Different organizations will have different ways of organizing. This could be a starting point about how to organize subsets of benchmarks. I'm using my short titles for benchmarks based on my Meaningful Use Map:
 

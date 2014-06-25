@@ -21,7 +21,7 @@ The Medicare e-Rx code drove my practice crazy last year. We e-prescribe all the
 
 Please, Medicare, stop the madness!
 
-Sara Evans rightly recognized this as a reporting problem. My clinic did not. So near the end of the year, we had to post orange signs to remind all the docs at our clinic to remember to do the extra click on Medicare patients if we did an electronic prescription. This [deskills](http://unchart.com/2011/deskilling/) us and distracts us from doctoring. In our case where we can prove we e-prescribe, there's literally no benefit to offset deskilling.
+Sara Evans rightly recognized this as a reporting problem. My clinic did not. So near the end of the year, we had to post orange signs to remind all the docs at our clinic to remember to do the extra click on Medicare patients if we did an electronic prescription. This [deskills](/2011/deskilling/) us and distracts us from doctoring. In our case where we can prove we e-prescribe, there's literally no benefit to offset deskilling.
 
 Sara's report allows the code to be added by the biller when posting to medicare. Fewer people doing the code makes it less error prone than what my clinic did last year. I took her report (a more complete listing of all prescriptions, method of sending, etc) and simplified it. I think my changes work (it results the same as when I hard-coded our doctors into Sara's report.) **But you need to validate that this report is accurate for your practice.** 
 

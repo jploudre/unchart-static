@@ -15,7 +15,7 @@ tags:
 - simplicity
 ---
 
-One of the setup tasks for portal is to create some standard messages -- disclaimers, warnings, and the like.  I had forgotten that it  was one of the things I 'ran through my readability program' I've been re-writing clinic paperwork for a while. My all time fav: [the HIPAA form](http://unchart.com/2011/hipaa-form/) -- unrecognizable compared to the previous version. I also have a [Patient Portal Signup Form](http://unchart.com/2011/patient-portal-form/). Until a couple months ago my office manager thought that I had an app that did simplification. Nope, I just edit/re-edit/reword until it's shorter, simpler and clearer.
+One of the setup tasks for portal is to create some standard messages -- disclaimers, warnings, and the like.  I had forgotten that it  was one of the things I 'ran through my readability program' I've been re-writing clinic paperwork for a while. My all time fav: [the HIPAA form](/2011/hipaa-form/) -- unrecognizable compared to the previous version. I also have a [Patient Portal Signup Form](/2011/patient-portal-form/). Until a couple months ago my office manager thought that I had an app that did simplification. Nope, I just edit/re-edit/reword until it's shorter, simpler and clearer.
 
 Here's what we came up for portal auto-messages:
 

@@ -24,7 +24,7 @@ Last year in March, the FDA fired a warning shot about the increased risks with 
 
 [FDA Warning, March 2010](http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm205215.htm)
 
-So last year at the e-MDs user conference I used that as an example of [how to do a quick and dirty report from crystal](http://unchart.com/2011/data-driven-practice/) see the video of how  to do that report in 2 minutes.
+So last year at the e-MDs user conference I used that as an example of [how to do a quick and dirty report from crystal](/2011/data-driven-practice/) see the video of how  to do that report in 2 minutes.
 
 [Yesterday, the FDA strengthened the recommendation](http://www.fda.gov/Drugs/DrugSafety/ucm256581.htm):
 

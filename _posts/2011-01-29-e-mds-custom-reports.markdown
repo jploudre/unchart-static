@@ -29,5 +29,5 @@ By using your practice data to inform your decision-making, you make better deci
 
 Doing reporting yourself is possible (Example #1: Me) but requires geeky dedication and insight. This is complex stuff. But a small amount of complicated reporting work makes the rest of practice easier. I think it's like picking a practice out of residency -- if you make that decision right, you can mess up a lot of other things and still be happy. 
 
-[Let me know if you need help with custom reports.](http://unchart.com/custom-report/)
+[Let me know if you need help with custom reports.](/custom-report/)
 

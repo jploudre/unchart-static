@@ -23,7 +23,7 @@ Nuance has found a way to finally cut the cord on dictation. In the past, dictat
 
 The iPhone has long been known to have some pretty sweet hardware including it's microphone. Grumo Media (maker of awesome demo videos for startups) has an article about [how to use your iPhone to do great voiceovers](http://http://grumomedia.com/how-to-record-great-voiceover-audio-with-an-iphone/). It's already in my pocket, couldn't I just use this to dictate?
 
-Dragon Remote Microphone does that. This requires 11.5 (for use with e-MDs that could be Professional which I use. Or Premium ought to work fine, too. [No need to wait/spend for Medical. ](http://unchart.com/2011/using-dragon-with-e-mds/))
+Dragon Remote Microphone does that. This requires 11.5 (for use with e-MDs that could be Professional which I use. Or Premium ought to work fine, too. [No need to wait/spend for Medical. ](/2011/using-dragon-with-e-mds/))
 
 So now my workflow is this: 
 

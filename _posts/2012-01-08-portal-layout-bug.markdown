@@ -64,4 +64,4 @@ reorganize the css](http://www.456bereastreet.com/archive/200612/internet_explor
 
 Without doing a complete portal design, a web developer could fix all the Portal Layout Bugs in a couple hours. I'd fix it myself, but I don't have access to the templates for portal. And I'm sure e-MDs isn't going to ask me. :-)
 
-(Keep Reading: [Let's Encourage e-MDs to Fix Usability for Patients on Portal](http://unchart.com/2012/encourage-e-mds-to-fix-portal-usability/))
+(Keep Reading: [Let's Encourage e-MDs to Fix Usability for Patients on Portal](/2012/encourage-e-mds-to-fix-portal-usability/))

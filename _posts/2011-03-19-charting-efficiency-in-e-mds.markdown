@@ -13,7 +13,7 @@ tags:
 - efficiency
 ---
 
-In my post about [snappy charting](http://unchart.com/2011/snappy-charting/) I talked about some of the theories about making charting fast.
+In my post about [snappy charting](/2011/snappy-charting/) I talked about some of the theories about making charting fast.
 Ranging from big to small, here's the toolset e-MDs provides for efficient charting.
 
 |This:|Does This:|
@@ -26,7 +26,7 @@ Ranging from big to small, here's the toolset e-MDs provides for efficient chart
 
 As you look here, there's a theme of abbreviation. Combine some chunk of clicks/text in a template or note and make it doable in a few clicks. Definitely saves time over doing a whole note from scratch.
 
-These should definitely be considered targets for [Practice-based Evidence](http://unchart.com/2011/practice-based-evidence/) -- use the data from your own practice to optimize your practice.
+These should definitely be considered targets for [Practice-based Evidence](/2011/practice-based-evidence/) -- use the data from your own practice to optimize your practice.
 
 * **Shortcut:** Report out ICDs by frequency to make sure you have appropriate common shortcuts.
 * **Preclicks:** [I have a crystal report of preclicks by user and template](preclicks-by-template-or-by-provider). Allows you to see popular templates for preclick to make sure you're taking advantage of options that your partners are using

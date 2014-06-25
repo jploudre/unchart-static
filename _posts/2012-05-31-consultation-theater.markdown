@@ -21,7 +21,7 @@ Our group is starting to think about re-investing Meaningful Use money. We're tr
 
 So I'm looking for things that make our care cheaper or better (or both) and are not foolish. 
 
-**First Plan:** [WelchAllyn Spot Vitals LXi](http://unchart.com/2012/welchallyn-spotvitals-lxi/) helps making rooming faster (that's cheaper via less time) and has the potential to reduce variability of readings (that's better) and our clinic has about 4000 visits a month (so it'll be really used. Practical!) There have been some questions about reliability of readings at Mid-State Health but I've got to try one.
+**First Plan:** [WelchAllyn Spot Vitals LXi](/2012/welchallyn-spotvitals-lxi/) helps making rooming faster (that's cheaper via less time) and has the potential to reduce variability of readings (that's better) and our clinic has about 4000 visits a month (so it'll be really used. Practical!) There have been some questions about reliability of readings at Mid-State Health but I've got to try one.
 
 **Second Plan:** Bigger Monitors for our Receptionists ([23 inch Dell Monitors for $180](http://accessories.us.dell.com/sna/productdetail.aspx?c=us&l;=en&s;=bsd&cs;=04&sku;=320-2943&~ck=baynoteSearch&baynote;_bnrank=3&baynote;_irrank=0)). By seeing more allows receptionists to work slightly faster. (Cheaper Checkins). Screens are more energy
 efficience (cheaper). Larger screen will allow showing multiple schedules. More monitor space will be nice for morale, too. Not Foolish: These will be used continuously.

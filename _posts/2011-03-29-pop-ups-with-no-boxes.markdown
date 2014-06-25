@@ -18,7 +18,7 @@ tags:
 
 Our staff chronically write pop up alerts and forget to check any of the boxes.  This looks for those instances so we can manually correct.  It's a quick fix, so I run it about one a week.
 
-(My [macro for looping through charts](http://unchart.com/2011/macro-to-add-flowsheets-in-e-mds/) could be useful with this. Add the account number and then loop through the alerts. -- *JP*)
+(My [macro for looping through charts](/2011/macro-to-add-flowsheets-in-e-mds/) could be useful with this. Add the account number and then loop through the alerts. -- *JP*)
 
 [![](/files/2011/01/57-download.png) Pop Up with No Boxes Report](/files/2011/03/Pop-Up-with-No-Boxes-Report.zip)
 

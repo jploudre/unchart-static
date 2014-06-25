@@ -4,7 +4,7 @@
  <title>Unchart</title>
  <link href="http://unchart.com/atom.xml" rel="self"/>
  <link href="http://unchart.com/"/>
- <updated>2014-06-24T22:33:30-07:00</updated>
+ <updated>2014-06-24T23:06:32-07:00</updated>
  <id>http://unchart.com</id>
  <author>
    <name>Jonathan Ploudre</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Happy 2nd Birthday, UnChart</title>
-   <link href="http://unchart.com//about%20unchart/2013/01/29/happy-2nd-birthday-unchart/"/>
+   <link href="http://unchart.com//2013/happy-2nd-birthday-unchart/"/>
    <updated>2013-01-29T19:14:30-08:00</updated>
-   <id>http://unchart.com/about%20unchart/2013/01/29/happy-2nd-birthday-unchart</id>
+   <id>http://unchart.com/2013/happy-2nd-birthday-unchart</id>
    <content type="html">&lt;p&gt;It’s been about 2 years since I started UnChart. I thought I’d do a run through of the numbers. I love analytics. There’s been about 9500 visits, averaging just under 4 minutes on the site. About 5000 unique visitors. Here’s my traffic over the 2 years. That spike in the middle was the Meaningful Use Stage 2 Summary for Providers that John Crankshaw and I did. &lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/files/2013/01/Screen-Shot-2013-01-29-at-6.36.59-PM-300x69.png&quot; alt=&quot;&quot; /&gt; &lt;/p&gt;
@@ -50,9 +50,9 @@
  
  <entry>
    <title>Meet Jordan Collier</title>
-   <link href="http://unchart.com//about%20unchart/2013/01/29/meet-jordan-collier/"/>
+   <link href="http://unchart.com//2013/meet-jordan-collier/"/>
    <updated>2013-01-29T07:00:32-08:00</updated>
-   <id>http://unchart.com/about%20unchart/2013/01/29/meet-jordan-collier</id>
+   <id>http://unchart.com/2013/meet-jordan-collier</id>
    <content type="html">&lt;p&gt;[caption id=”attachment_1375” align=”alignnone” width=”300’]&lt;a href=&quot;/files/2013/01/IMG_0754.jpg&quot;&gt;&lt;img src=&quot;/files/2013/01/IMG_0754-300x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;[/caption]  &lt;/p&gt;
 
 &lt;p&gt;Hey everyone!&lt;/p&gt;
@@ -70,9 +70,9 @@
  
  <entry>
    <title>Leadership or whining?</title>
-   <link href="http://unchart.com//theory/2012/09/21/leadership-or-whining/"/>
+   <link href="http://unchart.com//2012/leadership-or-whining/"/>
    <updated>2012-09-21T11:25:54-07:00</updated>
-   <id>http://unchart.com/theory/2012/09/21/leadership-or-whining</id>
+   <id>http://unchart.com/2012/leadership-or-whining</id>
    <content type="html">&lt;p&gt;First, some background. A few days ago, the AAFP released a &lt;a href=&quot;http://www.aafp.org/online/en/home/membership/initiatives/nps/patientcare/changing.html&quot;&gt;statement against expanding roles for Nurse Practitioners&lt;/a&gt;. The tagline: &lt;em&gt;Ensuring a quality, physician-led team for every patient.&lt;/em&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/files/2012/09/PCMH-AAFPInfographic.pdf&quot;&gt;&lt;img src=&quot;/files/2011/01/17-bar-chart.png&quot; alt=&quot;&quot; /&gt; One Page AAFP Infographic&lt;/a&gt;&lt;/p&gt;
@@ -104,9 +104,9 @@
  
  <entry>
    <title>Home Sleep Monitor</title>
-   <link href="http://unchart.com//clinical/2012/09/07/home-sleep-monitor/"/>
+   <link href="http://unchart.com//2012/home-sleep-monitor/"/>
    <updated>2012-09-07T16:17:56-07:00</updated>
-   <id>http://unchart.com/clinical/2012/09/07/home-sleep-monitor</id>
+   <id>http://unchart.com/2012/home-sleep-monitor</id>
    <content type="html">&lt;p&gt;I’ve just started this a couple months ago. – &lt;em&gt;Jonathan&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;When thinking home sleep monitors, I wanted to reveiew practice changes I’ve made in the past couple years.&lt;/p&gt;
@@ -180,9 +180,9 @@
  
  <entry>
    <title>Continuous Glucose Monitors</title>
-   <link href="http://unchart.com//clinical/2012/09/07/continuous-glucose-monitors/"/>
+   <link href="http://unchart.com//2012/continuous-glucose-monitors/"/>
    <updated>2012-09-07T14:52:29-07:00</updated>
-   <id>http://unchart.com/clinical/2012/09/07/continuous-glucose-monitors</id>
+   <id>http://unchart.com/2012/continuous-glucose-monitors</id>
    <content type="html">&lt;p&gt;I started doing CGM about 1.5 years ago but never posted. – &lt;em&gt;Jonathan&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;cgm-overview&quot;&gt;CGM Overview&lt;/h2&gt;
@@ -215,9 +215,9 @@
  
  <entry>
    <title>ROI for WelchAllyn SpotVitals LXi</title>
-   <link href="http://unchart.com//hardware/2012/09/07/roi-for-welchallyn-spotvitals-lxi/"/>
+   <link href="http://unchart.com//2012/roi-for-welchallyn-spotvitals-lxi/"/>
    <updated>2012-09-07T13:29:44-07:00</updated>
-   <id>http://unchart.com/hardware/2012/09/07/roi-for-welchallyn-spotvitals-lxi</id>
+   <id>http://unchart.com/2012/roi-for-welchallyn-spotvitals-lxi</id>
    <content type="html">&lt;p&gt;A few years ago, I put together this analysis. I don’t know that it’s still accurate. I believe the WelchAllyn SpotVitals is over-priced but it still has a reasonable ROI given that it really can speed up vitals. – &lt;em&gt;Jonathan&lt;/em&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -258,9 +258,9 @@
  
  <entry>
    <title>Fitting the WelchAllyn Spot Vitals into e-MDs</title>
-   <link href="http://unchart.com//hardware/software/2012/09/07/fitting-the-welchallyn-spot-vitals-into-e-mds/"/>
+   <link href="http://unchart.com//2012/fitting-the-welchallyn-spot-vitals-into-e-mds/"/>
    <updated>2012-09-07T10:14:38-07:00</updated>
-   <id>http://unchart.com/hardware/software/2012/09/07/fitting-the-welchallyn-spot-vitals-into-e-mds</id>
+   <id>http://unchart.com/2012/fitting-the-welchallyn-spot-vitals-into-e-mds</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/08/450x0-E1-2-150x150.jpg&quot; alt=&quot;&quot; /&gt; After I attested for 2011 Meaningful Use, my group decided to have the doc decide on some of the ‘re-investments’ in our practice. The second thing I got was the WelchAllyn SpotVitals Lxi. (Bigger monitors for reception was first.) I had been interested in this for at least a couple years. A while back, I posted a &lt;a href=&quot;http://unchart.com/2012/welchallyn-spotvitals-lxi/&quot;&gt;video on using the SpotVitals&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Automated vitals addresses a few different issues for my practice:&lt;/p&gt;
@@ -294,9 +294,9 @@
  
  <entry>
    <title>Recommended: SpeechWare 3 in 1 Microphone</title>
-   <link href="http://unchart.com//hardware/2012/08/27/recommended-speechware-3-in-1-microphone/"/>
+   <link href="http://unchart.com//2012/recommended-speechware-3-in-1-microphone/"/>
    <updated>2012-08-27T22:43:17-07:00</updated>
-   <id>http://unchart.com/hardware/2012/08/27/recommended-speechware-3-in-1-microphone</id>
+   <id>http://unchart.com/2012/recommended-speechware-3-in-1-microphone</id>
    <content type="html">&lt;p&gt;Thanks to Chris O’Grady for pointing this out to me.&lt;/p&gt;
 
 &lt;p&gt;Over the years I’ve struggled with Dragon. I think I’ve failed half a dozen times. With honest attempts – where I tried something different to make it work. A newer version. A better microphone. More training. More customized vocabulary. A newer version. A better microphone. etc.&lt;/p&gt;
@@ -328,9 +328,9 @@
  
  <entry>
    <title>Consultation Office Update</title>
-   <link href="http://unchart.com//business/2012/07/02/consultation-office-update/"/>
+   <link href="http://unchart.com//2012/consultation-office-update/"/>
    <updated>2012-07-02T06:28:19-07:00</updated>
-   <id>http://unchart.com/business/2012/07/02/consultation-office-update</id>
+   <id>http://unchart.com/2012/consultation-office-update</id>
    <content type="html">&lt;p&gt;I am still in the process of turning my office into another exam room. Now that I use an electronic health record, I don’t really actually need a physical office during most of the day. I don’t tend to dictate during the middle of the day so giving up my office is not a big hassle.&lt;/p&gt;
 
 &lt;p&gt;The biggest problem with side projects like this, is finding time to do them. Yesterday afternoon I had a few hours while I was on call and so I got a table and have put it together.&lt;/p&gt;
@@ -341,9 +341,9 @@
  
  <entry>
    <title>Ideal Panel Size Report</title>
-   <link href="http://unchart.com//software/2012/06/08/ideal-panel-size-report/"/>
+   <link href="http://unchart.com//2012/ideal-panel-size-report/"/>
    <updated>2012-06-08T10:59:57-07:00</updated>
-   <id>http://unchart.com/software/2012/06/08/ideal-panel-size-report</id>
+   <id>http://unchart.com/2012/ideal-panel-size-report</id>
    <content type="html">&lt;p&gt;A few years ago the AAFP had an article, &lt;a href=&quot;http://www.aafp.org/fpm/2007/0400/p44.html&quot;&gt;How Many Patients Can One Doctor Manage?&lt;/a&gt;. This report can be used for dicussions about relative panels in a practice. Which doctors have availability that matches up with their assigned panels? Who is over-paneled? Who is under-paneled?&lt;/p&gt;
 
 &lt;p&gt;This crystal report for e-MDs has 4 different tables that you can use to determine the answers to those questions.&lt;/p&gt;
@@ -381,9 +381,9 @@
  
  <entry>
    <title>Consultation Theater</title>
-   <link href="http://unchart.com//theory/2012/05/30/consultation-theater/"/>
+   <link href="http://unchart.com//2012/consultation-theater/"/>
    <updated>2012-05-30T22:54:49-07:00</updated>
-   <id>http://unchart.com/theory/2012/05/30/consultation-theater</id>
+   <id>http://unchart.com/2012/consultation-theater</id>
    <content type="html">&lt;p&gt;A while back a college friend turned me on to &lt;a href=&quot;http://www.strengthsfinder.com/home.aspx&quot;&gt;Strengthsfinder&lt;/a&gt;. My strengths are Strategic, Ideation, Input, Learner and Self-Assurance. I can identify with other strengths but these fit, too. Ideation is Strengthsfinder terminology for a person who loves coming up with and thinking about ideas.&lt;/p&gt;
 
 &lt;p&gt;That’s definitely me. &lt;/p&gt;
@@ -413,9 +413,9 @@ efficience (cheaper). Larger screen will allow showing multiple schedules. More 
  
  <entry>
    <title>Appointment Status by Month</title>
-   <link href="http://unchart.com//software/2012/05/25/appointment-status-by-month/"/>
+   <link href="http://unchart.com//2012/appointment-status-by-month/"/>
    <updated>2012-05-25T09:42:27-07:00</updated>
-   <id>http://unchart.com/software/2012/05/25/appointment-status-by-month</id>
+   <id>http://unchart.com/2012/appointment-status-by-month</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/05/billsweeney.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Bill Sweeney of Mid State Health wrote this report.&lt;/p&gt;
@@ -428,9 +428,9 @@ efficience (cheaper). Larger screen will allow showing multiple schedules. More 
  
  <entry>
    <title>Portal Patients (email and expiration dates)</title>
-   <link href="http://unchart.com//software/2012/05/25/portal-patients-email-and-expiration-dates/"/>
+   <link href="http://unchart.com//2012/portal-patients-email-and-expiration-dates/"/>
    <updated>2012-05-25T08:57:19-07:00</updated>
-   <id>http://unchart.com/software/2012/05/25/portal-patients-email-and-expiration-dates</id>
+   <id>http://unchart.com/2012/portal-patients-email-and-expiration-dates</id>
    <content type="html">&lt;p&gt;Here’s another report by Bill Sweeney from Mid-State Health.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/files/2012/05/311131.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -445,9 +445,9 @@ efficience (cheaper). Larger screen will allow showing multiple schedules. More 
  
  <entry>
    <title>Reduce Access Violations with Time Synchronization</title>
-   <link href="http://unchart.com//software/2012/05/15/reduce-access-violations-with-time-synchronization/"/>
+   <link href="http://unchart.com//2012/reduce-access-violations-with-time-synchronization/"/>
    <updated>2012-05-15T08:22:08-07:00</updated>
-   <id>http://unchart.com/software/2012/05/15/reduce-access-violations-with-time-synchronization</id>
+   <id>http://unchart.com/2012/reduce-access-violations-with-time-synchronization</id>
    <content type="html">&lt;p&gt;Thanks to Jeff Grabenstein, MD, of Family Doctors of Oak Ridge. He’s been exploring this lately and wrote this summary.&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -478,9 +478,9 @@ efficience (cheaper). Larger screen will allow showing multiple schedules. More 
  
  <entry>
    <title>Visit Summary 7.2.1</title>
-   <link href="http://unchart.com//software/2012/05/14/visit-summary-7-2-1/"/>
+   <link href="http://unchart.com//2012/visit-summary-7-2-1/"/>
    <updated>2012-05-14T21:40:25-07:00</updated>
-   <id>http://unchart.com/software/2012/05/14/visit-summary-7-2-1</id>
+   <id>http://unchart.com/2012/visit-summary-7-2-1</id>
    <content type="html">&lt;p&gt;It’s been just over a year since I was appalled at the default Visit Summary.&lt;/p&gt;
 
 &lt;p&gt;The original visit summary disengages a patient in her care. It sets up barriers like 3/4 of a page of junk before the actual content begins.&lt;/p&gt;
@@ -526,9 +526,9 @@ efficience (cheaper). Larger screen will allow showing multiple schedules. More 
  
  <entry>
    <title>Using e-mail to increase panel size</title>
-   <link href="http://unchart.com//business/2012/04/16/using-e-mail-to-increase-panel-size/"/>
+   <link href="http://unchart.com//2012/using-e-mail-to-increase-panel-size/"/>
    <updated>2012-04-16T22:43:21-07:00</updated>
-   <id>http://unchart.com/business/2012/04/16/using-e-mail-to-increase-panel-size</id>
+   <id>http://unchart.com/2012/using-e-mail-to-increase-panel-size</id>
    <content type="html">&lt;p&gt;After doing some practice innovations (&lt;a href=&quot;http://unchart.com/2012/group-visit-invitation/&quot;&gt;group visits are restarting&lt;/a&gt;, I’m &lt;a href=&quot;http://unchart.com/?s=abpm&quot;&gt;undiagnosing patients from hypertension treatment with my ABPM&lt;/a&gt;) I may have some availability in my practice without affecting my &lt;a href=&quot;http://unchart.com/2011/continuity-report/&quot;&gt;continuity&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;That means I can potentially increase my panel size a bit and still provide similar care.&lt;/p&gt;
@@ -609,9 +609,9 @@ that….)&lt;/p&gt;
  
  <entry>
    <title>Laboratory Template with Flowsheets</title>
-   <link href="http://unchart.com//clinical/2012/04/12/laboratory-template-with-flowsheets/"/>
+   <link href="http://unchart.com//2012/laboratory-template-with-flowsheets/"/>
    <updated>2012-04-12T11:43:54-07:00</updated>
-   <id>http://unchart.com/clinical/2012/04/12/laboratory-template-with-flowsheets</id>
+   <id>http://unchart.com/2012/laboratory-template-with-flowsheets</id>
    <content type="html">&lt;p&gt;This is Chris Hunter’s Laboratory Template that includes links to appropriate flowsheets.&lt;/p&gt;
 
 &lt;p&gt;Flowsheet links are ‘brittle’ so the exact wording matters. For my clinic the flowsheet links don’t work but it would be a starting point for making our own.&lt;/p&gt;
@@ -622,9 +622,9 @@ that….)&lt;/p&gt;
  
  <entry>
    <title>Psychological Testing Procedure template</title>
-   <link href="http://unchart.com//business/clinical/2012/04/09/psychological-testing-procedure-template/"/>
+   <link href="http://unchart.com//2012/psychological-testing-procedure-template/"/>
    <updated>2012-04-09T09:15:33-07:00</updated>
-   <id>http://unchart.com/business/clinical/2012/04/09/psychological-testing-procedure-template</id>
+   <id>http://unchart.com/2012/psychological-testing-procedure-template</id>
    <content type="html">&lt;p&gt;This template was created by Christine Hunter, PA-x. (x stands for extraordinary)&lt;/p&gt;
 
 &lt;p&gt;This includes some billing codes (so you can get credit for reviewing and interpreting Vanderbilts, for example.)&lt;/p&gt;
@@ -635,9 +635,9 @@ that….)&lt;/p&gt;
  
  <entry>
    <title>Practice Improvement 3.2012 Podcast</title>
-   <link href="http://unchart.com//clinical/theory/2012/03/28/practice-improvement-3-2012-podcast/"/>
+   <link href="http://unchart.com//2012/practice-improvement-3-2012-podcast/"/>
    <updated>2012-03-28T19:30:42-07:00</updated>
-   <id>http://unchart.com/clinical/theory/2012/03/28/practice-improvement-3-2012-podcast</id>
+   <id>http://unchart.com/2012/practice-improvement-3-2012-podcast</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2012/03/practice-improvement-podcast.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to everyone who participated. I &lt;a href=&quot;http://unchart.com/2012/lessons-from-hosting-my-first-webex/&quot;&gt;learned a lot&lt;/a&gt; about hosting a webex. The more I edited myself out of the podcast, the bettter it gets.&lt;/p&gt;
@@ -653,9 +653,9 @@ that….)&lt;/p&gt;
  
  <entry>
    <title>Lessons from hosting my first Webex</title>
-   <link href="http://unchart.com//business/2012/03/25/lessons-from-hosting-my-first-webex/"/>
+   <link href="http://unchart.com//2012/lessons-from-hosting-my-first-webex/"/>
    <updated>2012-03-25T18:38:31-07:00</updated>
-   <id>http://unchart.com/business/2012/03/25/lessons-from-hosting-my-first-webex</id>
+   <id>http://unchart.com/2012/lessons-from-hosting-my-first-webex</id>
    <content type="html">&lt;h4 id=&quot;before-my-first-webex-james-foster-of-e-mds-advised-me-paraphrased&quot;&gt;Before my first webex, James Foster of e-MDs advised me (paraphrased):&lt;/h4&gt;
 
 &lt;ul&gt;
@@ -696,9 +696,9 @@ a speakerphone) will probably be more reliable than doing VOIP.&lt;/li&gt;
  
  <entry>
    <title>Group Visit Invitation</title>
-   <link href="http://unchart.com//clinical/2012/03/18/group-visit-invitation/"/>
+   <link href="http://unchart.com//2012/group-visit-invitation/"/>
    <updated>2012-03-18T10:23:25-07:00</updated>
-   <id>http://unchart.com/clinical/2012/03/18/group-visit-invitation</id>
+   <id>http://unchart.com/2012/group-visit-invitation</id>
    <content type="html">&lt;p&gt;I’m going to be doing a diabetic group visit – a dinner club.  &lt;/p&gt;
 
 &lt;p&gt;Why would I offer to give free food as part of a doctor visit?&lt;/p&gt;
@@ -739,9 +739,9 @@ DM Group Visit Invite&lt;/a&gt;&lt;/p&gt;
  
  <entry>
    <title>Medicare e-Rx Report</title>
-   <link href="http://unchart.com//business/software/2012/03/10/medicare-e-rx-report/"/>
+   <link href="http://unchart.com//2012/medicare-e-rx-report/"/>
    <updated>2012-03-10T09:56:53-08:00</updated>
-   <id>http://unchart.com/business/software/2012/03/10/medicare-e-rx-report</id>
+   <id>http://unchart.com/2012/medicare-e-rx-report</id>
    <content type="html">&lt;p&gt;The Medicare e-Rx code drove my practice crazy last year. We e-prescribe all the time and many of us successfully attested for Meaningful Use. But the e-prescribing rule doesn’t allow for tracking that way. Instead it requires &lt;em&gt;a bonus g-code&lt;/em&gt; be submitted.&lt;/p&gt;
 
 &lt;p&gt;Please, Medicare, stop the madness!&lt;/p&gt;
@@ -767,9 +767,9 @@ DM Group Visit Invite&lt;/a&gt;&lt;/p&gt;
  
  <entry>
    <title>Checked in by Date Range Report</title>
-   <link href="http://unchart.com//software/2012/03/10/checked-in-by-date-range-report/"/>
+   <link href="http://unchart.com//2012/checked-in-by-date-range-report/"/>
    <updated>2012-03-10T09:16:25-08:00</updated>
-   <id>http://unchart.com/software/2012/03/10/checked-in-by-date-range-report</id>
+   <id>http://unchart.com/2012/checked-in-by-date-range-report</id>
    <content type="html">&lt;p&gt;Here’s a report by Bill Sweeney from Mid-State Health.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/files/2012/05/311131.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -786,9 +786,9 @@ DM Group Visit Invite&lt;/a&gt;&lt;/p&gt;
  
  <entry>
    <title>Stage 2 Proposed Guidelines </title>
-   <link href="http://unchart.com//business/2012/03/03/stage-2-proposed-guidelines/"/>
+   <link href="http://unchart.com//2012/stage-2-proposed-guidelines/"/>
    <updated>2012-03-03T08:16:42-08:00</updated>
-   <id>http://unchart.com/business/2012/03/03/stage-2-proposed-guidelines</id>
+   <id>http://unchart.com/2012/stage-2-proposed-guidelines</id>
    <content type="html">&lt;h2 id=&quot;print-this-for-yourself-and-your-partners&quot;&gt;Print this for yourself and your partners&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;/files/2012/03/Proposed-Stage-2.pdf&quot;&gt;&lt;img src=&quot;/files/2012/03/Screen-Shot-2012-03-03-at-8.52.10-AM.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -803,9 +803,9 @@ Download Handout: Proposed MU Stage 2 Benchmarks&lt;/a&gt;&lt;/p&gt;
  
  <entry>
    <title>WelchAllyn SpotVitals LXi</title>
-   <link href="http://unchart.com//hardware/2012/03/01/welchallyn-spotvitals-lxi/"/>
+   <link href="http://unchart.com//2012/welchallyn-spotvitals-lxi/"/>
    <updated>2012-03-01T10:59:17-08:00</updated>
-   <id>http://unchart.com/hardware/2012/03/01/welchallyn-spotvitals-lxi</id>
+   <id>http://unchart.com/2012/welchallyn-spotvitals-lxi</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/08/450x0-E1-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I’ve wanted this for several years – I think it’ll improve flow, reduce disparities in vitals and reduce transcription errors on vitals. If we implement this right, we can even use it to improve the human-ness of our rooming.&lt;/p&gt;
@@ -817,9 +817,9 @@ Download Handout: Proposed MU Stage 2 Benchmarks&lt;/a&gt;&lt;/p&gt;
  
  <entry>
    <title>2 Column Visit Note Word Form</title>
-   <link href="http://unchart.com//software/2012/02/29/2-column-visit-note-word-form/"/>
+   <link href="http://unchart.com//2012/2-column-visit-note-word-form/"/>
    <updated>2012-02-29T12:29:31-08:00</updated>
-   <id>http://unchart.com/software/2012/02/29/2-column-visit-note-word-form</id>
+   <id>http://unchart.com/2012/2-column-visit-note-word-form</id>
    <content type="html">&lt;p&gt;Mercy Moore has made a Word Form to create a 2 column visit note for printing for PCPs (to make it look shorter/more manageable.) [Discussion on SupportCenter][https://supportcenter.e-mds.com/ics/forum/Client/Common/ContentView.aspx?contentID=110220].&lt;/p&gt;
 
 &lt;p&gt;Mercy says:&lt;/p&gt;
@@ -844,9 +844,9 @@ Download Handout: Proposed MU Stage 2 Benchmarks&lt;/a&gt;&lt;/p&gt;
  
  <entry>
    <title>Letters to PCPs</title>
-   <link href="http://unchart.com//software/2012/02/28/letters-to-pcps/"/>
+   <link href="http://unchart.com//2012/letters-to-pcps/"/>
    <updated>2012-02-28T17:14:51-08:00</updated>
-   <id>http://unchart.com/software/2012/02/28/letters-to-pcps</id>
+   <id>http://unchart.com/2012/letters-to-pcps</id>
    <content type="html">&lt;p&gt;This report is a doozy. It solves a quality issue: keeping the PCP in the loop. As a family doctor, I can tell you which practices have a foolproof system for sending me letters and which ones I have to nag and waste time repeatedly requesting records when I referred them. &lt;/p&gt;
 
 &lt;p&gt;If you’re a consultant and don’t have a system for insuring that records are repeatedly sent, &lt;strong&gt;get started&lt;/strong&gt;. &lt;/p&gt;
@@ -870,9 +870,9 @@ Download Handout: Proposed MU Stage 2 Benchmarks&lt;/a&gt;&lt;/p&gt;
  
  <entry>
    <title>Practice Improvement Webinar 2012</title>
-   <link href="http://unchart.com//theory/2012/02/13/practice-improvement-webinar-2012/"/>
+   <link href="http://unchart.com//2012/practice-improvement-webinar-2012/"/>
    <updated>2012-02-13T21:51:50-08:00</updated>
-   <id>http://unchart.com/theory/2012/02/13/practice-improvement-webinar-2012</id>
+   <id>http://unchart.com/2012/practice-improvement-webinar-2012</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2012/02/unchart-practice-improvement-webinar.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;“The future is already here – it’s just not very evenly distributed.”&lt;br /&gt;
@@ -920,9 +920,9 @@ Download Handout: Proposed MU Stage 2 Benchmarks&lt;/a&gt;&lt;/p&gt;
  
  <entry>
    <title>Health Information Exchanges</title>
-   <link href="http://unchart.com//theory/2012/02/07/health-information-exchanges/"/>
+   <link href="http://unchart.com//2012/health-information-exchanges/"/>
    <updated>2012-02-07T17:01:04-08:00</updated>
-   <id>http://unchart.com/theory/2012/02/07/health-information-exchanges</id>
+   <id>http://unchart.com/2012/health-information-exchanges</id>
    <content type="html">&lt;p&gt;I’ll be helping min-ns.org to set up our local HIE. As part of that, I’ve been focusing on the message for doctors about Health Information Exchanges (and Meaningful Use and EHRs). I’m especially proud of my video about what a HIE is – I humbly submit this is the best video on the Internet about that topic. :-)&lt;/p&gt;
 
 &lt;h2 id=&quot;why-connect&quot;&gt;Why Connect?&lt;/h2&gt;
@@ -977,9 +977,9 @@ the final rule published by CMS. Secure sharing is central to Meaningful use. By
  
  <entry>
    <title>Interfacing Devices to e-MDs</title>
-   <link href="http://unchart.com//software/2012/01/13/interfacing-devices-to-e-mds/"/>
+   <link href="http://unchart.com//2012/interfacing-devices-to-e-mds/"/>
    <updated>2012-01-13T13:29:04-08:00</updated>
-   <id>http://unchart.com/software/2012/01/13/interfacing-devices-to-e-mds</id>
+   <id>http://unchart.com/2012/interfacing-devices-to-e-mds</id>
    <content type="html">&lt;p&gt;John Crankshaw mentioned a process for interfacing devices to e-MDs (without having to buy the more expensive models that are supported.) &lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/files/2012/01/ZanimageDocmanBatchscreenshots.docx.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt;Printable Word Document&lt;/a&gt;&lt;/p&gt;
@@ -1038,9 +1038,9 @@ I’ll go through each tab in the printing preferences with screen shots for eac
  
  <entry>
    <title>Coumadin in e-MDs</title>
-   <link href="http://unchart.com//clinical/2012/01/13/coumadin-in-e-mds/"/>
+   <link href="http://unchart.com//2012/coumadin-in-e-mds/"/>
    <updated>2012-01-13T08:17:29-08:00</updated>
-   <id>http://unchart.com/clinical/2012/01/13/coumadin-in-e-mds</id>
+   <id>http://unchart.com/2012/coumadin-in-e-mds</id>
    <content type="html">&lt;p&gt;There’s been a discusssion on &lt;a href=&quot;http://supportcenter.e-mds.com/ics/support/default.asp?deptID=3222&amp;forumContentID;=109653&quot;&gt;SupportCenter&lt;/a&gt; about Coumadin Plans. &lt;/p&gt;
 
 &lt;p&gt;Mal Riddell has offered his template:&lt;/p&gt;
@@ -1186,9 +1186,9 @@ Coumadin Packet&lt;/a&gt;&lt;/p&gt;
  
  <entry>
    <title>Encourage e-MDs to Fix Portal Usability</title>
-   <link href="http://unchart.com//software/2012/01/08/encourage-e-mds-to-fix-portal-usability/"/>
+   <link href="http://unchart.com//2012/encourage-e-mds-to-fix-portal-usability/"/>
    <updated>2012-01-08T13:01:03-08:00</updated>
-   <id>http://unchart.com/software/2012/01/08/encourage-e-mds-to-fix-portal-usability</id>
+   <id>http://unchart.com/2012/encourage-e-mds-to-fix-portal-usability</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2012/01/Screen-Shot-2012-01-25-at-7.46.18-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; &lt;em&gt;This appears to be fixed as of today.  Interestingly enough the new formatting doesn’t redesign the site but it makes exactly the change that I mention below. This makes it much more usable for patients.&lt;/em&gt; – Jonathan Ploudre, 1/25/2012&lt;/p&gt;
@@ -1225,9 +1225,9 @@ Coumadin Packet&lt;/a&gt;&lt;/p&gt;
  
  <entry>
    <title>Portal Layout Bug</title>
-   <link href="http://unchart.com//software/2012/01/08/portal-layout-bug/"/>
+   <link href="http://unchart.com//2012/portal-layout-bug/"/>
    <updated>2012-01-08T08:48:06-08:00</updated>
-   <id>http://unchart.com/software/2012/01/08/portal-layout-bug</id>
+   <id>http://unchart.com/2012/portal-layout-bug</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2012/01/Screen-Shot-2012-01-25-at-7.46.18-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; &lt;em&gt;This appears to be fixed as of today.  Interestingly enough the new formatting doesn’t redesign the site but it makes exactly the change that I mention below. This makes it much more usable for patients.&lt;/em&gt; – Jonathan Ploudre, 1/25/2012&lt;/p&gt;
@@ -1283,9 +1283,9 @@ reorganize the css&lt;/a&gt; rather than just hack the number like I mention abo
  
  <entry>
    <title>e-MDs Portal Auto-Messages</title>
-   <link href="http://unchart.com//business/2012/01/07/e-mds-portal-auto-messages/"/>
+   <link href="http://unchart.com//2012/e-mds-portal-auto-messages/"/>
    <updated>2012-01-07T22:10:45-08:00</updated>
-   <id>http://unchart.com/business/2012/01/07/e-mds-portal-auto-messages</id>
+   <id>http://unchart.com/2012/e-mds-portal-auto-messages</id>
    <content type="html">&lt;p&gt;One of the setup tasks for portal is to create some standard messages – disclaimers, warnings, and the like.  I had forgotten that it  was one of the things I ‘ran through my readability program’ I’ve been re-writing clinic paperwork for a while. My all time fav: &lt;a href=&quot;http://unchart.com/2011/hipaa-form/&quot;&gt;the HIPAA form&lt;/a&gt; – unrecognizable compared to the previous version. I also have a &lt;a href=&quot;http://unchart.com/2011/patient-portal-form/&quot;&gt;Patient Portal Signup Form&lt;/a&gt;. Until a couple months ago my office manager thought that I had an app that did simplification. Nope, I just edit/re-edit/reword until it’s shorter, simpler and clearer.&lt;/p&gt;
 
 &lt;p&gt;Here’s what we came up for portal auto-messages:&lt;/p&gt;
@@ -1329,9 +1329,9 @@ reorganize the css&lt;/a&gt; rather than just hack the number like I mention abo
  
  <entry>
    <title>Usability of the Washington State Prescription Monitoring Program </title>
-   <link href="http://unchart.com//clinical/theory/2012/01/05/usability-of-the-washington-state-prescription-monitoring-program/"/>
+   <link href="http://unchart.com//2012/usability-of-the-washington-state-prescription-monitoring-program/"/>
    <updated>2012-01-05T01:44:17-08:00</updated>
-   <id>http://unchart.com/clinical/theory/2012/01/05/usability-of-the-washington-state-prescription-monitoring-program</id>
+   <id>http://unchart.com/2012/usability-of-the-washington-state-prescription-monitoring-program</id>
    <content type="html">&lt;p&gt;The idea of the prescription monitoring program (PMP) &lt;strong&gt;rocks&lt;/strong&gt;. Given that multiple controlled substances are potentially lethal, a prescriber or pharmacist should be able to verify other prescriptions. Transparency improves care.&lt;/p&gt;
 
 &lt;p&gt;But it’s implemented with unnecessary friction. This is going to reduce how many busy docs or pharmacists are willing to go through the hassle. The more complicated and time-consuming it is, the less it’s worth.&lt;/p&gt;
@@ -1414,9 +1414,9 @@ reorganize the css&lt;/a&gt; rather than just hack the number like I mention abo
  
  <entry>
    <title>Cleaner SQL Backups -- Automatic Log Out</title>
-   <link href="http://unchart.com//software/2011/12/16/cleaner-sql-backups-automatic-log-out/"/>
+   <link href="http://unchart.com//2011/cleaner-sql-backups-automatic-log-out/"/>
    <updated>2011-12-16T08:54:53-08:00</updated>
-   <id>http://unchart.com/software/2011/12/16/cleaner-sql-backups-automatic-log-out</id>
+   <id>http://unchart.com/2011/cleaner-sql-backups-automatic-log-out</id>
    <content type="html">&lt;p&gt;I don’t always log out and shutdown my computer every day. Partly because things change and sometimes I’m gone. I don’t shutdown because I often log onto my machine from home (so it needs to be powered on). I don’t plan learning to logout. It’s nice to come back to the machine (via RDP) with everything open, right where I left it.&lt;/p&gt;
 
 &lt;p&gt;Having an open e-MDs client during backup, though, is a ‘bad idea’. As in &lt;a href=&quot;http://www.hulu.com/watch/10310/saturday-night-live-bad-idea-jeans&quot;&gt;Bad Idea Jeans&lt;/a&gt;.&lt;/p&gt;
@@ -1439,9 +1439,9 @@ reorganize the css&lt;/a&gt; rather than just hack the number like I mention abo
  
  <entry>
    <title>Quick Feedback with Google Forms</title>
-   <link href="http://unchart.com//business/software/2011/12/14/quick-feedback-with-google-forms/"/>
+   <link href="http://unchart.com//2011/quick-feedback-with-google-forms/"/>
    <updated>2011-12-14T07:49:12-08:00</updated>
-   <id>http://unchart.com/business/software/2011/12/14/quick-feedback-with-google-forms</id>
+   <id>http://unchart.com/2011/quick-feedback-with-google-forms</id>
    <content type="html">&lt;p&gt;Fred Wilson, a Venture Capitalist, has a &lt;a href=&quot;http://www.avc.com/a_vc/2011/11/continuous-feedback.html&quot;&gt;great blog post about continuous feedback&lt;/a&gt;. At a small startup they ask: What’s three things we’re doing well at? What’s three things we need to do better?&lt;/p&gt;
 
 &lt;p&gt;Getting that type of feedback on a regular basis allows you to spot issues quickly. Or exploit strengths to do really brilliant work.&lt;/p&gt;
@@ -1465,9 +1465,9 @@ reorganize the css&lt;/a&gt; rather than just hack the number like I mention abo
  
  <entry>
    <title>URI for MS3s</title>
-   <link href="http://unchart.com//clinical/2011/12/02/uri-for-ms3s/"/>
+   <link href="http://unchart.com//2011/uri-for-ms3s/"/>
    <updated>2011-12-02T07:20:31-08:00</updated>
-   <id>http://unchart.com/clinical/2011/12/02/uri-for-ms3s</id>
+   <id>http://unchart.com/2011/uri-for-ms3s</id>
    <content type="html">&lt;p&gt;A talk about URI-related illness and limits of antibiotics. Has a focus on formulating clinical questions.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/jploudre/uri-10427985&quot;&gt;URI&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -1478,9 +1478,9 @@ reorganize the css&lt;/a&gt; rather than just hack the number like I mention abo
  
  <entry>
    <title>Flowsheets in e-MDs 7.x</title>
-   <link href="http://unchart.com//software/2011/11/30/flowsheets-in-e-mds-7-x/"/>
+   <link href="http://unchart.com//2011/flowsheets-in-e-mds-7-x/"/>
    <updated>2011-11-30T19:11:25-08:00</updated>
-   <id>http://unchart.com/software/2011/11/30/flowsheets-in-e-mds-7-x</id>
+   <id>http://unchart.com/2011/flowsheets-in-e-mds-7-x</id>
    <content type="html">&lt;p&gt;A quick presentation to show how flowsheets work for my partners.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/jploudre/flowsheets-in-emds&quot;&gt;Flowsheets in e-MDs&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -1491,9 +1491,9 @@ reorganize the css&lt;/a&gt; rather than just hack the number like I mention abo
  
  <entry>
    <title>Where to start with Macros (and e-MDs)</title>
-   <link href="http://unchart.com//software/2011/10/18/where-to-start-with-macros-and-e-mds/"/>
+   <link href="http://unchart.com//2011/where-to-start-with-macros-and-e-mds/"/>
    <updated>2011-10-18T21:40:47-07:00</updated>
-   <id>http://unchart.com/software/2011/10/18/where-to-start-with-macros-and-e-mds</id>
+   <id>http://unchart.com/2011/where-to-start-with-macros-and-e-mds</id>
    <content type="html">&lt;p&gt;Ah, too many clicks. Macros are one of my loves the last few years. Reduce a single thought into a single physical action. It’s not that I can’t click 5 times to do one thing. &lt;em&gt;Actually, I’m pretty good at clicking&lt;/em&gt;. As I’ve mentioned in my &lt;a href=&quot;http://unchart.com/2011/deskilling/&quot;&gt;article about becoming my patient’s data entry technician&lt;/a&gt;, I’ve got limited attention bandwidth. Clicking requires too much focus. I practice EHR all the time; I should be able to play it like a piano. I need a single thought to be a single frictionless action.&lt;/p&gt;
 
 &lt;h2 id=&quot;macros-lubricate-your-life-as-a-doctor&quot;&gt;Macros lubricate your life as a doctor&lt;/h2&gt;
@@ -1524,9 +1524,9 @@ reorganize the css&lt;/a&gt; rather than just hack the number like I mention abo
  
  <entry>
    <title>Journey to Meaningful Use</title>
-   <link href="http://unchart.com//theory/2011/10/14/journey-to-meaningful-use/"/>
+   <link href="http://unchart.com//2011/journey-to-meaningful-use/"/>
    <updated>2011-10-14T12:28:26-07:00</updated>
-   <id>http://unchart.com/theory/2011/10/14/journey-to-meaningful-use</id>
+   <id>http://unchart.com/2011/journey-to-meaningful-use</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/jploudre/journey-to-meaningful-use&quot;&gt;Journey to Meaningful Use&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/jploudre&quot;&gt;Jonathan Ploudre&lt;/a&gt;.&lt;/p&gt;
@@ -1557,9 +1557,9 @@ reorganize the css&lt;/a&gt; rather than just hack the number like I mention abo
  
  <entry>
    <title>Closed Fracture Plan Template</title>
-   <link href="http://unchart.com//software/2011/10/12/closed-fracture-plan-template/"/>
+   <link href="http://unchart.com//2011/closed-fracture-plan-template/"/>
    <updated>2011-10-12T13:02:09-07:00</updated>
-   <id>http://unchart.com/software/2011/10/12/closed-fracture-plan-template</id>
+   <id>http://unchart.com/2011/closed-fracture-plan-template</id>
    <content type="html">&lt;p&gt;Thanks to Angela Bashaw for sharing her orthopedic clinic’s plan template.&lt;/p&gt;
 
 &lt;p&gt;Paraphrasing her (on &lt;a href=&quot;https://supportcenter.e-mds.com/ics/support/default.asp?deptID=3222&amp;forumContentID;=108107&quot;&gt;SupportCenter&lt;/a&gt;):&lt;/p&gt;
@@ -1578,9 +1578,9 @@ and we need to replace it (we charge for that).
  
  <entry>
    <title>Deskilling</title>
-   <link href="http://unchart.com//theory/2011/09/27/deskilling/"/>
+   <link href="http://unchart.com//2011/deskilling/"/>
    <updated>2011-09-27T19:29:40-07:00</updated>
-   <id>http://unchart.com/theory/2011/09/27/deskilling</id>
+   <id>http://unchart.com/2011/deskilling</id>
    <content type="html">&lt;p&gt;A recent study hits too close to home:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/21685794&quot;&gt;“Deskilling and adaptation among primary care physicians using two work innovations”&lt;/a&gt; says, essentially, that as primary care docs try to use innovation like EHRs and clinical guidelines, we become less trustworthy to our patients, less confident.&lt;/p&gt;
@@ -1627,9 +1627,9 @@ and we need to replace it (we charge for that).
  
  <entry>
    <title>Diabetes for MS3, 2011</title>
-   <link href="http://unchart.com//clinical/2011/09/22/diabetes/"/>
+   <link href="http://unchart.com//2011/diabetes/"/>
    <updated>2011-09-22T23:24:33-07:00</updated>
-   <id>http://unchart.com/clinical/2011/09/22/diabetes</id>
+   <id>http://unchart.com/2011/diabetes</id>
    <content type="html">&lt;p&gt;Here are my slides about Diabetes for Lecture for PNWU.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/jploudre/diabetes-for-ms3s&quot;&gt;Diabetes for MS3s&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -1641,9 +1641,9 @@ and we need to replace it (we charge for that).
  
  <entry>
    <title>Security and HITECH Tools</title>
-   <link href="http://unchart.com//business/2011/09/21/security-and-hitech-tools/"/>
+   <link href="http://unchart.com//2011/security-and-hitech-tools/"/>
    <updated>2011-09-21T21:18:08-07:00</updated>
-   <id>http://unchart.com/business/2011/09/21/security-and-hitech-tools</id>
+   <id>http://unchart.com/2011/security-and-hitech-tools</id>
    <content type="html">&lt;p&gt;Thanks to Andy Helm and Georgia HITREC for security-related info for Meaningful Use. (And Thanks to Samuel Church, MD/MPH, for hooking this up for sharing.)&lt;/p&gt;
 
 &lt;p&gt;This includes two major tools: a spreadsheet tool for conducting a security audit and a document with principles of security and checklists for applying them in a small practice. Good stuff.&lt;/p&gt;
@@ -1662,9 +1662,9 @@ and we need to replace it (we charge for that).
  
  <entry>
    <title>Opioid Treatment Agreement</title>
-   <link href="http://unchart.com//theory/2011/09/16/opioid-treatment-agreement/"/>
+   <link href="http://unchart.com//2011/opioid-treatment-agreement/"/>
    <updated>2011-09-16T12:11:32-07:00</updated>
-   <id>http://unchart.com/theory/2011/09/16/opioid-treatment-agreement</id>
+   <id>http://unchart.com/2011/opioid-treatment-agreement</id>
    <content type="html">&lt;h3 id=&quot;treatment-agreement&quot;&gt;Treatment Agreement&lt;/h3&gt;
 
 &lt;p&gt;I am being prescribed “controlled medications”. These may relieve pain but could cause overdose or become habit forming.  It is my doctor’s duty to make sure these medications are being used as safely as possible and as intended.&lt;/p&gt;
@@ -1728,9 +1728,9 @@ and we need to replace it (we charge for that).
  
  <entry>
    <title>Ambulatory Blood Pressure Monitor Patient Handout</title>
-   <link href="http://unchart.com//clinical/2011/09/08/ambulatory-blood-pressure-monitor-patient-handout/"/>
+   <link href="http://unchart.com//2011/ambulatory-blood-pressure-monitor-patient-handout/"/>
    <updated>2011-09-08T21:11:10-07:00</updated>
-   <id>http://unchart.com/clinical/2011/09/08/ambulatory-blood-pressure-monitor-patient-handout</id>
+   <id>http://unchart.com/2011/ambulatory-blood-pressure-monitor-patient-handout</id>
    <content type="html">&lt;p&gt;Here’s my info handout for patients getting Ambulatory Blood Pressure Monitoring. It’s got some nice specifics: About 90 seconds to read, 8th Grade reading level. But it covers the key points I’ve learned with my first ~15 patients who’ve done ABPM.&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -1765,9 +1765,9 @@ and we need to replace it (we charge for that).
  
  <entry>
    <title>ROS and Fast Forms: A Simple Work Flow</title>
-   <link href="http://unchart.com//software/2011/09/06/ros-and-fast-forms-a-simple-work-flow/"/>
+   <link href="http://unchart.com//2011/ros-and-fast-forms-a-simple-work-flow/"/>
    <updated>2011-09-06T08:23:35-07:00</updated>
-   <id>http://unchart.com/software/2011/09/06/ros-and-fast-forms-a-simple-work-flow</id>
+   <id>http://unchart.com/2011/ros-and-fast-forms-a-simple-work-flow</id>
    <content type="html">&lt;p&gt;&lt;em&gt;A guest post by Christine Hunter, PAC.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/files/2011/09/fastforms-hunter.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Fastforms by Christine Hunter&lt;/a&gt;&lt;/p&gt;
@@ -1825,9 +1825,9 @@ pachunter@hotmail.com.&lt;/p&gt;
  
  <entry>
    <title>Unfocus: The mouseless plan</title>
-   <link href="http://unchart.com//software/2011/09/01/unfocus-the-mouseless-plan/"/>
+   <link href="http://unchart.com//2011/unfocus-the-mouseless-plan/"/>
    <updated>2011-09-01T22:23:43-07:00</updated>
-   <id>http://unchart.com/software/2011/09/01/unfocus-the-mouseless-plan</id>
+   <id>http://unchart.com/2011/unfocus-the-mouseless-plan</id>
    <content type="html">&lt;p&gt;It’s difficult to get a visit summary done in real-time without tradeoffs. (Sarcasm alert.) I’m awesome at tech can totally get them done. Why can’t everyone just click quickly? Seriously, though, I end up having one of these options:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -1872,9 +1872,9 @@ pachunter@hotmail.com.&lt;/p&gt;
  
  <entry>
    <title>Visit Summary Self-Hosting</title>
-   <link href="http://unchart.com//software/2011/08/29/visit-summary-self-hosting/"/>
+   <link href="http://unchart.com//2011/visit-summary-self-hosting/"/>
    <updated>2011-08-29T22:27:33-07:00</updated>
-   <id>http://unchart.com/software/2011/08/29/visit-summary-self-hosting</id>
+   <id>http://unchart.com/2011/visit-summary-self-hosting</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; &lt;em&gt;This is a post from 8/2011 – this article won’t stay up to date. If you are going to self-host, you need to pull original files off the server.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;When I first got e-MDs 7.0, one of the first things I did was look at the Visit Summary. As I went to lunch a few minutes later, I brainstormed how I could bypass the formatting and create my own theme. I originally imagined putting up this set of downloadable files. Unfortunately, my plan for formatting requires a web server. And my regular server (for unchart.com) wasn’t going to work. So I figured out how to host on &lt;a href=&quot;http://unchart.com/2011/amazon-web-services/&quot;&gt;Amazon’s Web Services&lt;/a&gt;. I’ve been pretty pleased with the performance. &lt;/p&gt;
@@ -1907,9 +1907,9 @@ pachunter@hotmail.com.&lt;/p&gt;
  
  <entry>
    <title>Patient Health History Form</title>
-   <link href="http://unchart.com//business/2011/08/26/patient-health-history-form/"/>
+   <link href="http://unchart.com//2011/patient-health-history-form/"/>
    <updated>2011-08-26T13:30:00-07:00</updated>
-   <id>http://unchart.com/business/2011/08/26/patient-health-history-form</id>
+   <id>http://unchart.com/2011/patient-health-history-form</id>
    <content type="html">&lt;p&gt;Christine Hunter, PA, provided this Word Document which lines up with the history that you would put in for e-MDs health summary. &lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://supportcenter.e-mds.com/ics/forum/Client/Common/ContentView.aspx?contentID=107150&quot;&gt;Original Discussion on SupportCenter&lt;/a&gt;&lt;/p&gt;
@@ -1921,9 +1921,9 @@ pachunter@hotmail.com.&lt;/p&gt;
  
  <entry>
    <title>e-MDs Rounds for iPhone Review</title>
-   <link href="http://unchart.com//software/2011/08/08/e-mds-rounds-for-iphone-review/"/>
+   <link href="http://unchart.com//2011/e-mds-rounds-for-iphone-review/"/>
    <updated>2011-08-08T00:00:31-07:00</updated>
-   <id>http://unchart.com/software/2011/08/08/e-mds-rounds-for-iphone-review</id>
+   <id>http://unchart.com/2011/e-mds-rounds-for-iphone-review</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/08/e-MDs-rounds.jpg&quot; alt=&quot;&quot; /&gt;
 In 1998 when I started Medical School, I was the only person in my entire school to have a PDA – a Palm Pilot. At first it seemed like a toy to my classmates. But soon it became an unfair advantage. In my pocket I had info about essentially every drug, every disease, every lab test. It was my ‘external brain’. I thought that someday every doc would have one of these. But I didn’t expect how soon it would be. In second year, my best friend got his Palm Pilot. In third year, about 30 classmates got them. Nowadays essentially every student I meet uses tech as a key part of doctoring whether it’s smartphones or websites like UpToDate. Books still exist. But my ‘odd behavior’ 13 years ago with my Palm is now totally mainstream and unconscious.&lt;/p&gt;
 
@@ -1985,9 +1985,9 @@ In 1998 when I started Medical School, I was the only person in my entire school
  
  <entry>
    <title>Approaching the practice of using an EHR</title>
-   <link href="http://unchart.com//theory/2011/08/07/approaching-the-practice-of-using-an-ehr/"/>
+   <link href="http://unchart.com//2011/approaching-the-practice-of-using-an-ehr/"/>
    <updated>2011-08-07T14:00:45-07:00</updated>
-   <id>http://unchart.com/theory/2011/08/07/approaching-the-practice-of-using-an-ehr</id>
+   <id>http://unchart.com/2011/approaching-the-practice-of-using-an-ehr</id>
    <content type="html">&lt;p&gt;Here’s a ~15 minute video about getting better at using an EHR. Well, not really. It is about being creative but this idea of an ‘OK plateau’ and conscious learning fits with every doctor I known who has learned and EHR. After you get on autopilot, you just do the same thing over and over again. If you want to keep improving, you have to keep failing. You have to do the hard stuff. &lt;/p&gt;
 
 </content>
@@ -1995,9 +1995,9 @@ In 1998 when I started Medical School, I was the only person in my entire school
  
  <entry>
    <title>Patient-centered Health IT Manifesto</title>
-   <link href="http://unchart.com//theory/2011/08/04/patient-centered-health-it-manifesto/"/>
+   <link href="http://unchart.com//2011/patient-centered-health-it-manifesto/"/>
    <updated>2011-08-04T18:21:50-07:00</updated>
-   <id>http://unchart.com/theory/2011/08/04/patient-centered-health-it-manifesto</id>
+   <id>http://unchart.com/2011/patient-centered-health-it-manifesto</id>
    <content type="html">&lt;p&gt;If we are going to really get Health IT, we need to be patient-centered. It’s generally being ignored now.&lt;/p&gt;
 
 &lt;p&gt;Modern health is phenomenal: Public Health/Sanitation/Antibiotics. Now 7% of Wealthy vs 36% of Poor die of infection in 2011.– &lt;a href=&quot;http://ngm.nationalgeographic.com/2011/03/age-of-man/map-interactive&quot;&gt;National Geographic&lt;/a&gt;&lt;/p&gt;
@@ -2028,9 +2028,9 @@ We need to enable patients as  partners in their care.   &lt;/p&gt;
  
  <entry>
    <title>Immunization Report (Kentucky)</title>
-   <link href="http://unchart.com//software/2011/08/02/immunization-report-kentucky/"/>
+   <link href="http://unchart.com//2011/immunization-report-kentucky/"/>
    <updated>2011-08-02T18:56:57-07:00</updated>
-   <id>http://unchart.com/software/2011/08/02/immunization-report-kentucky</id>
+   <id>http://unchart.com/2011/immunization-report-kentucky</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/08/keithtoms.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 Keith Toms wrote this report. &lt;/p&gt;
 
@@ -2044,9 +2044,9 @@ Keith Toms wrote this report. &lt;/p&gt;
  
  <entry>
    <title>Insurance Invoice Status Report</title>
-   <link href="http://unchart.com//business/software/2011/08/02/insurance-invoice-status-report/"/>
+   <link href="http://unchart.com//2011/insurance-invoice-status-report/"/>
    <updated>2011-08-02T18:23:58-07:00</updated>
-   <id>http://unchart.com/business/software/2011/08/02/insurance-invoice-status-report</id>
+   <id>http://unchart.com/2011/insurance-invoice-status-report</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/08/AIbEiAIAAABDCNfdxLH-rsvxIiILdmNhcmRfcGhvdG8qKGJmNzA1ZjRhNDViMGI0ZTliMzU1M2U2Yjg4NDg5MjVlNGQ0OWQ4NjMwAa0sj0W03YTFCtxfJMHI64y6bfUL.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 Chat Kidkul made this report&lt;/p&gt;
 
@@ -2072,9 +2072,9 @@ Chat Kidkul made this report&lt;/p&gt;
  
  <entry>
    <title>Custom Single Drug Search</title>
-   <link href="http://unchart.com//clinical/software/2011/08/02/custom-single-drug-search/"/>
+   <link href="http://unchart.com//2011/custom-single-drug-search/"/>
    <updated>2011-08-02T18:17:49-07:00</updated>
-   <id>http://unchart.com/clinical/software/2011/08/02/custom-single-drug-search</id>
+   <id>http://unchart.com/2011/custom-single-drug-search</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/08/AIbEiAIAAABDCNfdxLH-rsvxIiILdmNhcmRfcGhvdG8qKGJmNzA1ZjRhNDViMGI0ZTliMzU1M2U2Yjg4NDg5MjVlNGQ0OWQ4NjMwAa0sj0W03YTFCtxfJMHI64y6bfUL.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 Chat Kidkul made this report&lt;/p&gt;
 
@@ -2095,9 +2095,9 @@ Chat Kidkul made this report&lt;/p&gt;
  
  <entry>
    <title>Custom Payer Invoice Count</title>
-   <link href="http://unchart.com//business/software/2011/08/02/custom-payer-invoice-count/"/>
+   <link href="http://unchart.com//2011/custom-payer-invoice-count/"/>
    <updated>2011-08-02T17:41:33-07:00</updated>
-   <id>http://unchart.com/business/software/2011/08/02/custom-payer-invoice-count</id>
+   <id>http://unchart.com/2011/custom-payer-invoice-count</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/08/AIbEiAIAAABDCNfdxLH-rsvxIiILdmNhcmRfcGhvdG8qKGJmNzA1ZjRhNDViMGI0ZTliMzU1M2U2Yjg4NDg5MjVlNGQ0OWQ4NjMwAa0sj0W03YTFCtxfJMHI64y6bfUL.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 Chat Kidkul made this report&lt;/p&gt;
 
@@ -2119,9 +2119,9 @@ Chat Kidkul made this report&lt;/p&gt;
  
  <entry>
    <title>Custom Appointment Data</title>
-   <link href="http://unchart.com//business/software/2011/08/02/custom-appointment-data/"/>
+   <link href="http://unchart.com//2011/custom-appointment-data/"/>
    <updated>2011-08-02T17:35:15-07:00</updated>
-   <id>http://unchart.com/business/software/2011/08/02/custom-appointment-data</id>
+   <id>http://unchart.com/2011/custom-appointment-data</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/08/AIbEiAIAAABDCNfdxLH-rsvxIiILdmNhcmRfcGhvdG8qKGJmNzA1ZjRhNDViMGI0ZTliMzU1M2U2Yjg4NDg5MjVlNGQ0OWQ4NjMwAa0sj0W03YTFCtxfJMHI64y6bfUL.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 Chat Kidkul made this report&lt;/p&gt;
 
@@ -2141,9 +2141,9 @@ Chat Kidkul made this report&lt;/p&gt;
  
  <entry>
    <title>Dragon Remote Microphone and mobile dictation</title>
-   <link href="http://unchart.com//hardware/2011/08/01/dragon-remote-microphone/"/>
+   <link href="http://unchart.com//2011/dragon-remote-microphone/"/>
    <updated>2011-08-01T19:50:38-07:00</updated>
-   <id>http://unchart.com/hardware/2011/08/01/dragon-remote-microphone</id>
+   <id>http://unchart.com/2011/dragon-remote-microphone</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/files/2011/08/dragonremotemicrophone.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I’ve been waiting for this!&lt;/p&gt;
@@ -2183,9 +2183,9 @@ Chat Kidkul made this report&lt;/p&gt;
  
  <entry>
    <title>Print to file to work around inability to export</title>
-   <link href="http://unchart.com//software/2011/07/01/print-to-file-to-work-around-inability-to-export/"/>
+   <link href="http://unchart.com//2011/print-to-file-to-work-around-inability-to-export/"/>
    <updated>2011-07-01T07:59:24-07:00</updated>
-   <id>http://unchart.com/software/2011/07/01/print-to-file-to-work-around-inability-to-export</id>
+   <id>http://unchart.com/2011/print-to-file-to-work-around-inability-to-export</id>
    <content type="html">&lt;p&gt;I’m a lover of ‘postprocessing’ in excel. If I can just get the data, I can do my own analysis, thank you. (Again, I’m going to plug my ‘&lt;a href=&quot;http://unchart.com/2011/data-driven-practice/&quot;&gt;Data Driven Practice&lt;/a&gt;.’ Amazing what you can do with pivot tables and autofilter!) Sometimes e-MDs is set up to let you download/export data. Any crystal report, for instance, can be saved as a file to process in Excel. &lt;/p&gt;
 
 &lt;p&gt;But data is not always exportable.&lt;/p&gt;
@@ -2212,9 +2212,9 @@ Chat Kidkul made this report&lt;/p&gt;
  
  <entry>
    <title>Interuptions and Practice</title>
-   <link href="http://unchart.com//theory/2011/06/26/interuptions-and-practice/"/>
+   <link href="http://unchart.com//2011/interuptions-and-practice/"/>
    <updated>2011-06-26T19:59:06-07:00</updated>
-   <id>http://unchart.com/theory/2011/06/26/interuptions-and-practice</id>
+   <id>http://unchart.com/2011/interuptions-and-practice</id>
    <content type="html">&lt;p&gt;Multitasking is generally a myth. People think they can multi-task but the reality is that all the tasks they are doing are taking a hit. In an &lt;a href=&quot;http://www.time.com/time/health/article/0,8599,1977523,00.html&quot;&gt;article in Time magazine&lt;/a&gt; 97.5% of the general population are not successful at multi-tasking. So when faced with two tasks at once, say Driving and Texting, we’re more dangerous. The New York Times has a &lt;a href=&quot;http://www.nytimes.com/interactive/2009/07/19/technology/20090719-driving-game.html&quot;&gt;great simulation of texting and driving&lt;/a&gt;. It’s really easy to do without multi-tasking. But it becomes frantically difficult while doing two tasks.&lt;/p&gt;
 
 &lt;p&gt;Seriously, go spend a minute or two on the  test and see how you do.&lt;/p&gt;
@@ -2239,9 +2239,9 @@ Chat Kidkul made this report&lt;/p&gt;
  
  <entry>
    <title>Ambulatory Blood Pressure Monitor (Where's Innovation?)</title>
-   <link href="http://unchart.com//clinical/theory/2011/06/12/ambulatory-blood-pressure-monitor-wheres-innovation/"/>
+   <link href="http://unchart.com//2011/ambulatory-blood-pressure-monitor-wheres-innovation/"/>
    <updated>2011-06-12T11:23:22-07:00</updated>
-   <id>http://unchart.com/clinical/theory/2011/06/12/ambulatory-blood-pressure-monitor-wheres-innovation</id>
+   <id>http://unchart.com/2011/ambulatory-blood-pressure-monitor-wheres-innovation</id>
    <content type="html">&lt;p&gt;In 2003, &lt;a href=&quot;http://www.nhlbi.nih.gov/guidelines/hypertension/&quot;&gt;JNC 7&lt;/a&gt; recommended Ambulatory Blood Pressure Monitoring (&lt;strong&gt;ABPM&lt;/strong&gt;) for a number of clinical situations:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -2315,9 +2315,9 @@ monitoring. Hypertension 2011 May; 57:898. (Subscription may be required)&lt;/p&
  
  <entry>
    <title>Simvastatin (Zocor) 80mg Report</title>
-   <link href="http://unchart.com//clinical/theory/2011/06/10/simvastatin-zocor-80mg-report/"/>
+   <link href="http://unchart.com//2011/simvastatin-zocor-80mg-report/"/>
    <updated>2011-06-10T15:26:14-07:00</updated>
-   <id>http://unchart.com/clinical/theory/2011/06/10/simvastatin-zocor-80mg-report</id>
+   <id>http://unchart.com/2011/simvastatin-zocor-80mg-report</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/files/2011/06/Simvastatin.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Simvastatin Report&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -2356,9 +2356,9 @@ monitoring. Hypertension 2011 May; 57:898. (Subscription may be required)&lt;/p&
  
  <entry>
    <title>Provider Panel Map</title>
-   <link href="http://unchart.com//theory/2011/06/01/provider-panel-map/"/>
+   <link href="http://unchart.com//2011/provider-panel-map/"/>
    <updated>2011-06-01T21:29:17-07:00</updated>
-   <id>http://unchart.com/theory/2011/06/01/provider-panel-map</id>
+   <id>http://unchart.com/2011/provider-panel-map</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/files/2011/06/Panel-Size.pdf&quot;&gt;&lt;img src=&quot;/files/2011/06/panel-map.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 Panel Size.pdf&lt;/a&gt;&lt;/p&gt;
 
@@ -2370,9 +2370,9 @@ Panel Size.pdf&lt;/a&gt;&lt;/p&gt;
  
  <entry>
    <title>Patient Preferences for Office Technology</title>
-   <link href="http://unchart.com//business/2011/06/01/patient-preferences-for-office-technology/"/>
+   <link href="http://unchart.com//2011/patient-preferences-for-office-technology/"/>
    <updated>2011-06-01T18:42:15-07:00</updated>
-   <id>http://unchart.com/business/2011/06/01/patient-preferences-for-office-technology</id>
+   <id>http://unchart.com/2011/patient-preferences-for-office-technology</id>
    <content type="html">&lt;p&gt;So the theme I pull out of this: Patients have a stronger preference for access than doctors have. We’re all used to creating walls to protect us from too much access. To me, that might be  a symptom of not being careful about managing your panel size. (See my recent &lt;a href=&quot;http://unchart.com/2011/provider-panel-report/&quot;&gt;Provider Panel Report&lt;/a&gt; as a starting spot.)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/files/2011/06/patient-office-tech-preferences.png&quot;&gt;&lt;img src=&quot;/files/2011/06/patient-office-tech-preferences-300x205.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -2381,9 +2381,9 @@ Panel Size.pdf&lt;/a&gt;&lt;/p&gt;
  
  <entry>
    <title>Provider Panel Report</title>
-   <link href="http://unchart.com//software/2011/05/31/provider-panel-report/"/>
+   <link href="http://unchart.com//2011/provider-panel-report/"/>
    <updated>2011-05-31T20:12:32-07:00</updated>
-   <id>http://unchart.com/software/2011/05/31/provider-panel-report</id>
+   <id>http://unchart.com/2011/provider-panel-report</id>
    <content type="html">&lt;p&gt;This is a basic report for provider panel size. It’s based on patients that have visited the clinic (not just in the database). My clinic has been using e-MDs for 3 years  so looking at all visits has been an OK shortcut. Most experts recommend using a shorter interval for estimating panel size (12-18 months, typically.) That could be adjusted pretty easily in Crystal Reports, if it was important.&lt;/p&gt;
 
 &lt;p&gt;This report pays attention to exempted patients (Using ‘Exempt from Reports’ in Demographics) if you use that in your clinic process for transferred or discharged patients.&lt;/p&gt;
@@ -2407,9 +2407,9 @@ Panel Size.pdf&lt;/a&gt;&lt;/p&gt;
  
  <entry>
    <title>Rethinking Search in EHRs</title>
-   <link href="http://unchart.com//software/theory/2011/05/30/rethinking-search-in-ehrs/"/>
+   <link href="http://unchart.com//2011/rethinking-search-in-ehrs/"/>
    <updated>2011-05-30T09:57:37-07:00</updated>
-   <id>http://unchart.com/software/theory/2011/05/30/rethinking-search-in-ehrs</id>
+   <id>http://unchart.com/2011/rethinking-search-in-ehrs</id>
    <content type="html">&lt;p&gt;Let’s take a stroll down memory lane for a moment. In the mid-1990s the Web exploded into mainstream. It started with a few sites with academic papers, recipes, jokes, etc. Suddenly it had more information than you could possibly get to. The rapid change in complexity was astounding. Into that spot came one of the early iconic Web companies. Yahoo. (Aside: Before they went public, they had a contest to create a marketing tagline. They gave away 50 baseball caps to their favorite entries. I still have mine. My entry – “Yahoo, wasting time made efficient.”)&lt;/p&gt;
 
 &lt;p&gt;Here’s how Yahoo tamed  complexity over 15 years:&lt;/p&gt;
@@ -2449,9 +2449,9 @@ Panel Size.pdf&lt;/a&gt;&lt;/p&gt;
  
  <entry>
    <title>Continuity Report</title>
-   <link href="http://unchart.com//software/2011/05/13/continuity-report/"/>
+   <link href="http://unchart.com//2011/continuity-report/"/>
    <updated>2011-05-13T09:50:57-07:00</updated>
-   <id>http://unchart.com/software/2011/05/13/continuity-report</id>
+   <id>http://unchart.com/2011/continuity-report</id>
    <content type="html">&lt;p&gt;This report is a simple measure of patient-centered continuity. So, when one of my patients visits the clinic, what’s the chance that they saw me for the visit? 1.0 would be every patient sees me; 0.0 would be every patient sees one of my partners. &lt;strong&gt;Contrast:&lt;/strong&gt; Doctor-centered continuity would be when I work, how many of the patients I see were mine.&lt;/p&gt;
 
 &lt;p&gt;It’s a basic percentage of billed office/hospital visits – new or established patients. There are more sophisticated measures like the &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/3806028&quot;&gt;MMCI&lt;/a&gt; but this is more data/inisight than most practices ever consider.&lt;/p&gt;
@@ -2486,9 +2486,9 @@ Panel Size.pdf&lt;/a&gt;&lt;/p&gt;
  
  <entry>
    <title>Peak versus Sustained Charting</title>
-   <link href="http://unchart.com//theory/2011/05/06/peak-versus-sustained-charting/"/>
+   <link href="http://unchart.com//2011/peak-versus-sustained-charting/"/>
    <updated>2011-05-06T09:53:25-07:00</updated>
-   <id>http://unchart.com/theory/2011/05/06/peak-versus-sustained-charting</id>
+   <id>http://unchart.com/2011/peak-versus-sustained-charting</id>
    <content type="html">&lt;p&gt;This week I had a conversation with a medical transcriptionist who’s struggling with her new job. The company that just took over has an ‘On-the-job’ clock but also has a ‘Transcribing window open’ clock. She feels a pressure to try to make them match – 8 hours of work should be 8 hours of transcription. Since she’s a human (not a computer or machine) that’s completely unrealistic. 1 bathroom break in 8 hours: failure. Even if you consider labor laws – 15 minute breaks and a lunch – it’s impossible to sustain attention that long.&lt;/p&gt;
 
 &lt;p&gt;In medical transcription, they often judge performance in lines/hour. A line is 60-70 characters (with or without spaces counted, depending on the company). 350 lines/hour is pretty solid work so it ends up a sustained rate of something like 75 wpm in typing terms. Nowadays, many medical transcriptionists are actually doing editing of computer transcription. They aren’t allowed to use abbreviations to expand their word count. So ‘COPD’ doesn’t expand into ‘Chronic Obstructive Pulmonary Disorder’ to get extra lines. On a good dictations, she might get to 1.7 real time. &lt;/p&gt;
@@ -2528,9 +2528,9 @@ Panel Size.pdf&lt;/a&gt;&lt;/p&gt;
  
  <entry>
    <title>Plan-Do-Study-Act and Meaningful Use</title>
-   <link href="http://unchart.com//theory/2011/04/24/pdsa-and-meaningful-use/"/>
+   <link href="http://unchart.com//2011/pdsa-and-meaningful-use/"/>
    <updated>2011-04-24T22:55:51-07:00</updated>
-   <id>http://unchart.com/theory/2011/04/24/pdsa-and-meaningful-use</id>
+   <id>http://unchart.com/2011/pdsa-and-meaningful-use</id>
    <content type="html">&lt;p&gt;Plan-Do-Study-Act is a methodology for improvement. It’s the same basic theory about experimental sciences (hypothesis, experiement, analysis).&lt;/p&gt;
 
 &lt;p&gt;Generally it works like this:&lt;/p&gt;
@@ -2590,9 +2590,9 @@ providers results or clinical staff follow through.&lt;/p&gt;
  
  <entry>
    <title>Opiate Prescription, 2011</title>
-   <link href="http://unchart.com//clinical/2011/04/15/opiate-prescription/"/>
+   <link href="http://unchart.com//2011/opiate-prescription/"/>
    <updated>2011-04-15T16:28:08-07:00</updated>
-   <id>http://unchart.com/clinical/2011/04/15/opiate-prescription</id>
+   <id>http://unchart.com/2011/opiate-prescription</id>
    <content type="html">&lt;p&gt;Here’s my presentation about opiate prescription for non-malignant pain for the local MS3s. My nifty ‘magic move’ animations to show grouping dont’ translate into slideshare all that great.&lt;/p&gt;
 
 </content>
@@ -2600,9 +2600,9 @@ providers results or clinical staff follow through.&lt;/p&gt;
  
  <entry>
    <title>More Dragon with e-MDs</title>
-   <link href="http://unchart.com//software/2011/04/11/more-dragon-with-e-mds/"/>
+   <link href="http://unchart.com//2011/more-dragon-with-e-mds/"/>
    <updated>2011-04-11T19:41:32-07:00</updated>
-   <id>http://unchart.com/software/2011/04/11/more-dragon-with-e-mds</id>
+   <id>http://unchart.com/2011/more-dragon-with-e-mds</id>
    <content type="html">&lt;p&gt;I wrote recently about &lt;a href=&quot;http://unchart.com/2011/using-dragon-with-e-mds/&quot;&gt;Dragon 11 (not just medical) with e-MDs &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;So I’ve failed dictation multiple times in the past – I’d say I’ve given a real try at least 5 times in the last 6 years. Improvements helped but I still failed.:&lt;/p&gt;
@@ -2640,9 +2640,9 @@ providers results or clinical staff follow through.&lt;/p&gt;
  
  <entry>
    <title>Visit Summary Thanks</title>
-   <link href="http://unchart.com//software/2011/04/05/visit-summary-thanks/"/>
+   <link href="http://unchart.com//2011/visit-summary-thanks/"/>
    <updated>2011-04-05T23:32:31-07:00</updated>
-   <id>http://unchart.com/software/2011/04/05/visit-summary-thanks</id>
+   <id>http://unchart.com/2011/visit-summary-thanks</id>
    <content type="html">&lt;p&gt;Thanks so much for signing up for my Visit Summary.&lt;/p&gt;
 
 &lt;p&gt;You’ve already seen the instructions, let me know if you have any problems with making it work.&lt;/p&gt;
@@ -2655,9 +2655,9 @@ providers results or clinical staff follow through.&lt;/p&gt;
  
  <entry>
    <title>Amazon Web Services</title>
-   <link href="http://unchart.com//software/2011/04/05/amazon-web-services/"/>
+   <link href="http://unchart.com//2011/amazon-web-services/"/>
    <updated>2011-04-05T22:48:45-07:00</updated>
-   <id>http://unchart.com/software/2011/04/05/amazon-web-services</id>
+   <id>http://unchart.com/2011/amazon-web-services</id>
    <content type="html">&lt;p&gt;One of the first things I did when I got to start testing e-MDs 7.0 was look at the Visit Summary. I was horrified and delighted. Horrified at the layout, design and usability for patients. Delighted that Meaningful Use requires standards – I could fix it.&lt;/p&gt;
 
 &lt;p&gt;My process of rewriting required setting up a server to host the formatting. I decided to go with Amazon Web Services. Mostly based on reputation – Amazon.com isn’t going out of business any time soon. And their expertise in running one of the biggest sites on the Net makes them very capable and managing servers.&lt;/p&gt;
@@ -2695,9 +2695,9 @@ providers results or clinical staff follow through.&lt;/p&gt;
  
  <entry>
    <title>MU Smoking Status Template</title>
-   <link href="http://unchart.com//software/2011/03/31/mu-smoking-status-template/"/>
+   <link href="http://unchart.com//2011/mu-smoking-status-template/"/>
    <updated>2011-03-31T15:03:05-07:00</updated>
-   <id>http://unchart.com/software/2011/03/31/mu-smoking-status-template</id>
+   <id>http://unchart.com/2011/mu-smoking-status-template</id>
    <content type="html">&lt;p&gt;I actually changed the orange starred part of the template so I can document both for MU and PQRI (tobacco assessment clinical )quality measure. So I only have to document the status once and then if I prescribe a smoking cessation medication or counsel a patient (and document in the plan section) I get credit for both.&lt;/p&gt;
 
 &lt;p&gt;The tobacco assessment and counseling measure that is part of the MU Clinical Quality Measure rule isn’t tracked by the MU codes in the orange star tobacco template. That report uses the PQRI codes as dictated by CMS. e-mds doesn’t have those codes as part of the tobacco template (only the MU codes).&lt;/p&gt;
@@ -2725,9 +2725,9 @@ the second part of the report is actual intervention - that gets satisfied if yo
  
  <entry>
    <title>Using Notice Processor to find overdue patients</title>
-   <link href="http://unchart.com//software/2011/03/31/using-notice-processor-to-find-overdue-patients/"/>
+   <link href="http://unchart.com//2011/using-notice-processor-to-find-overdue-patients/"/>
    <updated>2011-03-31T06:16:59-07:00</updated>
-   <id>http://unchart.com/software/2011/03/31/using-notice-processor-to-find-overdue-patients</id>
+   <id>http://unchart.com/2011/using-notice-processor-to-find-overdue-patients</id>
    <content type="html">&lt;p&gt;Hopefully this post will only be needed for historical value. Notice processor &lt;em&gt;from a usability standpoint is a crime against humanity.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Here’s how I find my diabetic patients who haven’t been in the clinic for 6 months. (Note: if they came for a cold 3 month ago, they’d not be caught. Still generally this report works well enough.)&lt;/p&gt;
@@ -2744,9 +2744,9 @@ the second part of the report is actual intervention - that gets satisfied if yo
  
  <entry>
    <title>Duplicate Names Report</title>
-   <link href="http://unchart.com//business/software/2011/03/28/duplicate-names-report/"/>
+   <link href="http://unchart.com//2011/duplicate-names-report/"/>
    <updated>2011-03-28T20:55:38-07:00</updated>
-   <id>http://unchart.com/business/software/2011/03/28/duplicate-names-report</id>
+   <id>http://unchart.com/2011/duplicate-names-report</id>
    <content type="html">&lt;p&gt;We add a special pop up alert to patients who have a name that is the same or similar to existing patients.  For example, I worry about a medical assistant calling someone with lab results and not noticing that they have the wrong “Bob Smith.”  A pop-up doesn’t solve the problem, but at least the pop up will make our better staff double-check DOB.  This is also good for catching patients who have two charts (you’ll notice same/similar name and same DOB).&lt;/p&gt;
 
 &lt;p&gt;(&lt;strong&gt;This is a tremendous report!&lt;/strong&gt; Reduce Name errors. This is a patient safety issue. – &lt;em&gt;JP&lt;/em&gt;)&lt;/p&gt;
@@ -2766,9 +2766,9 @@ the second part of the report is actual intervention - that gets satisfied if yo
  
  <entry>
    <title>Patient Phone List</title>
-   <link href="http://unchart.com//business/software/2011/03/28/patient-phone-list/"/>
+   <link href="http://unchart.com//2011/patient-phone-list/"/>
    <updated>2011-03-28T20:49:12-07:00</updated>
-   <id>http://unchart.com/business/software/2011/03/28/patient-phone-list</id>
+   <id>http://unchart.com/2011/patient-phone-list</id>
    <content type="html">&lt;p&gt;Also just a lookup report (like the e-mail one).  Since the demographic search only allows a search of the home phone.  Sometimes we miss a patient call or just jot down a phone number and need to find the patient in the system.  This report searches the home, cell and work fields.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/files/2011/03/Patient-Phone-Report.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Patient Phone Report&lt;/a&gt;&lt;/p&gt;
@@ -2786,9 +2786,9 @@ the second part of the report is actual intervention - that gets satisfied if yo
  
  <entry>
    <title>Patient Email List</title>
-   <link href="http://unchart.com//business/software/2011/03/28/patient-email-list/"/>
+   <link href="http://unchart.com//2011/patient-email-list/"/>
    <updated>2011-03-28T20:46:36-07:00</updated>
-   <id>http://unchart.com/business/software/2011/03/28/patient-email-list</id>
+   <id>http://unchart.com/2011/patient-email-list</id>
    <content type="html">&lt;p&gt;This is just a lookup report which checks both e-mail fields in patient demographics.  We sometimes get e-mails from existing patients, but they don’t think to include their full name on the e-mail.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/files/2011/03/Patient-e-Mail.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Patient e-Mail&lt;/a&gt;&lt;/p&gt;
@@ -2808,9 +2808,9 @@ the second part of the report is actual intervention - that gets satisfied if yo
  
  <entry>
    <title>Next Day Chart Covers</title>
-   <link href="http://unchart.com//business/software/2011/03/28/next-day-chart-covers/"/>
+   <link href="http://unchart.com//2011/next-day-chart-covers/"/>
    <updated>2011-03-28T20:42:46-07:00</updated>
-   <id>http://unchart.com/business/software/2011/03/28/next-day-chart-covers</id>
+   <id>http://unchart.com/2011/next-day-chart-covers</id>
    <content type="html">&lt;p&gt;We run this every afternoon for the following days appointments.  Prints out a simple one page form to verify demographic information for patients that haven’t been to the clinic in a while ()45 Days).  Patient makes any corrections directly on the page and we scan to docman.  There is a small known issue where more than one copy prints for some patients, but information is identical.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/files/2011/03/Chart-Covers.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Chart Covers&lt;/a&gt;&lt;/p&gt;
@@ -2828,9 +2828,9 @@ the second part of the report is actual intervention - that gets satisfied if yo
  
  <entry>
    <title>Pop Ups with No Boxes</title>
-   <link href="http://unchart.com//business/software/2011/03/28/pop-ups-with-no-boxes/"/>
+   <link href="http://unchart.com//2011/pop-ups-with-no-boxes/"/>
    <updated>2011-03-28T20:38:25-07:00</updated>
-   <id>http://unchart.com/business/software/2011/03/28/pop-ups-with-no-boxes</id>
+   <id>http://unchart.com/2011/pop-ups-with-no-boxes</id>
    <content type="html">&lt;p&gt;Our staff chronically write pop up alerts and forget to check any of the boxes.  This looks for those instances so we can manually correct.  It’s a quick fix, so I run it about one a week.&lt;/p&gt;
 
 &lt;p&gt;(My &lt;a href=&quot;http://unchart.com/2011/macro-to-add-flowsheets-in-e-mds/&quot;&gt;macro for looping through charts&lt;/a&gt; could be useful with this. Add the account number and then loop through the alerts. – &lt;em&gt;JP&lt;/em&gt;)&lt;/p&gt;
@@ -2850,9 +2850,9 @@ the second part of the report is actual intervention - that gets satisfied if yo
  
  <entry>
    <title>Appointments made more than 45 days ago</title>
-   <link href="http://unchart.com//business/software/2011/03/28/appointments-made-more-than-45-days-ago/"/>
+   <link href="http://unchart.com//2011/appointments-made-more-than-45-days-ago/"/>
    <updated>2011-03-28T13:32:20-07:00</updated>
-   <id>http://unchart.com/business/software/2011/03/28/appointments-made-more-than-45-days-ago</id>
+   <id>http://unchart.com/2011/appointments-made-more-than-45-days-ago</id>
    <content type="html">&lt;p&gt;Appointments Made More than 45 Days Ago. We noticed that a lot of our no-
 shows were attributable to patients who made their appointment several months in
 advance. Calling these patients 24-48 hours in advance was too late. So no, we
@@ -2874,9 +2874,9 @@ has cut our no-show rate by about 2%.&lt;/p&gt;
  
  <entry>
    <title>Using (Not Just Medical) Dragon with e-MDs</title>
-   <link href="http://unchart.com//software/theory/2011/03/27/using-dragon-with-e-mds/"/>
+   <link href="http://unchart.com//2011/using-dragon-with-e-mds/"/>
    <updated>2011-03-27T18:12:15-07:00</updated>
-   <id>http://unchart.com/software/theory/2011/03/27/using-dragon-with-e-mds</id>
+   <id>http://unchart.com/2011/using-dragon-with-e-mds</id>
    <content type="html">&lt;p&gt;Voice Recognition has been just around the corner for at least 5 years. My clinic has a number of docs who’ve been pretty sucessful over the years. We bought Dragon Professional years ago and spent some &lt;em&gt;serious cash&lt;/em&gt; on some Medical Vocabularies. I’ve tried it repeatedly over the years but my dictation is pretty error-prone and frustrating. I get motivated for a while and then lose steam a week or two later. Anyone who’s read any of this site will know: I use the keyboard (with macros and abbreviations galore.)&lt;/p&gt;
 
 &lt;p&gt;But I’ve hit a &lt;a href=&quot;http://unchart.com/2011/how-much-time-can-macros-save/&quot;&gt;local maximum&lt;/a&gt; and more macros/abbreviations won’t really save me time. If I try to re-design my workflow for speed, I need better ways of doing 2 things.&lt;/p&gt;
@@ -2958,9 +2958,9 @@ return
  
  <entry>
    <title>Preclicks by Template or by Provider</title>
-   <link href="http://unchart.com//software/2011/03/22/preclicks-by-template-or-by-provider/"/>
+   <link href="http://unchart.com//2011/preclicks-by-template-or-by-provider/"/>
    <updated>2011-03-22T21:37:02-07:00</updated>
-   <id>http://unchart.com/software/2011/03/22/preclicks-by-template-or-by-provider</id>
+   <id>http://unchart.com/2011/preclicks-by-template-or-by-provider</id>
    <content type="html">&lt;p&gt;This report may seem worthless – who cares what preclicks your partners have or what tempates get the most ‘preclick love’?&lt;/p&gt;
 
 &lt;p&gt;This report could be a great source of &lt;a href=&quot;http://unchart.com/2011/practice-based-evidence/&quot;&gt;Practice-based Evidence.&lt;/a&gt;&lt;/p&gt;
@@ -2973,9 +2973,9 @@ return
  
  <entry>
    <title>How much time can Macros Save?</title>
-   <link href="http://unchart.com//software/theory/2011/03/20/how-much-time-can-macros-save/"/>
+   <link href="http://unchart.com//2011/how-much-time-can-macros-save/"/>
    <updated>2011-03-20T19:42:30-07:00</updated>
-   <id>http://unchart.com/software/theory/2011/03/20/how-much-time-can-macros-save</id>
+   <id>http://unchart.com/2011/how-much-time-can-macros-save</id>
    <content type="html">&lt;p&gt;In the background of my computer, I’ve been tracking my work lately – at a very low level. How many mouseclicks? How many characters typed? Honestly, sometimes it feels like that’s my job description. &lt;/p&gt;
 
 &lt;p&gt;I’ve been using Autohotkey for macros and abbreviations for most of the 3 years I have used e-MDs. I’ve got dozens of macros, and hundreds-to-thousands of abbreviations/typo corrections. How much time does all that macroing save?&lt;/p&gt;
@@ -3050,9 +3050,9 @@ return
  
  <entry>
    <title>Charting efficiency in e-MDs</title>
-   <link href="http://unchart.com//software/2011/03/18/charting-efficiency-in-e-mds/"/>
+   <link href="http://unchart.com//2011/charting-efficiency-in-e-mds/"/>
    <updated>2011-03-18T22:25:54-07:00</updated>
-   <id>http://unchart.com/software/2011/03/18/charting-efficiency-in-e-mds</id>
+   <id>http://unchart.com/2011/charting-efficiency-in-e-mds</id>
    <content type="html">&lt;p&gt;In my post about &lt;a href=&quot;http://unchart.com/2011/snappy-charting/&quot;&gt;snappy charting&lt;/a&gt; I talked about some of the theories about making charting fast.
 Ranging from big to small, here’s the toolset e-MDs provides for efficient charting.&lt;/p&gt;
 
@@ -3101,9 +3101,9 @@ Ranging from big to small, here’s the toolset e-MDs provides for efficient cha
  
  <entry>
    <title>Practice-based Evidence</title>
-   <link href="http://unchart.com//theory/2011/03/18/practice-based-evidence/"/>
+   <link href="http://unchart.com//2011/practice-based-evidence/"/>
    <updated>2011-03-18T22:17:40-07:00</updated>
-   <id>http://unchart.com/theory/2011/03/18/practice-based-evidence</id>
+   <id>http://unchart.com/2011/practice-based-evidence</id>
    <content type="html">&lt;p&gt;Evidence-based medicine (EBM) has been a fad in medical training and practice over the last decade. The premise is straightforward: use the best available evidence when making clinical decisions. The gold standard is the randomized double-blind large scale clinical trial. Generally we think of this as the most reliable form of evidence. It’s not perfect (&lt;a href=&quot;http://jama.ama-assn.org/content/287/21/2847.full&quot;&gt;publishing bias&lt;/a&gt; can even effect the &lt;a href=&quot;http://jama.ama-assn.org/content/294/2/218.abstract&quot;&gt;most popular studies&lt;/a&gt;.)&lt;/p&gt;
 
 &lt;p&gt;In training, this seemed pretty simple. I just needed to learn the results of the key clinical trials and then I’d know what to do when I was taking care of patients. Any practicing doc know how naive this is. Though patients are rightly wowed by the night health segment on the news, the reality is that most of what we do is not resultant from gold-standard evidence. Anecdotes and personal experience and expert opinion are more common than we wish they were. &lt;/p&gt;
@@ -3126,9 +3126,9 @@ Ranging from big to small, here’s the toolset e-MDs provides for efficient cha
  
  <entry>
    <title>How to organize MU Benchmarks.</title>
-   <link href="http://unchart.com//software/2011/03/07/how-to-organize-mu-benchmarks/"/>
+   <link href="http://unchart.com//2011/how-to-organize-mu-benchmarks/"/>
    <updated>2011-03-07T21:00:35-08:00</updated>
-   <id>http://unchart.com/software/2011/03/07/how-to-organize-mu-benchmarks</id>
+   <id>http://unchart.com/2011/how-to-organize-mu-benchmarks</id>
    <content type="html">&lt;p&gt;One of the main troubles with Meaningful Use (MU) is that there are so many benchmarks. It’s great to have them all (now we have an agreed upon target) but keeping track is a pain. In my practice we’ve got a dozen providers. As it stands now, we’d need to run report after report after report to see where we are. And if we’re not careful, we’d waste hundreds of pages of paper in the process. Just entering all the parameters to run the reports will take real time. &lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Ahh, a dashboard&lt;/em&gt;. People think data visualization is about making everything simplify down to just a few key speedometers. Sure, as we get close to compliance, it may be a single “Go, No Go” type metric of do we meet all the intended benchmarks.&lt;/p&gt;
@@ -3175,9 +3175,9 @@ Ranging from big to small, here’s the toolset e-MDs provides for efficient cha
  
  <entry>
    <title>Snappy Charting</title>
-   <link href="http://unchart.com//theory/2011/03/04/snappy-charting/"/>
+   <link href="http://unchart.com//2011/snappy-charting/"/>
    <updated>2011-03-04T15:32:43-08:00</updated>
-   <id>http://unchart.com/theory/2011/03/04/snappy-charting</id>
+   <id>http://unchart.com/2011/snappy-charting</id>
    <content type="html">&lt;p&gt;&lt;em&gt;Note: This article requires 20+ minutes to read the accompanying materials and videos.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;With all these Gigaherz and Gigabytes and stuff, why is charting so slow?&lt;/p&gt;
@@ -3228,9 +3228,9 @@ Ranging from big to small, here’s the toolset e-MDs provides for efficient cha
  
  <entry>
    <title>Visit Summary Cleanup (1.0)</title>
-   <link href="http://unchart.com//business/2011/03/01/visit-summary-cleanup-1-0/"/>
+   <link href="http://unchart.com//2011/visit-summary-cleanup-1-0/"/>
    <updated>2011-03-01T21:54:41-08:00</updated>
-   <id>http://unchart.com/business/2011/03/01/visit-summary-cleanup-1-0</id>
+   <id>http://unchart.com/2011/visit-summary-cleanup-1-0</id>
    <content type="html">&lt;p&gt;At it’s most basic, I’d like to make Visit Summaries usable for patients. This seriously doesn’t work for me:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;Document ID a5946a99-3ebb-44ad-8d6c-7ecbe59b1d11
@@ -3251,9 +3251,9 @@ Ranging from big to small, here’s the toolset e-MDs provides for efficient cha
  
  <entry>
    <title>Meaningful Use Benchmark Explanations</title>
-   <link href="http://unchart.com//business/software/2011/03/01/meaningful-use-benchmark-explanations/"/>
+   <link href="http://unchart.com//2011/meaningful-use-benchmark-explanations/"/>
    <updated>2011-03-01T18:47:35-08:00</updated>
-   <id>http://unchart.com/business/software/2011/03/01/meaningful-use-benchmark-explanations</id>
+   <id>http://unchart.com/2011/meaningful-use-benchmark-explanations</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;: New version 6/17/2011 by Chris. She says:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt; I took off the word Medicare in the percentage 
@@ -3279,9 +3279,9 @@ Ranging from big to small, here’s the toolset e-MDs provides for efficient cha
  
  <entry>
    <title>Macro to add flowsheets in e-MDs</title>
-   <link href="http://unchart.com//software/2011/02/23/macro-to-add-flowsheets-in-e-mds/"/>
+   <link href="http://unchart.com//2011/macro-to-add-flowsheets-in-e-mds/"/>
    <updated>2011-02-23T14:21:39-08:00</updated>
-   <id>http://unchart.com/software/2011/02/23/macro-to-add-flowsheets-in-e-mds</id>
+   <id>http://unchart.com/2011/macro-to-add-flowsheets-in-e-mds</id>
    <content type="html">&lt;p&gt;In our clinic we wanted to use vitals flowsheets but they were turned on in most charts. We have about 15K patients. So if it takes 15 seconds to open a chart and turn it on, you’ve got 62 hours of mindless clicking for someone to do.&lt;/p&gt;
 
 &lt;p&gt;e-MDs has a script (SQL) with this functionality but we couldn’t get it (it’s unofficial/unsupported.)&lt;/p&gt;
@@ -3339,9 +3339,9 @@ sleep, 1000
  
  <entry>
    <title>Health Stats, 2010</title>
-   <link href="http://unchart.com//theory/2011/02/18/health-stats-2010/"/>
+   <link href="http://unchart.com//2011/health-stats-2010/"/>
    <updated>2011-02-18T06:39:18-08:00</updated>
-   <id>http://unchart.com/theory/2011/02/18/health-stats-2010</id>
+   <id>http://unchart.com/2011/health-stats-2010</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Percent of people who avoided or delayed care, by insurance&lt;/strong&gt;&lt;br /&gt;
 &lt;img src=&quot;/files/2011/02/Screen-shot-2011-02-18-at-6.29.15-AM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -3355,9 +3355,9 @@ sleep, 1000
  
  <entry>
    <title>Meaningful Click for e-MDs</title>
-   <link href="http://unchart.com//software/2011/02/08/meaningful-click/"/>
+   <link href="http://unchart.com//2011/meaningful-click/"/>
    <updated>2011-02-08T15:51:38-08:00</updated>
-   <id>http://unchart.com/software/2011/02/08/meaningful-click</id>
+   <id>http://unchart.com/2011/meaningful-click</id>
    <content type="html">&lt;p&gt;With Meaningful Use there will be a lot more clicking in life. Making sure that a patient’s chart is up to date (Problems, Allergies, Medications, etc) is more important than ever. Especially now that patients will be getting copies of their clinical summaries with many visits.&lt;/p&gt;
 
 &lt;p&gt;Meaningful Click is an app for Docs using e-MDs that accelerates patient chart review. It allows you to tab through a review and updated things quickly with macro goodness. Using the macro makes it less error prone and faster.&lt;/p&gt;
@@ -3405,9 +3405,9 @@ sleep, 1000
  
  <entry>
    <title>Meaningful Use Map and Kickoff</title>
-   <link href="http://unchart.com//business/2011/02/04/meaningful-use-map-and-kickoff/"/>
+   <link href="http://unchart.com//2011/meaningful-use-map-and-kickoff/"/>
    <updated>2011-02-04T07:23:01-08:00</updated>
-   <id>http://unchart.com/business/2011/02/04/meaningful-use-map-and-kickoff</id>
+   <id>http://unchart.com/2011/meaningful-use-map-and-kickoff</id>
    <content type="html">&lt;p&gt;Jargon really complicates Meaningful Use discussions. When talking about prescriptions, say, one person might be thinking about the input (CPOE) while another is thinking about transmission (electronic). Or one person talks about clinical decision support while the other hears clinical reporting.&lt;/p&gt;
 
 &lt;p&gt;Here’s my solution. Print this out huge and put it in your conference room. It’s color-coded by major MU goal (improving care is yellow, engaging patients/families is orange, etc)&lt;/p&gt;
@@ -3426,9 +3426,9 @@ sleep, 1000
  
  <entry>
    <title>E-MDs Interface Janitor</title>
-   <link href="http://unchart.com//software/2011/01/30/e-mds-interface-janitor/"/>
+   <link href="http://unchart.com//2011/e-mds-interface-janitor/"/>
    <updated>2011-01-30T10:41:29-08:00</updated>
-   <id>http://unchart.com/software/2011/01/30/e-mds-interface-janitor</id>
+   <id>http://unchart.com/2011/e-mds-interface-janitor</id>
    <content type="html">&lt;p&gt;e-MDs  doesn’t really allow much customization of the chart interface. It’s trying to be everything to everyone. That means I use it all day long and have buttons that I haven’t clicked in 3 years. If I could customize it might look more like this. Wish I could make it not waste so much vertical resolution. &lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/files/2011/01/photo-1.jpg&quot;&gt;&lt;img src=&quot;/files/2011/01/photo-1-300x225.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -3437,9 +3437,9 @@ sleep, 1000
  
  <entry>
    <title>Gamification</title>
-   <link href="http://unchart.com//theory/2011/01/30/gamification/"/>
+   <link href="http://unchart.com//2011/gamification/"/>
    <updated>2011-01-30T10:02:34-08:00</updated>
-   <id>http://unchart.com/theory/2011/01/30/gamification</id>
+   <id>http://unchart.com/2011/gamification</id>
    <content type="html">&lt;p&gt;Video games are controversial. And they have reputation of being a tremendous waste of time. I think the average doc doesn’t see any connection between gaming and charting. But there’s a growing understanding that gaming is a powerful force for behavior change. Gaming elements could be used to improve the care doctors provide or used to improve adherence in patients.&lt;/p&gt;
 
 &lt;h4 id=&quot;dice-2010-jesse-schell&quot;&gt;DICE 2010, Jesse Schell&lt;/h4&gt;
@@ -3459,9 +3459,9 @@ sleep, 1000
  
  <entry>
    <title>Readability</title>
-   <link href="http://unchart.com//theory/2011/01/29/readability/"/>
+   <link href="http://unchart.com//2011/readability/"/>
    <updated>2011-01-29T20:45:43-08:00</updated>
-   <id>http://unchart.com/theory/2011/01/29/readability</id>
+   <id>http://unchart.com/2011/readability</id>
    <content type="html">&lt;p&gt;There are too many forms in life that seem to be written by lawyers.  Here’s Alan Siegel’s 5 minute video on simplifying jargon.&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -3473,9 +3473,9 @@ sleep, 1000
  
  <entry>
    <title>Rooming by Assistant (Month) Report</title>
-   <link href="http://unchart.com//software/2011/01/29/rooming-by-assistant-month-report/"/>
+   <link href="http://unchart.com//2011/rooming-by-assistant-month-report/"/>
    <updated>2011-01-29T19:45:01-08:00</updated>
-   <id>http://unchart.com/software/2011/01/29/rooming-by-assistant-month-report</id>
+   <id>http://unchart.com/2011/rooming-by-assistant-month-report</id>
    <content type="html">&lt;p&gt;Here’s a summary report of rooming by assistant (summarized by month). This could be used to manage assistants and monitor their effectiveness. Or to spot inefficiencies in the practice.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/files/2011/01/rooming-by-assistant-month.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Rooming by assistant (month) report&lt;/a&gt;&lt;/p&gt;
@@ -3484,9 +3484,9 @@ sleep, 1000
  
  <entry>
    <title>Pharmacy Frequency Report</title>
-   <link href="http://unchart.com//software/2011/01/29/pharmacy-frequency-report/"/>
+   <link href="http://unchart.com//2011/pharmacy-frequency-report/"/>
    <updated>2011-01-29T19:39:45-08:00</updated>
-   <id>http://unchart.com/software/2011/01/29/pharmacy-frequency-report</id>
+   <id>http://unchart.com/2011/pharmacy-frequency-report</id>
    <content type="html">&lt;p&gt;This lists pharmacies in order of popularity. I put office phone numbers on it because I wanted a short list of phone numbers to have on my phone. Interesting to see where your prescriptions go. Considering all the work related to pharmacies, it seems like you could use it to streamline processes with a few of your most important pharmacies.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/files/2011/01/Pharmacy-Frequency.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Pharmacy Frequency Report&lt;/a&gt;&lt;/p&gt;
@@ -3495,9 +3495,9 @@ sleep, 1000
  
  <entry>
    <title>Injection Opiates Report</title>
-   <link href="http://unchart.com//software/2011/01/29/injection-opiates-report/"/>
+   <link href="http://unchart.com//2011/injection-opiates-report/"/>
    <updated>2011-01-29T19:25:05-08:00</updated>
-   <id>http://unchart.com/software/2011/01/29/injection-opiates-report</id>
+   <id>http://unchart.com/2011/injection-opiates-report</id>
    <content type="html">&lt;p&gt;A report of all the inejction opiates given in a timeframe. (May need adjustment if your clinic uses different injectables.)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/files/2011/01/Narcotic-Report.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Injectable Opiates Report&lt;/a&gt;&lt;/p&gt;
@@ -3506,9 +3506,9 @@ sleep, 1000
  
  <entry>
    <title>Patient Portal Form</title>
-   <link href="http://unchart.com//theory/2011/01/29/patient-portal-form/"/>
+   <link href="http://unchart.com//2011/patient-portal-form/"/>
    <updated>2011-01-29T19:02:50-08:00</updated>
-   <id>http://unchart.com/theory/2011/01/29/patient-portal-form</id>
+   <id>http://unchart.com/2011/patient-portal-form</id>
    <content type="html">&lt;p&gt;Here’s our Patient Portal form.  Re-worked for readability and simplicity.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/files/2011/01/Screen-shot-2011-01-29-at-6.59.15-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -3527,9 +3527,9 @@ sleep, 1000
  
  <entry>
    <title>HIPAA Form</title>
-   <link href="http://unchart.com//theory/2011/01/29/hipaa-form/"/>
+   <link href="http://unchart.com//2011/hipaa-form/"/>
    <updated>2011-01-29T18:57:30-08:00</updated>
-   <id>http://unchart.com/theory/2011/01/29/hipaa-form</id>
+   <id>http://unchart.com/2011/hipaa-form</id>
    <content type="html">&lt;p&gt;Here’s our HIPPA form.  Re-worked for readability and simplicity.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/files/2011/01/Screen-shot-2011-01-29-at-6.52.55-PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -3541,9 +3541,9 @@ sleep, 1000
  
  <entry>
    <title>e-MDs Macros</title>
-   <link href="http://unchart.com//software/2011/01/29/e-mds-macros/"/>
+   <link href="http://unchart.com//2011/e-mds-macros/"/>
    <updated>2011-01-29T12:09:54-08:00</updated>
-   <id>http://unchart.com/software/2011/01/29/e-mds-macros</id>
+   <id>http://unchart.com/2011/e-mds-macros</id>
    <content type="html">&lt;p&gt;Here’s my package of e-MDs macros. You can see the source and compile it with Autohotkey. &lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Your “I’m done” makes me one fast dude, and I’ve used it for most of a year. –&lt;strong&gt;Keith Toms, MD. Hopkinsville, KY&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
@@ -3582,9 +3582,9 @@ The &lt;strong&gt;‘I’m Done’ button&lt;/strong&gt; (Win-Spacebar) quickly 
  
  <entry>
    <title>Data Driven Practice</title>
-   <link href="http://unchart.com//theory/2011/01/29/data-driven-practice/"/>
+   <link href="http://unchart.com//2011/data-driven-practice/"/>
    <updated>2011-01-29T10:52:25-08:00</updated>
-   <id>http://unchart.com/theory/2011/01/29/data-driven-practice</id>
+   <id>http://unchart.com/2011/data-driven-practice</id>
    <content type="html">&lt;p&gt;In 2010, I did a talk at the e-MDs User Conference:&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/jploudre/data-driven-practice-with-emds&quot;&gt;Data Driven Practice with e-MDs&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -3612,9 +3612,9 @@ The &lt;strong&gt;‘I’m Done’ button&lt;/strong&gt; (Win-Spacebar) quickly 
  
  <entry>
    <title>Chronic Pain Documentation</title>
-   <link href="http://unchart.com//software/2011/01/29/chronic-pain-documentation/"/>
+   <link href="http://unchart.com//2011/chronic-pain-documentation/"/>
    <updated>2011-01-29T10:27:23-08:00</updated>
-   <id>http://unchart.com/software/2011/01/29/chronic-pain-documentation</id>
+   <id>http://unchart.com/2011/chronic-pain-documentation</id>
    <content type="html">&lt;p&gt;In 2008 I did some templates for e-MDs that you still can find on the supportcenter. These are based on a validated documentation tool called PADT.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/files/2011/01/32d2a8e7d0154c8d881e7e1502ac9bb3.zip&quot;&gt;&lt;img src=&quot;/files/2011/01/57-download.png&quot; alt=&quot;&quot; /&gt; Chronic Pain Followup.zip&lt;/a&gt;&lt;/p&gt;
@@ -3632,9 +3632,9 @@ The &lt;strong&gt;‘I’m Done’ button&lt;/strong&gt; (Win-Spacebar) quickly 
  
  <entry>
    <title>Un-Unsigned</title>
-   <link href="http://unchart.com//software/2011/01/29/un-unsigned/"/>
+   <link href="http://unchart.com//2011/un-unsigned/"/>
    <updated>2011-01-29T10:01:28-08:00</updated>
-   <id>http://unchart.com/software/2011/01/29/un-unsigned</id>
+   <id>http://unchart.com/2011/un-unsigned</id>
    <content type="html">&lt;p&gt;Much e-MDs is focused on visits to the doctor. (Chart, Bill, Schedule). But it also  has panel-managment tools like Order Tracking, Refills, Unsigned Notes. These let you at a glance see how your practice is doing overall.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Un-Unsigned&lt;/strong&gt; is a panel management tool for making sure that you’re signing off the thousands of documents that come your way. It helps you mistake-proof against things being mishandled. It automates flipping through unsigned scans and labs.&lt;/p&gt;
@@ -3668,9 +3668,9 @@ The &lt;strong&gt;‘I’m Done’ button&lt;/strong&gt; (Win-Spacebar) quickly 
  
  <entry>
    <title>Prevention Checklist</title>
-   <link href="http://unchart.com//software/2011/01/29/prevention-checklist/"/>
+   <link href="http://unchart.com//2011/prevention-checklist/"/>
    <updated>2011-01-29T09:50:59-08:00</updated>
-   <id>http://unchart.com/software/2011/01/29/prevention-checklist</id>
+   <id>http://unchart.com/2011/prevention-checklist</id>
    <content type="html">&lt;p&gt;Here’s my checklist maker for preventative recommendations in e-MDs. It uses a Word Form, pulls the patients age/sex from the form, and then creates an individualized checklist. So 22yo male will get different recommendations than a 64yo female.&lt;/p&gt;
 
 &lt;p&gt;Consider this a proof-of-concept as of 5/5/2010. I’m still refining it for my use and hope to eventually parse through the patient’s problem list for secondary prevention recommendations. But it’s working for my use.&lt;/p&gt;
@@ -3687,9 +3687,9 @@ The &lt;strong&gt;‘I’m Done’ button&lt;/strong&gt; (Win-Spacebar) quickly 
  
  <entry>
    <title>e-MDs Custom Reports</title>
-   <link href="http://unchart.com//software/2011/01/29/e-mds-custom-reports/"/>
+   <link href="http://unchart.com//2011/e-mds-custom-reports/"/>
    <updated>2011-01-29T09:45:44-08:00</updated>
-   <id>http://unchart.com/software/2011/01/29/e-mds-custom-reports</id>
+   <id>http://unchart.com/2011/e-mds-custom-reports</id>
    <content type="html">&lt;p&gt;My group started e-MDs in 2008 – we’ve been reasonably impressed overall. But out of the box, e-MDs can’t really deliever on the ‘digital promise’. Once things are bits instead of atoms (say, e-MDs instead of paper charts) it should be easy to slice and dice information in new ways. It’s that slicing of info that really kicks it up a notch: &lt;/p&gt;
 
 &lt;ul&gt;
@@ -3713,9 +3713,9 @@ The &lt;strong&gt;‘I’m Done’ button&lt;/strong&gt; (Win-Spacebar) quickly 
  
  <entry>
    <title>Well Child Registry</title>
-   <link href="http://unchart.com//software/2011/01/26/well-child-registry-2/"/>
+   <link href="http://unchart.com//2011/well-child-registry-2/"/>
    <updated>2011-01-26T17:43:19-08:00</updated>
-   <id>http://unchart.com/software/2011/01/26/well-child-registry-2</id>
+   <id>http://unchart.com/2011/well-child-registry-2</id>
    <content type="html">&lt;p&gt;This report searches visits in the past three years for well child visits. It lists them by patient with the patient’s current age (in months), and their age at each visit (in months again). It makes it quick to see which patients are overdue.&lt;/p&gt;
 
 &lt;p&gt;“I used your well child recall report 2 weeks ago and got some kids back in with it. – Keith Toms, MD”&lt;/p&gt;
@@ -3754,9 +3754,9 @@ The &lt;strong&gt;‘I’m Done’ button&lt;/strong&gt; (Win-Spacebar) quickly 
  
  <entry>
    <title>Find and textutil</title>
-   <link href="http://unchart.com//software/2006/03/06/find-and-textutil/"/>
+   <link href="http://unchart.com//2006/find-and-textutil/"/>
    <updated>2006-03-06T09:15:26-08:00</updated>
-   <id>http://unchart.com/software/2006/03/06/find-and-textutil</id>
+   <id>http://unchart.com/2006/find-and-textutil</id>
    <content type="html">&lt;p&gt;I recently had a huge folder of word documents that I wanted to make into text documents. Unfortunately they were spread in a number of subfolders. Since there were about 36K files, I sure didn’t want to do this manually. (I was going to use these files to setup Dragon Naturally Speaking.)&lt;/p&gt;
 
 &lt;p&gt;Mac OS X 10.4 has a function called textutil that allows conversion between different types of files. So what I needed was a way to feed it the name of every file. As it turned out, the solution was relatively short and sweet. This is the power of command line.&lt;/p&gt;
@@ -3814,9 +3814,9 @@ The &lt;strong&gt;‘I’m Done’ button&lt;/strong&gt; (Win-Spacebar) quickly 
  
  <entry>
    <title>Auto-sorting Chart Notes</title>
-   <link href="http://unchart.com//software/2005/02/01/auto-sorting-chart-notes/"/>
+   <link href="http://unchart.com//2005/auto-sorting-chart-notes/"/>
    <updated>2005-02-01T09:11:49-08:00</updated>
-   <id>http://unchart.com/software/2005/02/01/auto-sorting-chart-notes</id>
+   <id>http://unchart.com/2005/auto-sorting-chart-notes</id>
    <content type="html">&lt;p&gt;Has this ever happened to you? A patient comes in to tell you about a problem, and, golly, they don’t tell you the story in the order that you want to chart it. The patient tells you some HPI, then mentions a bit of social history, skips to medical history and goes back to the HPI. In one sentence.&lt;/p&gt;
 
 &lt;p&gt;I mentioned this problem to some acquaintances who use &lt;a href=&quot;http://barebones.com&quot;&gt;BBEdit&lt;/a&gt; and one of them whipped out a short &lt;a href=&quot;http://perl.com&quot;&gt;perl&lt;/a&gt; script that auto-sorts the note.&lt;/p&gt;
@@ -3885,9 +3885,9 @@ foreach my $key ( sort { $list{$a} &amp;lt;=&amp;gt; $list{$b} } keys %storage) 
  
  <entry>
    <title>Google Tricks</title>
-   <link href="http://unchart.com//software/2005/01/29/google-tricks/"/>
+   <link href="http://unchart.com//2005/google-tricks/"/>
    <updated>2005-01-29T08:45:59-08:00</updated>
-   <id>http://unchart.com/software/2005/01/29/google-tricks</id>
+   <id>http://unchart.com/2005/google-tricks</id>
    <content type="html">&lt;p&gt;Google is definitely one of my core tools as a geek. I am often in a conversation and I think of how I could choose 3 words that would  have google get me the answer to a question. Anyhow: I’m reading &lt;em&gt;Google Hacks&lt;/em&gt; by O’reilly and thoght I should record my favorites for future use. These ‘keywords’ allow you to limit searches to useful subsets.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -3909,9 +3909,9 @@ foreach my $key ( sort { $list{$a} &amp;lt;=&amp;gt; $list{$b} } keys %storage) 
  
  <entry>
    <title>Charting Efficiency</title>
-   <link href="http://unchart.com//theory/2005/01/27/charting-efficiency/"/>
+   <link href="http://unchart.com//2005/charting-efficiency/"/>
    <updated>2005-01-27T06:31:15-08:00</updated>
-   <id>http://unchart.com/theory/2005/01/27/charting-efficiency</id>
+   <id>http://unchart.com/2005/charting-efficiency</id>
    <content type="html">&lt;h3 id=&quot;why-is-charting-efficiency-so-important&quot;&gt;Why is Charting Efficiency so Important?&lt;/h3&gt;
 
 &lt;p&gt;If you’ve done this business for any amount of time, that seems like a silly question. There is so much work to be done that no doc has time to waste on charting. Everyone develops shortcuts and tricks to  try and save time. Examples:&lt;/p&gt;
@@ -3944,9 +3944,9 @@ foreach my $key ( sort { $list{$a} &amp;lt;=&amp;gt; $list{$b} } keys %storage) 
  
  <entry>
    <title>A Better Way to Search the AAFP Site</title>
-   <link href="http://unchart.com//software/2005/01/23/a-better-way-to-search-the-aafp-site/"/>
+   <link href="http://unchart.com//2005/a-better-way-to-search-the-aafp-site/"/>
    <updated>2005-01-23T08:35:55-08:00</updated>
-   <id>http://unchart.com/software/2005/01/23/a-better-way-to-search-the-aafp-site</id>
+   <id>http://unchart.com/2005/a-better-way-to-search-the-aafp-site</id>
    <content type="html">&lt;p&gt;Reading through &lt;a href=&quot;http://www.amazon.com/exec/obidos/tg/detail/-/0596004478/qid=1076563948//ref=sr_8_xs_ap_i1_xgl14/104-5723696-2099150?v=glance&amp;s;=books&amp;n;=507846&quot;&gt;Google Hacks&lt;/a&gt; and thought of a way to search the AAFP website for articles useful to a Family Doctor (the printable PDFs).&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -3960,9 +3960,9 @@ foreach my $key ( sort { $list{$a} &amp;lt;=&amp;gt; $list{$b} } keys %storage) 
  
  <entry>
    <title>Backup Fundamentals</title>
-   <link href="http://unchart.com//hardware/2005/01/22/backup-fundamentals/"/>
+   <link href="http://unchart.com//2005/backup-fundamentals/"/>
    <updated>2005-01-22T08:30:59-08:00</updated>
-   <id>http://unchart.com/hardware/2005/01/22/backup-fundamentals</id>
+   <id>http://unchart.com/2005/backup-fundamentals</id>
    <content type="html">&lt;p&gt;Having an electronic medical chart requires a well coordinated backup strategy. It’s not all that complex – despite what computer professionals will tell you. The basics of backup have not changed in the last decade and they are not likely to change in the next. What changes are the details like what type of media (floppies became Zip Disks became Writeable CDs became Writeable DVDs.) So Here are the fundamentals:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -3988,9 +3988,9 @@ foreach my $key ( sort { $list{$a} &amp;lt;=&amp;gt; $list{$b} } keys %storage) 
  
  <entry>
    <title>Fax Popularity (Technology that just won’t die.)</title>
-   <link href="http://unchart.com//hardware/2005/01/22/fax-popularity-technology-that-just-wont-die/"/>
+   <link href="http://unchart.com//2005/fax-popularity-technology-that-just-wont-die/"/>
    <updated>2005-01-22T08:28:14-08:00</updated>
-   <id>http://unchart.com/hardware/2005/01/22/fax-popularity-technology-that-just-wont-die</id>
+   <id>http://unchart.com/2005/fax-popularity-technology-that-just-wont-die</id>
    <content type="html">&lt;p&gt;Fax Machine are ‘old-school’. It made sense back when all the documents were paper (read: analog documents.) Nowadays people are taking their digital documents and faxing them through their modems. Seems like a bad idea on the surface – you lose all the benefits of a digtality. Digtal documents don’t take up space and can be easily filed or searched.&lt;/p&gt;
 
 &lt;p&gt;An article on &lt;a href=&quot;http://slashdot.org/articles/03/12/28/2055229.shtml?tid=126&quot;&gt;Slashdot&lt;/a&gt; explores why fax technology has not yet died. In particular, the &lt;a href=&quot;http://news.bbc.co.uk/2/hi/uk_news/magazine/3320515.stm&quot;&gt;BBC Magazine Article&lt;/a&gt; explains some of the reasons why faxing seems to be gaining popularity. There has been a growth of fax-email gateways. That lets people fax straight to e-mail or e-mail straight to fax.&lt;/p&gt;

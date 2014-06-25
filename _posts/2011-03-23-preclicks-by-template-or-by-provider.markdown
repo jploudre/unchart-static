@@ -15,7 +15,7 @@ tags:
 
 This report may seem worthless -- who cares what preclicks your partners have or what tempates get the most 'preclick love'?
 
-This report could be a great source of [Practice-based Evidence.](http://unchart.com/2011/practice-based-evidence/)
+This report could be a great source of [Practice-based Evidence.](/2011/practice-based-evidence/)
 
 ![](/files/2011/03/preclick-by-template.png)
 

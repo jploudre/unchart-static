@@ -20,7 +20,7 @@ This report is a simple measure of patient-centered continuity. So, when one of 
 
 It's a basic percentage of billed office/hospital visits -- new or established patients. There are more sophisticated measures like the [MMCI](http://www.ncbi.nlm.nih.gov/pubmed/3806028) but this is more data/inisight than most practices ever consider.
 
-The report covers the last 365 days before the report and summarizes by month. Like I said in [Data Driven Practice](http://unchart.com/2011/data-driven-practice/), the right number of parameters is usually *Zero*. So there's intentionally no options.
+The report covers the last 365 days before the report and summarizes by month. Like I said in [Data Driven Practice](/2011/data-driven-practice/), the right number of parameters is usually *Zero*. So there's intentionally no options.
 
 [![](/files/2011/01/57-download.png) Continuity Crystal Report](/files/2011/05/continuity.zip)
 
@@ -36,7 +36,7 @@ The report covers the last 365 days before the report and summarizes by month. L
 
 ---------------------------------
 
-I wish it was that easy: just manage and improve continuity. If you asked me a year ago, access/continuity would have been one of my big successes at my clinic. I had created this and a few other related reports. We had a decent single-page dashboard that you can see in my [data driven practice presentation](http://unchart.com/2011/data-driven-practice/). It was a way to use [Practice-based Evidence](http://unchart.com/2011/practice-based-evidence/) to improve care.
+I wish it was that easy: just manage and improve continuity. If you asked me a year ago, access/continuity would have been one of my big successes at my clinic. I had created this and a few other related reports. We had a decent single-page dashboard that you can see in my [data driven practice presentation](/2011/data-driven-practice/). It was a way to use [Practice-based Evidence](/2011/practice-based-evidence/) to improve care.
 
 ![](/files/2011/05/cowboy.jpg)
 

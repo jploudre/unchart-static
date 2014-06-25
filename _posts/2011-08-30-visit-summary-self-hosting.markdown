@@ -17,7 +17,7 @@ tags:
 **Note:** *This is a post from 8/2011 -- this article won't stay up to date. If you are going to self-host, you need to pull original files off the server.*
 
 
-When I first got e-MDs 7.0, one of the first things I did was look at the Visit Summary. As I went to lunch a few minutes later, I brainstormed how I could bypass the formatting and create my own theme. I originally imagined putting up this set of downloadable files. Unfortunately, my plan for formatting requires a web server. And my regular server (for unchart.com) wasn't going to work. So I figured out how to host on [Amazon's Web Services](http://unchart.com/2011/amazon-web-services/). I've been pretty pleased with the performance. 
+When I first got e-MDs 7.0, one of the first things I did was look at the Visit Summary. As I went to lunch a few minutes later, I brainstormed how I could bypass the formatting and create my own theme. I originally imagined putting up this set of downloadable files. Unfortunately, my plan for formatting requires a web server. And my regular server (for unchart.com) wasn't going to work. So I figured out how to host on [Amazon's Web Services](/2011/amazon-web-services/). I've been pretty pleased with the performance. 
 
 Here are my raw files. You can host it yourself if you think you'll have better uptime than I do. Hopefully e-MDs will make this superfluous but we'll have to see what they do in  7.3.
 
