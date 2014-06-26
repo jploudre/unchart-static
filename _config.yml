@@ -14,5 +14,5 @@ author:
   name:           Jonathan Ploudre
   url:            https://twitter.com/jploudre
   email:          jploudre@gmail.com
-
-category_archive: category_archive
+  
+category_dir:     topics
